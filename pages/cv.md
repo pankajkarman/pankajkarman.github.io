@@ -4,26 +4,27 @@
 .. date: 2020-05-04 20:18:58 UTC
 .. tags: 
 .. category: 
-.. link: 
+.. link: cv.pdf
 .. description: 
 .. type: text
 -->
 
 **PANKAJ KUMAR**
 
-Centre for Oceans, Rivers, Atmosphere and Land Sciences +91-7061255826
+Centre for Oceans, Rivers, Atmosphere and Land Sciences
 
 Indian Institute of Technology Kharagpur
-[[pankaj.kmr1990\@gmail.com]{.underline}](mailto:pankaj.kmr1990@gmail.com)
 
 Kharagpur, West Bengal, India 721302
 
 **EDUCATION**
 
-**PhD in Earth System Science and Technology Present** Indian Institute
-of Technology Kharagpur, Kharagpur, India
+**PhD in Earth System Science and Technology Present** 
+
+Indian Institute of Technology Kharagpur, Kharagpur, India
 
 **Master of Technology in Earth System Science and Technology 2017**
+
 Indian Institute of Technology Kharagpur, Kharagpur, India
 
 **Bachelor of Engineering in Mechanical Engineering 2012**
@@ -47,9 +48,6 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   **Atmospheric modeling**: WRF, GEOS-Chem, climlab
 
-```{=html}
-<!-- -->
-```
 -   **Radiative Transfer Modeling**: RRTMG
 
 **Analytics Tools**

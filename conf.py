@@ -140,7 +140,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
-        ("/bio/index.html", "Bio"),
+        ("/cv/index.html", "CV"),
+        ("/profile_to_col/index.html", "Profile data to column conversion"),
     ),
 }
 
@@ -250,7 +251,7 @@ TIMEZONE = "UTC"
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'yyyy-MM-dd HH:mm'
+DATE_FORMAT = 'yyyy-MM-dd'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
@@ -553,7 +554,7 @@ FRONT_INDEX_HEADER = {
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
 # Create one large archive instead of per-year
-# CREATE_SINGLE_ARCHIVE = False
+CREATE_SINGLE_ARCHIVE = True
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
 # CREATE_FULL_ARCHIVES = False
@@ -1113,10 +1114,10 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -1207,7 +1208,52 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = (
+  '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">'
+  '<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">'
+)
+
+CONTENT_FOOTER = '''
+<div class="text-center">
+<p>
+<span class="fa-stack fa-2x">
+<a href="https://github.com/pankajkarman">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-github fa-inverse fa-stack-1x"></i>
+</a>
+</span>
+<span class="fa-stack fa-2x">
+  <a href="https://www.linkedin.com/in/pankaj-kumar-0a411013/">
+    <i class="fa fa-square fa-stack-2x"></i>
+    <i class="fa fa-linkedin fa-inverse fa-stack-1x"></i>
+  </a>
+</span>
+<span class="fa-stack fa-2x">
+  <a href="https://scholar.google.com/citations?user=Xg0YAlQAAAAJ&hl">
+     <i class="ai ai-google-scholar-square ai-2x"></i>
+  </a>
+</span>
+<span class="fa-stack fa-2x">
+  <a href="https://twitter.com/scientistno2">
+    <i class="fa fa-twitter-square fa-stack-2x"></i>
+  </a>
+</span>
+<span class="fa-stack fa-2x">
+  <a href="mailto:pankaj.kmr1990@gmail.com">
+    <i class="fa fa-square fa-stack-2x"></i>
+    <i class="fa fa-envelope fa-inverse fa-stack-1x"></i>
+  </a>
+</span>
+</p>
+<p>
+  Contents &copy; {date}  {author}
+  &mdash;
+  {license}
+  &mdash;
+  Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
+</p>
+</div>
+'''
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
