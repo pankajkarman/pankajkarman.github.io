@@ -7,14 +7,14 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2020-05-04T19:38:00Z</lastmod>
+  <lastmod>2020-05-04T21:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
-  <lastmod>2020-05-04T19:38:00Z</lastmod>
+  <lastmod>2020-05-04T21:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2020-05-04T19:38:00Z</lastmod>
+  <lastmod>2020-05-04T21:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/</loc>
-  <lastmod>2020-05-04T19:36:00Z</lastmod>
+  <lastmod>2020-05-04T21:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/2020/</loc>
@@ -15,11 +15,27 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2020-05-04T19:38:00Z</lastmod>
+  <lastmod>2020-05-04T21:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/bio/</loc>
+  <lastmod>2020-05-04T20:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/blog/</loc>
+  <lastmod>2020-05-04T20:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/blog/bio/</loc>
+  <lastmod>2020-05-04T20:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
   <lastmod>2020-05-04T19:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/cv/</loc>
+  <lastmod>2020-05-04T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/galleries/</loc>
@@ -32,5 +48,9 @@
  <url>
   <loc>https://example.com/posts/bio/</loc>
   <lastmod>2020-05-04T19:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/profile_to_col/</loc>
+  <lastmod>2020-05-04T20:29:00Z</lastmod>
  </url>
 </urlset>
