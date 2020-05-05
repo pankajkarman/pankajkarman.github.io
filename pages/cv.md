@@ -141,10 +141,10 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical
     teleconnection and climate impacts of tropospheric ozone variability
-    in Antarctica*, NCPS, Goa, August 2019.
+    in Antarctica*, National Conference on Polar Sciences, Goa, August 2019.
 
 -   Jayanarayanan Kuttippurath and **Pankaj Kumar**: *Polar Ozone and
-    Climate Change*, NCPS, Goa, August 2019.
+    Climate Change*, National Conference on Polar Sciences, Goa, August 2019.
 
 -   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and
     Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
