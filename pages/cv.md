@@ -1,5 +1,5 @@
 <!--
-.. title: cv
+.. title: Curriculum Vitae
 .. slug: cv
 .. date: 2020-05-04 20:18:58 UTC
 .. tags: 
@@ -9,25 +9,17 @@
 .. type: text
 -->
 
-**PANKAJ KUMAR**
-
-Centre for Oceans, Rivers, Atmosphere and Land Sciences
-
-Indian Institute of Technology Kharagpur
-
-Kharagpur, West Bengal, India 721302
-
 **EDUCATION**
 
-**PhD in Earth System Science and Technology Present** 
+**Doctor of Philosophy, Atmospheric physics and chemistry, 2017 - Present** 
 
 Indian Institute of Technology Kharagpur, Kharagpur, India
 
-**Master of Technology in Earth System Science and Technology 2017**
+**Master of Technology, Earth System Science and Technology, 2015 - 2017**
 
 Indian Institute of Technology Kharagpur, Kharagpur, India
 
-**Bachelor of Engineering in Mechanical Engineering 2012**
+**Bachelor of Engineering, Mechanical Engineering, 2008 - 2012**
 
 Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
@@ -37,7 +29,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 **Data Science Skills**
 
--   **Statistical Learning**: Bayesian Data Analysis and Parameter
+-   **Statistical Learning**: Bayesian analysis and Parameter
     Estimation (MLE, MAP, MCMC), Regression, Classification and
     Clustering, Time series analysis (State space models, MLR, DLM),
     Deep learning, and Explainable Artificial Intelligence.
@@ -52,17 +44,15 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 **Analytics Tools**
 
--   **Statistical Learning**: Statsmodels, Scikit-learn, Keras, PyMC3,
-    PyStan.
+-   **Statistical Learning**: Statsmodels, Scikit-learn, Keras, PyMC3, PyStan.
 
 -   **Data visualization**: Matplotlib, Seaborn in Python.
 
--   **Mathematical optimization**: Scipy in Python.
+-   **Mathematical optimization**: Scipy, Scikit-Optimize in Python.
 
 -   **RADAR Data Analysis**: wradlib in Python.
 
--   **Geospatial Data Analysis**: gdal, rasterio, xarray, geopandas,
-    Google Earth Engine
+-   **Geospatial Data Analysis**: gdal, rasterio, xarray, geopandas, Google Earth Engine
 
 -   **Parallel Programming**: dask, joblib in Python.
 
@@ -74,7 +64,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 **RESEARCH EXPERIENCE**
 
-**Research Scholar, ATMOS Lab, PhD 2017 -- Present**
+**Research Scholar, ATMOS Lab, PhD, 2017 - Present**
 
 -   Setup WRF-Chem and GEOS-Chem for atmospheric composition studies.
 
@@ -108,7 +98,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   Carried out radiative transfer modeling using RRTMG for radiative
     forcing estimation.
 
-**Research Assistant, ATMOS Lab, MTech 2016 -- 2017**
+**Research Assistant, ATMOS Lab, MTech, 2016 - 2017**
 
 -   Compared long term total column ozone datasets from various ground
     based instruments with satellite based observations in Antarctic
@@ -121,7 +111,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   Investigated freezing of water droplet and subsequent transformation
     of its shape numerically using **MATLAB**.
 
-**Undergraduate project, BE 2011 -- 2012**
+**Undergraduate project, BE, 2011 - 2012**
 
 -   Carried out numerical investigation of natural convection in Bingham
     fluids within a square enclosure with differentially heated
@@ -140,14 +130,12 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of
     ozone recovery evidenced by reduction in the occurrence of Antarctic
-    ozone loss saturation*, npj Climate and Atmospheric Science, 2018,
-    doi:10.1038/s41612-018-0052-6.
+    ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy
     of satellite total column ozone measurements in polar vortex
     conditions: Comparison with ground-based observations in
-    1979--2013*, Remote Sensing of Environment, Volume 209, 2018,
-    doi:10.1016/j.rse.2018.02.
+    1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
 
 **CONFERENCES**
 
@@ -161,12 +149,12 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and
     Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
     Vortex conditions: Comparison to TOMS/OMI observations during
-    1979-2013*, EGU General Assembly, Vienna, April 2017.
+    1979-2013*, [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf)
 
 -   Rohit Kumar Shukla, Chithra Shaji, Satya P Ojha, and **Pankaj
     Kumar**: *A study on the seasonal variability of upwelling and its
-    effects on physical parameters in Arabian Sea,* EGU General
-    Assembly, Vienna, April 2017.
+    effects on physical parameters in Arabian Sea*, 
+    [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf)
 
 **AWARDS**
 
