@@ -141,7 +141,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
         ("/cv/index.html", "CV"),
+        ("/research/index.html", "Research"),
         ("/projects/index.html", "Projects"),
+        ("/news/index.html", "News"),
         ("/archive.html", "Posts"),
     ),
 }

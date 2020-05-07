@@ -9,11 +9,12 @@
 .. type: text
 -->
 
-<img src="/images/me.png" align="right" width="140" HSPACE="50" VSPACE="0" />
+<img src="/images/me.png" align="right" width="170" HSPACE="50" VSPACE="0">
 
-<p>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assests/embed.js'>
+</script>
+
 Hi. My name is Pankaj. I am an atmospheric scientist and a machine learning enthusiast, currently pursuing PhD at the Indian Institute of Technology Kharagpur under [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS) in ATMOS group. My main research interests lie at the intersection of Bayesian statistics, machine learning and physical models. Being an atmospheric scientist, I study weather/climate and chemistry interactions using Bayesian statistics and explainable machine learning, and develop open source tools for atmospheric modeling and analysis. 
-</p>
 
 I graduated from the Indian Institute of Technology Kharagpur with a masters degree in Earth System Science and Technology in 2017, where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the fields of Atmospheric Chemistry and Physics, I had a brief gig at a metal fabrication and processing company. I have a BE degree in Mechanical Engineering with distinction from Birla Institute of Technology. 
 
@@ -33,12 +34,11 @@ If you want to get in touch with me, you can contact me by various channels with
 
 **Papers**
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assests/embed.js'></script>
-
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic
     ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)
     
-<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi='10.1038/s41612-018-0052-6'></div>
+<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi='10.1038/s41612-018-0052-6'>
+</div>
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
 
