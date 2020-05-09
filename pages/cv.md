@@ -126,7 +126,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     Petropavlovskikh, B. Johnson, Audra McClure-Begley, P.
     Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez:
     *Climate impact of tropospheric ozone trends in Antarctica,*
-    Proceedings of the National Academy of Sciences, 2020, under review.
+    Environmental Science & Technology, under review..
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of
     ozone recovery evidenced by reduction in the occurrence of Antarctic
@@ -135,7 +135,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy
     of satellite total column ozone measurements in polar vortex
     conditions: Comparison with ground-based observations in
-    1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
+    1979-2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
 
 **CONFERENCES**
 
