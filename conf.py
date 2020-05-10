@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
         ("/research/index.html", "Research"),
         ("/projects/index.html", "Projects"),
         ("/news/index.html", "News"),
-        ("/archive.html", "Posts"),
+        ("/archive.html", "Blog"),
     ),
 }
 

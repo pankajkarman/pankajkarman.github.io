@@ -40,16 +40,21 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic
     ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)   
 
-<div class="row justify-content-end">
-<div class="col-4">
+<div class="d-flex flex-row justify-content-center align-items-center">
+<div class="col-3">
 <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1038/s41612-018-0052-6' data-badge-popover="left"></div>
 </div>
-<div class="col-4">
+<div class="col-2">
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41612-018-0052-6" data-hide-zero-citations="true" data-legend="hover-right"></span>
 </div>
 </div>
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
+
+
+<div class="d-flex flex-row justify-content-center align-items-center"><div class="col-2">
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2018.02.054" data-hide-zero-citations="true" data-legend="hover-right"></span>
+</div></div>
 
 **Conferences**
 
