@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://pankajkarman.github.io/</loc>
-  <lastmod>2020-05-09T22:28:00Z</lastmod>
+  <lastmod>2020-05-10T12:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/archive.html</loc>
@@ -36,6 +36,10 @@
  <url>
   <loc>https://pankajkarman.github.io/cv/</loc>
   <lastmod>2020-05-04T21:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pankajkarman.github.io/ex/</loc>
+  <lastmod>2020-05-10T12:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/galleries/</loc>
