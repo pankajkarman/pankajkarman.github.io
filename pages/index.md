@@ -9,14 +9,14 @@
 .. type: text
 -->
 
-<img src="/images/me.png" align="right" width="180" HSPACE="50" VSPACE="0">
+<img src="/images/me.png" align="right" width="160" HSPACE="50" VSPACE="0">
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assests/embed.js'>
 </script>
 
 Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at Indian Institute of Technology (IIT) Kharagpur under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include bayesian statistics, explainable artificial intelligence, causal network analysis, deep learning and atmospheric chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical and physical models, and develop open source tools for modeling and analysis.
 
-I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physcis, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT).
+I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physics, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT).
 
 **News Highlights**
 
@@ -31,20 +31,6 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 - Times of India - [Antarctic ozone hole is healing: iit kharagpur study, Dec 12, 2018.](https://eisamay.indiatimes.com/west-bengal-news/kolkata-news/iit-kharagpur-antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/67054882.cms)
 
 - New Indian Express - [Antarctic Ozone hole is healing: IIT Kharagpur study, November 30, 2018. ](https://www.newindianexpress.com/nation/2018/nov/30/antarctic-ozone-hole-is-healing-iit-kharagpur-study-1905380.html)
-
-- Outlook - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, November 30, 2018. ](https://www.outlookindia.com/newsscroll/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole/1431364)
-
-- The Quint - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, November 30, 2018. ](https://www.thequint.com/news/hot-news/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole)
-
-- Firstpost - [Antarctic Ozone hole healing confirmed in new study by IIT Kharagpur researchers, December 01, 2018. ](https://www.firstpost.com/tech/science/antarctic-ozone-hole-healing-confirmed-in-new-study-by-iit-kharagpur-researchers-5651941.html)
-
-- Business Standard - [Antarctic Ozone hole is healing: IIT Kharagpur study, November 30, 2018. ](https://www.business-standard.com/article/pti-stories/antarctic-ozone-hole-is-healing-iit-kharagpur-study-118113000249_1.html)
-
-- Economic Times - [Antarctic Ozone hole is healing: IIT Kharagpur study, November 30, 2018. ](https://economictimes.indiatimes.com/news/science/antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/66876851.cms)
-
-- Financial Express - [IIT Kharagpur study claims Antarctic Ozone hole on healing path, November 30, 2018. ](https://www.financialexpress.com/lifestyle/science/iit-kharagpur-study-claims-antarctic-ozone-hole-on-healing-path/1398946/)
-
-- Manorama - [Ozone hole over Antarctica is healing: IIT Kharagpur researcher, November 30, 2018. ](https://english.manoramaonline.com/lifestyle/news/2018/11/30/ozone-hole-antarctica-healing-iit-kharagpur.html)
 
 **Papers**
 

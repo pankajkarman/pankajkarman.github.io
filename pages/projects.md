@@ -9,11 +9,11 @@
 .. type: text
 -->
 
-These are all projects under development and will be made open shortly.
+These are all projects under development, and will be made open shortly.
 
 **Open source projects**
 
-- [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert a table from pandas to latex or markdown format.
+- [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert tables from pandas to latex or markdown format.
 
 - [Autoencoder based clustering using self organising maps (AuSOM)](https://github.com/pankajkarman/AuSOM): It is a python library to perform SOM based clustering of trajectories using sequence-to-sequence autoencoder. It is still under development, and will be open shortly.
 
