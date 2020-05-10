@@ -11,8 +11,9 @@
 
 <img src="/images/me.png" align="right" width="160" HSPACE="50" VSPACE="0">
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assests/embed.js'>
-</script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at Indian Institute of Technology (IIT) Kharagpur under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include bayesian statistics, explainable artificial intelligence, causal network analysis, deep learning and atmospheric chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical and physical models, and develop open source tools for modeling and analysis.
 
@@ -28,7 +29,7 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 
 - India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018. ](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
 
-- Times of India - [Antarctic ozone hole is healing: iit kharagpur study, Dec 12, 2018.](https://eisamay.indiatimes.com/west-bengal-news/kolkata-news/iit-kharagpur-antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/67054882.cms)
+- Times of India - [Antarctic ozone hole is healing: IIT Kharagpur study, Dec 12, 2018.](https://eisamay.indiatimes.com/west-bengal-news/kolkata-news/iit-kharagpur-antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/67054882.cms)
 
 - New Indian Express - [Antarctic Ozone hole is healing: IIT Kharagpur study, November 30, 2018. ](https://www.newindianexpress.com/nation/2018/nov/30/antarctic-ozone-hole-is-healing-iit-kharagpur-study-1905380.html)
 
@@ -37,9 +38,15 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 -   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* Environmental Science & Technology, under review.
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic
-    ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)
-    
-<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi='10.1038/s41612-018-0052-6'>
+    ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)   
+
+<div class="row justify-content-end">
+<div class="col-4">
+<div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1038/s41612-018-0052-6' data-badge-popover="left"></div>
+</div>
+<div class="col-4">
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41612-018-0052-6" data-hide-zero-citations="true" data-legend="hover-right"></span>
+</div>
 </div>
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)

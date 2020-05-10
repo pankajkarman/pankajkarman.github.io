@@ -19,9 +19,9 @@ Here, I'll list media portals which covered our research.
 
 - India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018.](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
 
-- Times of India (Bangla) - [Antarctic ozone hole is healing: iit kharagpur study, Dec 12, 2018.](https://eisamay.indiatimes.com/west-bengal-news/kolkata-news/iit-kharagpur-antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/67054882.cms)
+- Times of India (Bangla) - [Antarctic ozone hole is healing: IIT Kharagpur study, Dec 12, 2018.](https://eisamay.indiatimes.com/west-bengal-news/kolkata-news/iit-kharagpur-antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/67054882.cms)
 
-- Indian Express (Bangla) - [IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole , Dec 05, 2018.](https://bengali.indianexpress.com/technology/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-55320/?fbclid=IwAR09W53fdf13_AkDc8vzAK1otvQm8PGZi2YwW7Ut2YmEfVDs0S7EbaxzT6o)
+- Indian Express (Bangla) - [IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole, Dec 05, 2018.](https://bengali.indianexpress.com/technology/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-55320/?fbclid=IwAR09W53fdf13_AkDc8vzAK1otvQm8PGZi2YwW7Ut2YmEfVDs0S7EbaxzT6o)
 
 - New Indian Express - [Antarctic Ozone hole is healing: IIT Kharagpur study, November 30, 2018.](https://www.newindianexpress.com/nation/2018/nov/30/antarctic-ozone-hole-is-healing-iit-kharagpur-study-1905380.html)
 
