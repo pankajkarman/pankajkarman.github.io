@@ -25,19 +25,17 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 
 - NDTV - [IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole, November 30, 2018. ](https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054)
 
-- Dainik Bhaskar - [Antarctic ozone hole is healing IIT Kharagpur study reveals, November 29, 2018. ](https://www.bhaskar.com/health/healthy-life/news/antarctic-ozone-hole-is-healing-iit-kharagpur-study-reveals-01345077.html)
-
 - India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018. ](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
-
-- Times of India - [Antarctic ozone hole is healing: IIT Kharagpur study, Dec 12, 2018.](https://eisamay.indiatimes.com/west-bengal-news/kolkata-news/iit-kharagpur-antarctic-ozone-hole-is-healing-iit-kharagpur-study/articleshow/67054882.cms)
-
-- New Indian Express - [Antarctic Ozone hole is healing: IIT Kharagpur study, November 30, 2018. ](https://www.newindianexpress.com/nation/2018/nov/30/antarctic-ozone-hole-is-healing-iit-kharagpur-study-1905380.html)
 
 **Papers**
 
+-   **P. Kumar**: *Pattern recognition using Autoencoder based Deep representation of air-parcel trajectories,* in preparation.
+
+-   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
+
 -   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* Environmental Science & Technology, under review.
 
--   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic
+-   J. Kuttippurath, **P. Kumar**, P. J. Nair,  and P. C. Pandey: *Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic
     ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)   
 
 <div class="d-flex flex-row justify-content-center align-items-center">
@@ -49,7 +47,7 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 </div>
 </div>
 
--   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
+-   J. Kuttippurath, **P. Kumar**, P. J. Nair, and A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
 
 
 <div class="d-flex flex-row justify-content-center align-items-center"><div class="col-2">
