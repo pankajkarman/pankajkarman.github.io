@@ -18,14 +18,10 @@
 <meta property="og:site_name" content="Pankaj Kumar">
 <meta property="og:title" content="Projects">
 <meta property="og:url" content="https://pankajkarman.github.io/projects/">
-<meta property="og:description" content="These are all projects under development, and will be made open shortly.
-Open source projects
+<meta property="og:description" content="markdown-scholar: A python tool to convert tables from pandas to latex or markdown format.
 
 
-markdown-scholar: A python tool to convert tables from pandas to latex or markdown format.
-
-
-Artifical-I">
+water-droplet-freezing: MATLAB and python codes for numerical investigation of freezing of sessile water dr">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2020-05-05T20:11:51+05:30">
 </head>
@@ -85,21 +81,61 @@ navbar-dark bg-dark
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <div>
-<p>These are all projects under development, and will be made open shortly.</p>
-<p><strong>Open source projects</strong></p>
-<ul>
+    <ul>
 <li>
 <p><a href="https://github.com/pankajkarman/markdown-scholar">markdown-scholar</a>: A python tool to convert tables from pandas to latex or markdown format.</p>
+</li>
+<li>
+<p><a href="https://github.com/pankajkarman/water-droplet-freezing">water-droplet-freezing</a>: MATLAB and python codes for <a href="https://aapt.scitation.org/doi/abs/10.1119/1.4726201?journalCode=ajp">numerical investigation of freezing of sessile water droplet and subsequent transformation of its shape</a>. It simulated the evolution of the interaction between all three phase of water droplet after being placed on a supercooled plate. The repository will be made open very soon.</p>
 </li>
 <li>
 <p><a href="https://github.com/pankajkarman/Artifical-Intelligence-Projects">Artifical-Intelligence-Projects</a>: A collection of projects implementing various machine learning methods from scratch in python. It also contains a project implementing a Question answering model using Dynamic memory network (DMN) based on Stanford Question Answering Dataset (SQuAD) dataset.</p>
 </li>
 <li>
-<p>HyTraj: It is a python library, still under development, for performing receptor modeling using trajectories generated with HYSPLIT model. It'll have functions for generating large number of air-parcel trajectories with parallel processing; reducing the trajectories generation time. It will also have appropriate tools for clustering trajectories using different clustering techniques. </p>
+<p>HyTraj: It is a python library, still under development, for performing receptor modeling using trajectories generated with HYSPLIT model. It'll have functions for generating large number of air-parcel trajectories with parallel processing; reducing the trajectories generation time. It will also have appropriate tools for clustering trajectories using different clustering techniques.</p>
 </li>
 <li>
-<p>land-use-land-cover-classification: A collection of python scripts to perform LULC analysis using satellite remote sensing data and Google Earth Engine platform using random forest and SVM classifiers. These scripts include functions for data preprocessing i.e. False color composite (FCC) creation, Digital Number (DN) conversion to Top of Atmosphere (TOA) Reflectance, Atmospheric correction using Dark object subtraction, cloud correction using timeseries data, color balancing, mosaicing and clipping of rasters using shapefiles, rasterisation of training shapefiles etc. Since a journal paper is under preparation based on the methods implemented in this repository, repository will be made public after the puplication of paper.</p>
+<p><a href="https://github.com/pankajkarman/AntAir">AntAir</a>: This project contains the draft paper and scripts for investigation of long-term trend in the sources of tropospheric ozone in Antarctica. It relies on HyTraj for trajectory generation, receptor modeling and clustering. A paper based on this project is under preparation. Codes will be made public after publication of the paper.</p>
+</li>
+<li>
+<p><a href="https://github.com/pankajkarman/AntTropOz">AntTropOz</a>: It contains the draft paper and analysis scripts of the paper <strong>Climate impact of tropospheric ozone trends in Antarctica</strong> which is under review at ES&amp;T. I intend to make it public once the paper is accepted for publication.</p>
+<p>The scripts include analysis codes for:</p>
+<ol>
+<li>Ozonesonde profile and surface ozone data preprocessing.</li>
+<li>Calulation of <a href="https://journals.ametsoc.org/doi/pdf/10.1175/1520-0442%282001%29014%3C3117%3ATTITPR%3E2.0.CO%3B2">Tropopause height</a> from sonde profiles.</li>
+<li>
+<a href="https://www.atmos-chem-phys.net/12/7475/2012/acp-12-7475-2012.html">Hellinger distance calculations among profiles</a>.</li>
+<li>
+<a href="https://www.mdpi.com/1999-4923/9/2/14">Weighted mean profile calculation</a> for unbalanced sonde dataset and <a href="https://www.sciencedirect.com/science/article/pii/S1674987117300981">chi-square correction</a>.</li>
+<li>
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD023641">SOM clustering of ozone profiles</a>. </li>
+<li>
+<a href="www.nature.com/articles/s41598-017-00722-7">Simple and Multivariate Linear Regression (MLR) trend calculations</a>.</li>
+<li>
+<a href="https://www.atmos-chem-phys.net/14/9707/2014/acp-14-9707-2014.html">Bayesian Dynamic linear model (DLM)</a> based ozone trend calculation.</li>
+<li>
+<a href="https://ieeexplore.ieee.org/document/8452052/">Airmass trajectory generation</a> and <a href="https://ieeexplore.ieee.org/document/7025203">clustering using wavelet features</a>.</li>
+<li>
+<a href="https://www.nature.com/articles/ncomms8105">Stratosphere-Troposphere Transport calculation</a>.</li>
+<li>
+<a href="https://www.nature.com/articles/s41467-019-10105-3">Causal Network Analysis</a> of tropospheric ozone.</li>
+<li>
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008JD009944">Radiative forcing calculaton using RRTMG</a>.</li>
+</ol>
+</li>
+<li>
+<p>land-use-land-cover-classification: A collection of python scripts to perform LULC analysis using satellite remote sensing data using random forest and SVM classifiers. Since a journal paper is under preparation based on the methods implemented in this repository, repository will be made public after the puplication of paper. These scripts include functions for data preprocessing:</p>
+<ol>
+<li>False color composite (FCC) creation.</li>
+<li>Digital Number (DN) conversion to Top of Atmosphere (TOA) Reflectance.</li>
+<li>Atmospheric correction using Dark Object Subtraction (DOS).</li>
+<li>Cloud correction using time series data.</li>
+<li>Color balancing using Contrast Local Adaptive Histogram Equalisation (CLAHE) and contrast stretching.</li>
+<li>Reprojection to WGS84 coordinates.</li>
+<li>Mosaicing and clipping of rasters using shapefile.</li>
+<li>Rasterize training shapefiles necessary for classification.</li>
+</ol>
+<p>It also implements the same using Google Earth Engine platform in python.</p>
 </li>
 <li>
 <p><a href="https://github.com/pankajkarman/AuSOM">Autoencoder based clustering using self organising maps (AuSOM)</a>: It is a python library to perform SOM based clustering of trajectories using sequence-to-sequence autoencoder. It is still under development, and will be open shortly. </p>
@@ -109,7 +145,6 @@ navbar-dark bg-dark
 </li>
 </ul>
 </div>
-    </div>
     
 
 </article><!--End of body content--><footer id="footer"><div class="text-center">
