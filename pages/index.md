@@ -63,3 +63,5 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 
 Click here for my [resume](../myfiles/resume.pdf) in pdf format. If you want to get in touch with me, you can contact me via various channels with the links provided below. I’ll be happy to connect with other people with similar interests.
 
+<div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div><script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="web page hit counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h" border="0" title="web page hit counter" alt="web page hit counter"></a></noscript>
+
