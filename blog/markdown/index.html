@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Writing papers in markdown | Pankaj Kumar</title>
+<title>Writing papers and reports in markdown | Pankaj Kumar</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
@@ -15,12 +15,13 @@
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <meta name="author" content="Pankaj Kumar">
-<link rel="prev" href="../profile-to-column-conversion/" title="profile to column conversion" type="text/html">
 <meta property="og:site_name" content="Pankaj Kumar">
-<meta property="og:title" content="Writing papers in markdown">
+<meta property="og:title" content="Writing papers and reports in markdown">
 <meta property="og:url" content="https://pankajkarman.github.io/blog/markdown/">
-<meta property="og:description" content="Link for markdown paper-template
-Here I'll describe how to write papers in markdown.">
+<meta property="og:description" content="This blog was inspired by this Peerj article.
+Disclosure: This blog was written in Markdown.
+Introduction
+A major time and cost factor during report/paper writing is the formatting of manuscripts. In ">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2020-05-08T06:46:34+05:30">
 </head>
@@ -75,7 +76,7 @@ navbar-dark bg-dark
         
         
         
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Writing papers in markdown</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Writing papers and reports in markdown</a></h1>
 
         <div class="metadata">
             <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
@@ -98,22 +99,195 @@ navbar-dark bg-dark
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
-<p><a href="https://github.com/pankajkarman/paper-template">Link for markdown paper-template</a></p>
-<p>Here I'll describe how to write papers in markdown.</p>
+<p>This blog was inspired by <a href="https://peerj.com/articles/cs-112.pdf">this Peerj article.</a></p>
+<p>Disclosure: This blog was written in Markdown.</p>
+<h3>Introduction</h3>
+<p>A major time and cost factor during report/paper writing is the formatting of manuscripts. In this blog, I'll explain how to write manuscripts in plain markdown text files, which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Not only that the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.</p>
+<blockquote>
+<p>The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.</p>
+</blockquote>
+<h3>A very brief markdown tutorial</h3>
+<p>Paragraphs are separated by a blank line.</p>
+<p>Here , special symbols are used for formatting texts.</p>
+<pre class="code literal-block"><span></span><code><span class="err"># A h1 header</span>
+<span class="err">## A h2 header</span>
+<span class="err">### A h3 header</span>
+</code></pre>
+
+
+<pre class="code literal-block"><span></span><code><span class="err">*Italic*, **bold** and ***both***</span>
+</code></pre>
+
+
+<p>Here is an unordered list:</p>
+<pre class="code literal-block"><span></span><code><span class="err">- apple</span>
+<span class="err">    - green apple</span>
+<span class="err">    - red apple</span>
+<span class="err">- banana</span>
+<span class="err">- orange</span>
+</code></pre>
+
+
+<p>and it would be rendered as</p>
+<blockquote>
+<ul>
+<li>apple<ul>
+<li>green apple</li>
+<li>red apple</li>
+</ul>
+</li>
+<li>banana</li>
+<li>orange</li>
+</ul>
+</blockquote>
+<p>Here is a numbered list:</p>
+<pre class="code literal-block"><span></span><code><span class="err">1. apple</span>
+<span class="err">    1. green apple</span>
+<span class="err">    1. red apple</span>
+<span class="err">2. banana</span>
+<span class="err">5. orange</span>
+</code></pre>
+
+
+<p>and it would be rendered as</p>
+<blockquote>
+<ol>
+<li>apple<ol>
+<li>green apple</li>
+<li>red apple</li>
+</ol>
+</li>
+<li>banana</li>
+<li>orange</li>
+</ol>
+</blockquote>
+<p>To write code, you indent it by 4 spaces or a tab. Markdown will guess what language you are writing</p>
+<pre class="code literal-block"><span></span><code><span class="err">    def main():</span>
+<span class="err">        print "Say Hello!!"</span>
+</code></pre>
+
+
+<p>would be rendered as</p>
+<pre class="code literal-block"><span></span><code><span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+      <span class="nb">print</span> <span class="s2">"Say Hello!!"</span>
+</code></pre>
+
+
+<p>You can specifiy which programming language you are using with delimited blocks if you wish</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```python
+def say_hello():
+    print('Hi Everybody')
+```</code></pre></div></div>
+
+<p>and it would be rendered as</p>
+<pre class="code literal-block"><span></span><code><span class="k">def</span> <span class="nf">say_hello</span><span class="p">():</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Hi Everybody'</span><span class="p">)</span>
+</code></pre>
+
+
+<p>Here is a link to the my website</p>
+<pre class="code literal-block"><span></span><code><span class="p">[</span><span class="n">Pankaj</span> <span class="n">Kumar</span><span class="p">](</span><span class="nl">https</span><span class="p">:</span><span class="c1">//pankajkarman.github.io/)</span>
+</code></pre>
+
+
+<p>and it would be rendered as </p>
+<blockquote>
+<p><a href="https://pankajkarman.github.io/">Pankaj Kumar</a></p>
+</blockquote>
+<p>Here is how to specify an image</p>
+<pre class="code literal-block"><span></span><code><span class="err">!</span><span class="o">[</span><span class="n">Caption</span><span class="o">]</span><span class="p">(</span><span class="n">images</span><span class="o">/</span><span class="n">ex</span><span class="p">.</span><span class="n">png</span><span class="p">)</span><span class="err">{</span><span class="n">width</span><span class="o">=</span><span class="mi">25</span><span class="o">%</span><span class="err">}</span><span class="w"></span>
+</code></pre>
+
+
+<p>which would be rendered as</p>
+<p><img alt="Caption" src="../../images/pk.jpg" width="35%"></p>
+<p>Here is how to insert a table</p>
+<pre class="code literal-block"><span></span><code><span class="p">|</span> <span class="nv">Syntax</span>      <span class="p">|</span> <span class="nv">Description</span> <span class="p">|</span> <span class="nv">Text</span>     <span class="p">|</span>
+<span class="p">|</span> <span class="p">:-</span><span class="s s-Atom">---</span>        <span class="p">|</span>    <span class="p">:-</span><span class="s s-Atom">---:</span>   <span class="p">|</span>          <span class="s s-Atom">----:</span> <span class="p">|</span>
+<span class="p">|</span> <span class="nv">Header</span>      <span class="p">|</span> <span class="nv">Title</span>       <span class="p">|</span> <span class="nv">Here</span><span class="err">'</span><span class="s s-Atom">s</span> <span class="s s-Atom">this</span>   <span class="p">|</span>
+<span class="p">|</span> <span class="nv">Paragraph</span>   <span class="p">|</span> <span class="nv">Text</span>        <span class="p">|</span> <span class="nv">And</span> <span class="s s-Atom">more</span>      <span class="p">|</span>
+</code></pre>
+
+
+<p>And it would be rendered as </p>
+<blockquote>
+<table>
+<thead><tr>
+<th align="left">Syntax</th>
+<th align="center">Description</th>
+<th align="right">Text</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="left">Header</td>
+<td align="center">Title</td>
+<td align="right">Here's this</td>
+</tr>
+<tr>
+<td align="left">Paragraph</td>
+<td align="center">Text</td>
+<td align="right">And more</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<pre class="code literal-block"><span></span><code><span class="err">A horizontal rule is given by 3 dashes as follows:</span>
+<span class="err">---</span>
+</code></pre>
+
+
+<p>would be rendered as </p>
+<hr>
+<pre class="code literal-block"><span></span><code><span class="err">~~Strikethrough text~~</span>
+</code></pre>
+
+
+<p>would be rendered as</p>
+<blockquote>
+<p><del>Strikethrough text</del></p>
+</blockquote>
+<pre class="code literal-block"><span></span><code><span class="k">Some</span> <span class="nb">text</span> <span class="o">~</span><span class="n">Subscript</span><span class="o">~</span>
+
+<span class="k">Some</span> <span class="nb">text</span> <span class="o">^</span><span class="n">Superscript</span><span class="o">^</span>
+</code></pre>
+
+
+<pre class="code literal-block"><span></span><code><span class="n">You</span> <span class="n">can</span> <span class="n">specify</span> <span class="n">an</span> <span class="n">inline</span> <span class="n">quation</span> <span class="k">like</span> <span class="n">latex</span> <span class="err">$</span><span class="n">x</span><span class="o">^</span><span class="mi">2</span><span class="o">+</span><span class="n">y</span><span class="o">^</span><span class="mi">2</span><span class="o">=</span><span class="n">z</span><span class="o">^</span><span class="mi">2</span><span class="err">$</span>
+
+<span class="k">Or</span> <span class="n">a</span> <span class="n">block</span> <span class="k">level</span> <span class="n">equation</span> <span class="k">with</span> <span class="n">two</span> <span class="n">dollar</span> <span class="n">signs</span> <span class="k">on</span> <span class="k">both</span> <span class="n">sides</span> <span class="k">of</span> <span class="n">the</span> <span class="n">equation</span><span class="p">:</span>
+<span class="err">$$\</span><span class="n">sum_</span><span class="err">{</span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="err">}</span><span class="o">^</span><span class="n">n</span> <span class="n">i</span><span class="o">^</span><span class="mi">2</span> <span class="o">=</span> <span class="err">\</span><span class="n">frac</span><span class="err">{</span><span class="p">(</span><span class="n">n</span><span class="o">^</span><span class="mi">2</span><span class="o">+</span><span class="n">n</span><span class="p">)(</span><span class="mi">2</span><span class="n">n</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span><span class="err">}{</span><span class="mi">6</span><span class="err">}$$</span>
+</code></pre>
+
+
+<h4>A list of useful links for further learning about Markdown</h4>
+<ul>
+<li><a href="https://www.markdownguide.org/extended-syntax/">Extended Markdown instrutions</a></li>
+<li>
+<a href="https://guides.github.com/features/mastering-markdown/">Github Flavoured Markdown</a> </li>
+<li><a href="https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/">Markdwon cheat sheet</a></li>
+<li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code">One More cheat sheet</a></li>
+</ul>
+<h4>Markdown Editors</h4>
+<p>While any plain text editor can work with markdown, there are some editors dedicated for markdown providing key bindings for common operations like making text bold, italic etc. Some of the open-source editors are:</p>
+<ul>
+<li><a href="remarkableapp.github.io">Remarkable</a></li>
+<li><a href="https://github.com/retext-project/retext">ReText</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+</ul>
+<h3>Writing reports/papers</h3>
+<p><a href="https://github.com/pankajkarman/paper-template">Link for markdown paper-template.</a></p>
+<p>Markdown depends on <a href="https://pandoc.org"><em>pandoc</em></a> for all conversion tasks. Please follow the steps mentioned in the above link for installation of all dependencies. Installation steps may differ depending on the operating system. Instruction mentioned in the link are pretty generic and can be easily followed on any operating system.</p>
+<p>A technical report is different from other writing formats in the sense that it contains tables, images and plenty of references with specific styles followed by different univeristies, organisations and journals. </p>
 </div>
     </div>
-    <aside class="postpromonav"><nav><ul class="pager hidden-print">
-<li class="previous">
-                <a href="../profile-to-column-conversion/" rel="prev" title="profile to column conversion">Previous post</a>
-            </li>
-        </ul></nav></aside><section class="comments hidden-print"><h2>Comments</h2>
+    <aside class="postpromonav"><nav></nav></aside><section class="comments hidden-print"><h2>Comments</h2>
         
         
         <div id="disqus_thread"></div>
         <script>
         var disqus_shortname ="pankajkarman",
             disqus_url="https://pankajkarman.github.io/blog/markdown/",
-        disqus_title="Writing papers in markdown",
+        disqus_title="Writing papers and reports in markdown",
         disqus_identifier="cache/posts/markdown.html",
         disqus_config = function () {
             this.language = "en";
