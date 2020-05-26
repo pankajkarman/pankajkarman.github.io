@@ -18,10 +18,10 @@
 <meta property="og:site_name" content="Pankaj Kumar">
 <meta property="og:title" content="Writing papers and reports in markdown">
 <meta property="og:url" content="https://pankajkarman.github.io/blog/markdown/">
-<meta property="og:description" content="This blog was inspired by this PeerJ article. and relies heavily on the same for content.
+<meta property="og:description" content="This blog was inspired by this PeerJ article and relies heavily on the same for content.
 Note: This blog was written in Markdown.
-Introduction
-From a writer's perspective , the use of What You See Is">
+Why Markdown?
+There are currently 2 options for academics seeking to w">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2020-05-08T06:46:34+05:30">
 </head>
@@ -99,10 +99,10 @@ navbar-dark bg-dark
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
-<p>This blog was inspired by <a href="https://peerj.com/articles/cs-112/">this PeerJ article.</a> and relies heavily on the same for content.</p>
+<p>This blog was inspired by <a href="https://peerj.com/articles/cs-112/">this PeerJ article</a> and relies heavily on the same for content.</p>
 <p><strong>Note:</strong> This blog was written in Markdown.</p>
-<h3>Introduction</h3>
-<p>From a writer's perspective , the use of What You See Is WHat You Get (WYSIWYG) such as Microsoft Word, WPS Office, or LIbreOffice might be convenient, because the formatting of the document is directy visible. But the complicated syntax specifications often result in problems when using different software versions and for collaborative writing. Simple conversions between file formats can be difficult or impossible. Academic writers might also face the problem of abruptive changes in the document structure; even with an insertion of a single letter. This becomes problematic while working on a large report leading to exasperation and frustation. On the other hand, Some people work with LaTeX; particularly in the scientific community. With LaTeX. documents with high typographic quality can be produced. However, the source files are cluttered with LaTeX. commands and the source text can be complicated to read. Therefore, LaTeX is not user friendly, especially for casual writers or beginners. </p>
+<h3>Why Markdown?</h3>
+<p>There are currently 2 options for academics seeking to write technical reports/papers: MIcrosoft Word or LaTeX. From a writer's perspective, the use of What You See Is What You Get (WYSIWYG) such as Microsoft Word, WPS Office, or LIbreOffice might be convenient, because the formatting of the document is directy visible. But the complicated syntax specifications often result in problems when using different software versions and for collaborative writing. Simple conversions between file formats can be difficult or impossible. Academic writers might also face the problem of abruptive changes in the document structure; even with an insertion of a single letter. This becomes problematic while working on a large report leading to exasperation and frustation. Not only that, these are very slow and can consume large virtual memory, upto a gig sometimes.</p>
 <p>It becomes problematic when you have to convert your files to different file formats for various reason. For example:</p>
 <blockquote>
 <ul>
@@ -111,13 +111,14 @@ navbar-dark bg-dark
 <li>For publishing a book with print version in PDF and an electronic versio in EPUB.</li>
 </ul>
 </blockquote>
-<p>A major time and cost factor during report/paper writing is the formatting of manuscripts. In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by <code>.md</code> file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Not only that the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.</p>
-<p>The figure below compares formatting elements and their implementations in different markup languages (<a href="https://peerj.com/articles/cs-112/">image source</a>).</p>
-<p><img alt="Markdown Comparison" src="../../images/mdcompare.png" width="96%"></p>
-<p>Markdown was originally developed by John Gruber in collaboration with Aaron Swartz, with the goal to simplify the writing of HTML documents. John Gruber defined the goal for Markdown as follows:</p>
+<p>On the other hand, some people work with LaTeX; particularly in the scientific community. With LaTeX, documents with high typographic quality can be produced. However, the source files are cluttered with LaTeX commands and the source text can be complicated to read. Therefore, LaTeX is not user friendly, especially for casual writers or beginners. </p>
+<p>Markdown is a plain text markup language which is both lightweight and easy to read and write. It can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. John Gruber, the original developer of Markdown, defined the goal for Markdown as follows:</p>
 <blockquote>
 <p>The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.</p>
 </blockquote>
+<p>The figure below compares formatting elements and their implementations in different markup languages (<a href="https://peerj.com/articles/cs-112/">image source</a>).</p>
+<p><img alt="Markdown Comparison" src="../../images/mdcompare.png" width="96%"></p>
+<p>In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by <code>.md</code> file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Apart from that, the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.</p>
 <h3>A brief introduction to markdown syntax</h3>
 <p>Special symbols are used for formatting texts.</p>
 <pre class="code literal-block"><span></span><code><span class="err"># A h1 header</span>
@@ -213,11 +214,12 @@ navbar-dark bg-dark
 </ul>
 <h3>Writing reports/papers</h3>
 <p><a href="https://github.com/pankajkarman/paper-template">Link for markdown paper-template.</a></p>
-<p>Markdown depends on <a href="https://pandoc.org"><em>pandoc</em></a> for all conversion tasks. Please follow the steps mentioned in the above link for installation of all dependencies. Installation steps may differ depending on the operating system. Instruction mentioned in the link are pretty generic and can be easily followed on any operating system.</p>
+<p>Markdown relies on <a href="https://pandoc.org"><em>pandoc</em></a> for all conversion tasks. Please follow the steps mentioned in the above link for installation of all dependencies. Installation steps may differ depending on the operating system. Instruction mentioned in the link are pretty generic and can be easily followed on any operating system.</p>
 <p><img alt="Markdown Comparison" src="../../images/mdflow.png" width="75%"></p>
-<p>The above figure shows the workfow for the generation of multiple document formats with Pandoc (<a href="https://peerj.com/articles/cs-112/">image source</a>). The markdown (MD) file contains the manuscript text with formatting tags, and can also refer to external files such as images or reference databases. The Pandoc processor converts the MD file to the desired output formats. Documents, citations etc. can be defined in style files or templates. Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc using examples for typical document elements, such as tables, figures, formulas, code listings and references. For more detailed discussion, please refer to the <a href="http://pandoc.org/MANUAL.html">pandoc manual</a>.</p>
+<p>The above figure shows the workfow for the generation of multiple document formats with Pandoc (<a href="https://peerj.com/articles/cs-112/">image source</a>). The markdown (MD) file contains the manuscript text with formatting tags, and include references to external files such as images or reference databases. The Pandoc processor converts the MD file to the desired output formats. Documents, citations etc. can be defined in style files or templates. </p>
+<p>Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc, a swiss army knife for document conversion, using examples for typical document elements, such as tables, figures, formulas, code blocks and references. For more detailed discussion, please refer to the <a href="http://pandoc.org/MANUAL.html">pandoc manual</a>.</p>
 <h4>Tables</h4>
-<p>There are <a href="https://pandoc.org/MANUAL.html#tables">several options</a> to write tables in markdown. The most flexible alternative are pipe tables. The contents of different cells are separated by pipe symbols (|). </p>
+<p>There are <a href="https://pandoc.org/MANUAL.html#tables">several options</a> to write tables in markdown; with pipe tables being the most flexible.  The contents of different cells are separated by pipe symbols. </p>
 <pre class="code literal-block"><span></span><code><span class="p">|</span> <span class="nv">Syntax</span>      <span class="p">|</span> <span class="nv">Description</span> <span class="p">|</span> <span class="nv">Text</span>     <span class="p">|</span>
 <span class="p">|</span> <span class="p">:-</span><span class="s s-Atom">---</span>        <span class="p">|</span>    <span class="p">:-</span><span class="s s-Atom">---:</span>   <span class="p">|</span>          <span class="s s-Atom">----:</span> <span class="p">|</span>
 <span class="p">|</span> <span class="nv">Header</span>      <span class="p">|</span> <span class="nv">Title</span>       <span class="p">|</span> <span class="nv">Here</span><span class="err">'</span><span class="s s-Atom">s</span> <span class="s s-Atom">this</span>   <span class="p">|</span>
@@ -225,7 +227,7 @@ navbar-dark bg-dark
 </code></pre>
 
 
-<p>And it would be rendered as </p>
+<p>would be rendered as </p>
 <blockquote>
 <table>
 <thead><tr>
@@ -247,7 +249,7 @@ navbar-dark bg-dark
 </tbody>
 </table>
 </blockquote>
-<p>To simplify the process of table generation, I have written a <a href="https://github.com/pankajkarman/markdown-scholar"><strong><em>python script</em></strong></a> to generate a markdown table using python. The linked github repository contains an <a href="https://github.com/pankajkarman/markdown-scholar/blob/master/table.ipynb"><strong><em>example notebook</em></strong></a> demonstrating the table generation and the same has also been shown below.</p>
+<p>On one hand, syntax for writing tables is very simple but it may very time consuming while generating bigger tables. To simplify the process of table generation, I have written a <a href="https://github.com/pankajkarman/markdown-scholar"><strong><em>python script</em></strong></a> to generate a markdown table using python. The linked github repository contains an <a href="https://github.com/pankajkarman/markdown-scholar/blob/master/table.ipynb"><strong><em>example notebook</em></strong></a> demonstrating the table generation and the same has also been shown below.</p>
 <pre class="code literal-block"><span></span><code><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
 <span class="kn">import</span> <span class="nn">pandoc</span>
 
@@ -313,17 +315,17 @@ def say_hello():
 
 
 <h4>Citations/References</h4>
-<p>The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter <code>--filter pandoc-citeproc</code> is used, with variables for the reference database and the bibliography style. A separate <code>.bib</code> file must contain the database of all references with corresponding keys. The used database either can be defined in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like <a href="https://www.mendeley.com/"><strong><em>Mendeley</em></strong></a> and <a href="https://www.zotero.org/"><strong><em>Zotero</em></strong></a> can help in creating maintaining reference database. </p>
-<p>A citation is inserted by using the citation key given within square brackets preceded an ‘@’ as follows:</p>
-<pre class="code literal-block"><span></span><code><span class="err">[@kuttippurath2018]</span>
+<p>The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter <code>--filter pandoc-citeproc</code> is used, with variables for the reference database and the bibliography style. A separate <code>.bib</code> file must contain the database of all references with corresponding keys. The used database can be defined either in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like <a href="https://www.mendeley.com/"><strong><em>Mendeley</em></strong></a> and <a href="https://www.zotero.org/"><strong><em>Zotero</em></strong></a> can help in creating and maintaining reference databases. </p>
+<p>A citation is inserted by using the citation key given within square brackets preceded by '@' as follows:</p>
+<pre class="code literal-block"><span></span><code><span class="err">[@Solomon2016; @kuttippurath2018] </span>
 </code></pre>
 
 
-<p>The generated references will be located automatically at the header <code># References</code> or <code># Bibliography</code>.</p>
+<p>The generated references will be inserted automatically below the header <code># References</code> or <code># Bibliography</code>.</p>
 <h5>Citation style</h5>
-<p>The Citation Style Language (CSL) is used for the citations and bibliographies. This file format is supported by all reference management softwares like Mendeley, Zotero etc. CSL files for a number of journals can be found at <a href="https://github.com/citation-style-language/styles">this link</a>. The bibliography style that pandoc should use for the target document can be chosen in the YAML block of the Markdown document or can be passed in as an command line option. Journal reference styles can be easily changed by just changing csl file to be used; saving lots of sweat while doing the adjustment as in MS Word.</p>
+<p>The Citation Style Language (CSL) is used for the citations and bibliographies. This file format is supported by all reference management softwares like Mendeley, Zotero etc. CSL files for a number of journals can be found at <a href="https://github.com/citation-style-language/styles">this link</a>. The bibliography style that pandoc should use for the target document can be specified in the YAML block of the Markdown document or can be passed in as a command line option. Journal reference styles can be easily changed by just changing CSL file to be used; saving lots of sweat while doing the adjustment as in MS Word.</p>
 <h4>Meta information</h4>
-<p>Document information such as title, authors, their affiliation, correspondence details, abstract , keywords etc. can be defined in a metadata block written in YAML syntax. Variables defined in the YAML section are processed by pandoc and integrated into the generated documents. The YAML metadata block is recognized by three hyphens (---) at the beginning, and three hyphens at the end. for example:</p>
+<p>Document information such as title, authors, their affiliation, correspondence details, abstract, keywords etc. can be defined in a metadata block written in YAML syntax. Variables defined in the YAML section are processed by pandoc and integrated into the generated documents. The YAML metadata block is recognized by three hyphens (---) at the beginning, and three hyphens at the end. for example:</p>
 <pre class="code literal-block"><span></span><code><span class="err">---</span>
 <span class="c">title: Climate change causes increased heat waves</span>
 <span class="c">subtitle: heat waves</span>
@@ -333,7 +335,7 @@ def say_hello():
 
 
 <h4>Pandoc filters</h4>
-<p>Pandoc supports filters to aid in formatting of the documents. For example: pandoc-citeproc parses the citations included in markdown files, pandoc-crossref allows numbering and cross-referencing of figures, tables and equations across the document. Filters should be specified on the commandline with <code>--filter filterpath</code> or <code>-F filterpath</code> parameter. For example:</p>
+<p>Pandoc supports lua and python based filters to aid in formatting of the documents. For example: pandoc-citeproc parses the citations included in markdown files, pandoc-crossref allows numbering and cross-referencing of figures, tables and equations across the document. Filters should be specified on the commandline with <code>--filter filterpath</code> or <code>-F filterpath</code> parameter. For example:</p>
 <pre class="code literal-block"><span></span><code>pandoc -F pandoc-citeproc -F pandoc-crossref -o example.docx example.md
 </code></pre>
 
@@ -344,8 +346,8 @@ def say_hello():
 
 
 <p>Have a look at <a href="https://pandoc.org/filters.html">this link</a> for more information regarding pandoc filters and <a href="https://github.com/jgm/pandoc/wiki/Pandoc-Filters">this link</a> for a list of available third party filters.</p>
-<h4>Automating document generation</h4>
-<p>While generation of documents can be autometised using shell scripts but I prefer using Makefile for the same. Makefiles are similar to shell scripts with an important difference. While shell script executes the commands specified in it irrespective of the status files, Makefile consider the status of target files specified when executing a command.</p>
+<h4>Automatising document generation</h4>
+<p>While generation of documents can be automatised using shell scripts, but I prefer to use Makefile for the same. Makefiles are similar to shell scripts with an important difference. While shell script executes the commands specified in it irrespective of the status of files, Makefile considers the status of target files specified when executing a command.</p>
 <p>For example: Makefile provided in <a href="https://github.com/pankajkarman/paper-template">paper template repository</a> consists following:</p>
 <pre class="code literal-block"><span></span><code><span class="nv">fig</span> <span class="o">=</span> ./figures/
 <span class="nv">tab</span> <span class="o">=</span> ./tables/
@@ -402,8 +404,7 @@ def say_hello():
 
 <p>Above lines specify the appropriate arguments to be used for pandoc commandline. Instruction to execute Makefile has been provided in the <a href="https://github.com/pankajkarman/paper-template">accompanying paper-template repository</a>. For example: <a href="https://github.com/pankajkarman/paper-template/blob/master/main.pdf">pdf output</a> can be generated using <code>make pdf</code> command. Similarly <a href="https://github.com/pankajkarman/paper-template/blob/master/main.docx">docx</a> can be generated using <code>make docx</code> command. Running command <code>make all</code> or <code>make</code> will generate both pdf and docx outputs. For generating pdf output, LaTeX should be installed on the system before executing the Makefile. Generated docx file might require a little bit of tweaking before shared/submitted.</p>
 <h4>Version control</h4>
-<p><a href="https://git-scm.com/">Git</a>, which is also used for the development of the Linux kernel, is one of the most employed software solutions for versioning. Git allows the parallel work of collaborators and has an efficient
-merging and conflict resolution system. A Git repository may be used by a single local author to keep track of changes, or by a team with a remote repository; for example, on <a href="https://github.com/">Github</a> or <a href="https://bitbucket.org/">Bitbucket</a>. Because of the plain text format of markdown, Git can be used for version control and distributed writing. Follow <a href="https://towardsdatascience.com/a-quick-primer-to-version-control-using-git-3fbdbb123262">this link</a> for learning how to use git.</p>
+<p><a href="https://git-scm.com/">Git</a> is one of the most employed software solutions for versioning. Git allows the parallel work of collaborators, and has an efficient merging and conflict resolution system. A Git repository may be used by a single local author to keep track of changes, or by a team with a remote repository; for example, on <a href="https://github.com/">Github</a> or <a href="https://bitbucket.org/">Bitbucket</a>. Because of the plain text format of markdown, Git can be used for version control and distributed writing. Follow <a href="https://towardsdatascience.com/a-quick-primer-to-version-control-using-git-3fbdbb123262">this link</a> for learning how to use git.</p>
 <h3>Furthur Resources</h3>
 <ul>
 <li><a href="https://github.com/pandoc-scholar/pandoc-scholar">pandoc-scholar</a></li>
@@ -474,10 +475,6 @@ merging and conflict resolution system. A Git repository may be used by a single
 </p>
 <p>
   Contents © 2020  Pankaj Kumar
-  —
-  
-  —
-  Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
 </p>
 </div>
 
