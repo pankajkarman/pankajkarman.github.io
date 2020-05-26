@@ -97,6 +97,8 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   Carried out radiative transfer modeling using RRTMG for radiative
     forcing estimation.
+    
+-   Simulated and analysed global atmospheric chemistry using GEOS-Chem at Pratyush, India's fastest supercomputer.
 
 **Research Assistant, ATMOS Lab, MTech, 2016 - 2017**
 

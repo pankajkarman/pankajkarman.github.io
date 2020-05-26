@@ -11,13 +11,13 @@
 
 - [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert tables from pandas to latex or markdown format.
 
-- [water-droplet-freezing](https://github.com/pankajkarman/water-droplet-freezing): MATLAB and python codes for [numerical investigation of freezing of sessile water droplet and subsequent transformation of its shape](https://aapt.scitation.org/doi/abs/10.1119/1.4726201?journalCode=ajp). It simulated the evolution of the interaction between all three phase of water droplet after being placed on a supercooled plate. The repository will be made open very soon.
+- [water-droplet-freezing](https://github.com/pankajkarman/water-droplet-freezing): MATLAB and python codes for [numerical investigation of freezing of sessile water droplet and subsequent transformation of its shape](https://aapt.scitation.org/doi/abs/10.1119/1.4726201?journalCode=ajp). It simulated the evolution of the interaction between all three phases of water droplet after being placed on a supercooled plate. The repository will be made open very soon.
 
-- [Artifical-Intelligence-Projects](https://github.com/pankajkarman/Artifical-Intelligence-Projects): A collection of projects implementing various machine learning methods from scratch in python. It also contains a project implementing a Question answering model using Dynamic memory network (DMN) based on Stanford Question Answering Dataset (SQuAD) dataset.
+- [Artifical-Intelligence-Projects](https://github.com/pankajkarman/Artifical-Intelligence-Projects): A collection of projects implementing various machine learning methods in python. It also contains a project implementing a Question answering model using Dynamic memory network (DMN) based on Stanford Question Answering Dataset (SQuAD) dataset.
 
-- HyTraj: It is a python library, still under development, for performing receptor modeling using trajectories generated with HYSPLIT model. It'll have functions for generating large number of air-parcel trajectories with parallel processing; reducing the trajectories generation time. It will also have appropriate tools for clustering trajectories using different clustering techniques.
+- [HyTraj](https://github.com/pankajkarman/AntAir): It is a python library, still under development, for performing receptor modeling using trajectories generated with HYSPLIT model. It'll have functions for generating large number of air-parcel trajectories with parallel processing; reducing the trajectories generation time. It will also have appropriate tools for clustering trajectories using different clustering techniques.
 
-- [AntAir](https://github.com/pankajkarman/AntAir): This project contains the draft paper and scripts for investigation of long-term trend in the sources of tropospheric ozone in Antarctica. It relies on HyTraj for trajectory generation, receptor modeling and clustering. A paper based on this project is under preparation. Codes will be made public after publication of the paper.
+- [AntAir](https://github.com/pankajkarman/AntAir): This repository contains the draft paper and scripts for investigation of long-term trend in the sources of tropospheric ozone in Antarctica. It relies on HyTraj for trajectory generation, receptor modeling and clustering. A paper based on this project is under preparation. Codes will be made public after publication of the paper.
 
 - [AntTropOz](https://github.com/pankajkarman/AntTropOz): It contains the draft paper and analysis scripts of the paper **Climate impact of tropospheric ozone trends in Antarctica** which is under review at ES&T. I intend to make it public once the paper is accepted for publication.
 
@@ -35,7 +35,7 @@
 	7. [Causal Network Analysis](https://www.nature.com/articles/s41467-019-10105-3) of tropospheric ozone.
 	8. [Radiative forcing calculaton using RRTMG](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008JD009944).
 
-- land-use-land-cover-classification: A collection of python scripts to perform LULC analysis using satellite remote sensing data using random forest and SVM classifiers. Since a journal paper is under preparation based on the methods implemented in this repository, repository will be made public after the puplication of paper. These scripts include functions for data preprocessing:
+- [land-use-land-cover-classification](https://github.com/pankajkarman/land-use-land-cover-classification): A collection of python scripts to perform LULC analysis using satellite remote sensing data using random forest and SVM classifiers. Since a journal paper is under preparation based on the methods implemented in this repository, repository will be made public after the puplication of paper. These scripts include functions for data preprocessing:
 	1. False color composite (FCC) creation.
 	1. Digital Number (DN) conversion to Top of Atmosphere (TOA) Reflectance.
 	1. Atmospheric correction using Dark Object Subtraction (DOS).
@@ -48,6 +48,6 @@
 	
      It also implements the same using Google Earth Engine platform in python.
 
-- [Autoencoder based clustering using self organising maps (AuSOM)](https://github.com/pankajkarman/AuSOM): It is a python library to perform SOM based clustering of trajectories using sequence-to-sequence autoencoder. It is still under development, and will be open shortly. 
+- [Autoencoder based clustering using self organising maps (AuSOM)](https://github.com/pankajkarman/AuSOM): It is a python library to perform SOM based clustering of trajectories using sequence-to-sequence autoencoder. It is still under development. 
 
 - [CausalDiscovery](https://github.com/pankajkarman/CausalDiscovery): A python library for performing causal network analysis using Transformer based architecture. It is still under development. Please have a look at this [paper](https://www.mdpi.com/2504-4990/1/1/19) for an idea about the aim of this library.

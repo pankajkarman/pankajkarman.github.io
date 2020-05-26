@@ -9,13 +9,13 @@
 .. type: text
 -->
 
-This blog was inspired by [this PeerJ article.](https://peerj.com/articles/cs-112/) and relies heavily on the same for content.
+This blog was inspired by [this PeerJ article](https://peerj.com/articles/cs-112/) and relies heavily on the same for content.
 
 **Note:** This blog was written in Markdown.
 
-## Introduction
+## Why Markdown?
 
-From a writer's perspective , the use of What You See Is WHat You Get (WYSIWYG) such as Microsoft Word, WPS Office, or LIbreOffice might be convenient, because the formatting of the document is directy visible. But the complicated syntax specifications often result in problems when using different software versions and for collaborative writing. Simple conversions between file formats can be difficult or impossible. Academic writers might also face the problem of abruptive changes in the document structure; even with an insertion of a single letter. This becomes problematic while working on a large report leading to exasperation and frustation. On the other hand, Some people work with LaTeX; particularly in the scientific community. With LaTeX. documents with high typographic quality can be produced. However, the source files are cluttered with LaTeX. commands and the source text can be complicated to read. Therefore, LaTeX is not user friendly, especially for casual writers or beginners. 
+There are currently 2 options for academics seeking to write technical reports/papers: MIcrosoft Word or LaTeX. From a writer's perspective, the use of What You See Is What You Get (WYSIWYG) such as Microsoft Word, WPS Office, or LIbreOffice might be convenient, because the formatting of the document is directy visible. But the complicated syntax specifications often result in problems when using different software versions and for collaborative writing. Simple conversions between file formats can be difficult or impossible. Academic writers might also face the problem of abruptive changes in the document structure; even with an insertion of a single letter. This becomes problematic while working on a large report leading to exasperation and frustation. Not only that, these are very slow and can consume large virtual memory, upto a gig sometimes.
 
 It becomes problematic when you have to convert your files to different file formats for various reason. For example:
 
@@ -23,15 +23,17 @@ It becomes problematic when you have to convert your files to different file for
 - ***For submitting your manuscript to journals with considerably different citation styles.***
 - For publishing a book with print version in PDF and an electronic versio in EPUB.
 
-A major time and cost factor during report/paper writing is the formatting of manuscripts. In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by `.md` file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Not only that the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.
+On the other hand, some people work with LaTeX; particularly in the scientific community. With LaTeX, documents with high typographic quality can be produced. However, the source files are cluttered with LaTeX commands and the source text can be complicated to read. Therefore, LaTeX is not user friendly, especially for casual writers or beginners. 
+
+Markdown is a plain text markup language which is both lightweight and easy to read and write. It can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. John Gruber, the original developer of Markdown, defined the goal for Markdown as follows:
+
+> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
 
 The figure below compares formatting elements and their implementations in different markup languages ([image source](https://peerj.com/articles/cs-112/)).
 
 ![Markdown Comparison](/images/mdcompare.png){width=96%}
 
-Markdown was originally developed by John Gruber in collaboration with Aaron Swartz, with the goal to simplify the writing of HTML documents. John Gruber defined the goal for Markdown as follows:
-
-> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by `.md` file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Apart from that, the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.
 
 ## A brief introduction to markdown syntax
 
@@ -122,15 +124,17 @@ While any plain text editor can work with markdown, there are some editors dedic
 
 [Link for markdown paper-template.](https://github.com/pankajkarman/paper-template)
 
-Markdown depends on [*pandoc*](https://pandoc.org) for all conversion tasks. Please follow the steps mentioned in the above link for installation of all dependencies. Installation steps may differ depending on the operating system. Instruction mentioned in the link are pretty generic and can be easily followed on any operating system.
+Markdown relies on [*pandoc*](https://pandoc.org) for all conversion tasks. Please follow the steps mentioned in the above link for installation of all dependencies. Installation steps may differ depending on the operating system. Instruction mentioned in the link are pretty generic and can be easily followed on any operating system.
 
 ![Markdown Comparison](/images/mdflow.png){width=75%}
 
-The above figure shows the workfow for the generation of multiple document formats with Pandoc ([image source](https://peerj.com/articles/cs-112/)). The markdown (MD) file contains the manuscript text with formatting tags, and can also refer to external files such as images or reference databases. The Pandoc processor converts the MD file to the desired output formats. Documents, citations etc. can be defined in style files or templates. Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc using examples for typical document elements, such as tables, figures, formulas, code listings and references. For more detailed discussion, please refer to the [pandoc manual](http://pandoc.org/MANUAL.html).
+The above figure shows the workfow for the generation of multiple document formats with Pandoc ([image source](https://peerj.com/articles/cs-112/)). The markdown (MD) file contains the manuscript text with formatting tags, and include references to external files such as images or reference databases. The Pandoc processor converts the MD file to the desired output formats. Documents, citations etc. can be defined in style files or templates. 
+
+Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc, a swiss army knife for document conversion, using examples for typical document elements, such as tables, figures, formulas, code blocks and references. For more detailed discussion, please refer to the [pandoc manual](http://pandoc.org/MANUAL.html).
 
 ### Tables
 
-There are [several options](https://pandoc.org/MANUAL.html#tables) to write tables in markdown. The most flexible alternative are pipe tables. The contents of different cells are separated by pipe symbols (|). 
+There are [several options](https://pandoc.org/MANUAL.html#tables) to write tables in markdown; with pipe tables being the most flexible.  The contents of different cells are separated by pipe symbols. 
 
 ~~~markdown
 | Syntax      | Description | Text     |
@@ -139,14 +143,14 @@ There are [several options](https://pandoc.org/MANUAL.html#tables) to write tabl
 | Paragraph   | Text        | And more      |
 ~~~
 
-And it would be rendered as 
+would be rendered as 
 
 > | Syntax      | Description | Text|
 | :----        |    :----:   |          ----: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-To simplify the process of table generation, I have written a [***python script***](https://github.com/pankajkarman/markdown-scholar) to generate a markdown table using python. The linked github repository contains an [***example notebook***](https://github.com/pankajkarman/markdown-scholar/blob/master/table.ipynb) demonstrating the table generation and the same has also been shown below.
+On one hand, syntax for writing tables is very simple but it may very time consuming while generating bigger tables. To simplify the process of table generation, I have written a [***python script***](https://github.com/pankajkarman/markdown-scholar) to generate a markdown table using python. The linked github repository contains an [***example notebook***](https://github.com/pankajkarman/markdown-scholar/blob/master/table.ipynb) demonstrating the table generation and the same has also been shown below.
 
 ```python
 import pandas as pd
@@ -227,22 +231,22 @@ def say_hello():
 
 ### Citations/References
 
-The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter `--filter pandoc-citeproc` is used, with variables for the reference database and the bibliography style. A separate `.bib` file must contain the database of all references with corresponding keys. The used database either can be defined in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like [***Mendeley***](https://www.mendeley.com/) and [***Zotero***](https://www.zotero.org/) can help in creating maintaining reference database. 
+The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter `--filter pandoc-citeproc` is used, with variables for the reference database and the bibliography style. A separate `.bib` file must contain the database of all references with corresponding keys. The used database can be defined either in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like [***Mendeley***](https://www.mendeley.com/) and [***Zotero***](https://www.zotero.org/) can help in creating and maintaining reference databases. 
 
-A citation is inserted by using the citation key given within square brackets preceded an ‘@’ as follows:
+A citation is inserted by using the citation key given within square brackets preceded by '@' as follows:
 
 ```markdown
-[@kuttippurath2018]
+[@Solomon2016; @kuttippurath2018] 
 ```
-The generated references will be located automatically at the header `# References` or `# Bibliography`.
+The generated references will be inserted automatically below the header `# References` or `# Bibliography`.
 
 #### Citation style
 
-The Citation Style Language (CSL) is used for the citations and bibliographies. This file format is supported by all reference management softwares like Mendeley, Zotero etc. CSL files for a number of journals can be found at [this link](https://github.com/citation-style-language/styles). The bibliography style that pandoc should use for the target document can be chosen in the YAML block of the Markdown document or can be passed in as an command line option. Journal reference styles can be easily changed by just changing csl file to be used; saving lots of sweat while doing the adjustment as in MS Word.
+The Citation Style Language (CSL) is used for the citations and bibliographies. This file format is supported by all reference management softwares like Mendeley, Zotero etc. CSL files for a number of journals can be found at [this link](https://github.com/citation-style-language/styles). The bibliography style that pandoc should use for the target document can be specified in the YAML block of the Markdown document or can be passed in as a command line option. Journal reference styles can be easily changed by just changing CSL file to be used; saving lots of sweat while doing the adjustment as in MS Word.
 
 ### Meta information
 
-Document information such as title, authors, their affiliation, correspondence details, abstract , keywords etc. can be defined in a metadata block written in YAML syntax. Variables defined in the YAML section are processed by pandoc and integrated into the generated documents. The YAML metadata block is recognized by three hyphens (---) at the beginning, and three hyphens at the end. for example:
+Document information such as title, authors, their affiliation, correspondence details, abstract, keywords etc. can be defined in a metadata block written in YAML syntax. Variables defined in the YAML section are processed by pandoc and integrated into the generated documents. The YAML metadata block is recognized by three hyphens (---) at the beginning, and three hyphens at the end. for example:
 
 ```markdown
 ---
@@ -253,7 +257,7 @@ date: 2020-05-22
 ```
 ### Pandoc filters
 
-Pandoc supports filters to aid in formatting of the documents. For example: pandoc-citeproc parses the citations included in markdown files, pandoc-crossref allows numbering and cross-referencing of figures, tables and equations across the document. Filters should be specified on the commandline with `--filter filterpath` or `-F filterpath` parameter. For example:
+Pandoc supports lua and python based filters to aid in formatting of the documents. For example: pandoc-citeproc parses the citations included in markdown files, pandoc-crossref allows numbering and cross-referencing of figures, tables and equations across the document. Filters should be specified on the commandline with `--filter filterpath` or `-F filterpath` parameter. For example:
 
 ```bash
 pandoc -F pandoc-citeproc -F pandoc-crossref -o example.docx example.md
@@ -267,9 +271,9 @@ python python-include.py --infile infile.md --outfile outfile.md
 
 Have a look at [this link](https://pandoc.org/filters.html) for more information regarding pandoc filters and [this link](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) for a list of available third party filters.
 
-### Automating document generation
+### Automatising document generation
 
-While generation of documents can be autometised using shell scripts but I prefer using Makefile for the same. Makefiles are similar to shell scripts with an important difference. While shell script executes the commands specified in it irrespective of the status files, Makefile consider the status of target files specified when executing a command.
+While generation of documents can be automatised using shell scripts, but I prefer to use Makefile for the same. Makefiles are similar to shell scripts with an important difference. While shell script executes the commands specified in it irrespective of the status of files, Makefile considers the status of target files specified when executing a command.
 
 For example: Makefile provided in [paper template repository](https://github.com/pankajkarman/paper-template) consists following:
 
@@ -332,8 +336,7 @@ Above lines specify the appropriate arguments to be used for pandoc commandline.
 
 ### Version control
 
-[Git](https://git-scm.com/), which is also used for the development of the Linux kernel, is one of the most employed software solutions for versioning. Git allows the parallel work of collaborators and has an efficient
-merging and conflict resolution system. A Git repository may be used by a single local author to keep track of changes, or by a team with a remote repository; for example, on [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/). Because of the plain text format of markdown, Git can be used for version control and distributed writing. Follow [this link](https://towardsdatascience.com/a-quick-primer-to-version-control-using-git-3fbdbb123262) for learning how to use git.
+[Git](https://git-scm.com/) is one of the most employed software solutions for versioning. Git allows the parallel work of collaborators, and has an efficient merging and conflict resolution system. A Git repository may be used by a single local author to keep track of changes, or by a team with a remote repository; for example, on [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/). Because of the plain text format of markdown, Git can be used for version control and distributed writing. Follow [this link](https://towardsdatascience.com/a-quick-primer-to-version-control-using-git-3fbdbb123262) for learning how to use git.
 
 ## Furthur Resources
 

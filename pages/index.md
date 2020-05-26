@@ -15,9 +15,9 @@
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at Indian Institute of Technology (IIT) Kharagpur under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include bayesian statistics, explainable artificial intelligence, causal network analysis, deep learning and atmospheric chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical and physical models, and develop open source tools for modeling and analysis.
+Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at [Indian Institute of Technology (IIT) Kharagpur](http://www.iitkgp.ac.in/) under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include Bayesian statistics, causal network analysis, deep learning and atmospheric chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical and physical models, and develop open source tools for modeling and analysis.
 
-I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physics, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT). [Here is my resume](../myfiles/resume.pdf). 
+Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physics, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. [Here is my resume](../myfiles/resume.pdf). 
 
 **News Highlights**
 
@@ -72,6 +72,6 @@ I graduated from IIT Kharagpur in 2017 with a masters degree in Earth system sci
 -   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
     Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013*, [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf)
 
-If you want to get in touch with me, you can contact me via various channels with the links provided below. I’ll be happy to connect with other people with similar interests.
+If you want to get in touch with me, you can contact me via the links provided below. I’ll be happy to connect with people with similar interests.
 
 <div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div><script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="web page hit counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h" border="0" title="web page hit counter" alt="web page hit counter"></a></noscript>
