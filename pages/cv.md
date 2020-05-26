@@ -160,5 +160,5 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 **AWARDS**
 
--   Received full funding for attending European Geophysical Union (EGU)
+-   Received full funding for attending European Geosciences Union (EGU) 
     General Assembly held in Vienna, Austria. **April** **2017**
