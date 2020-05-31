@@ -11,6 +11,8 @@
 
 - [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert tables from pandas to latex or markdown format.
 
+- [pyvortex](https://github.com/pankajkarman/pyvortex): A python module to calculate [equivalent latitude](https://en.wikipedia.org/wiki/Equivalent_latitude) and edge of a polar vortex using [Nash criteria](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/96JD00066).
+
 - [water-droplet-freezing](https://github.com/pankajkarman/water-droplet-freezing): MATLAB and python codes for [numerical investigation of freezing of sessile water droplet and subsequent transformation of its shape](https://aapt.scitation.org/doi/abs/10.1119/1.4726201?journalCode=ajp). It simulated the evolution of the interaction between all three phases of water droplet after being placed on a supercooled plate. The repository will be made open very soon.
 
 - [Artifical-Intelligence-Projects](https://github.com/pankajkarman/Artifical-Intelligence-Projects): A collection of projects implementing various machine learning methods in python. It also contains a project implementing a Question answering model using Dynamic memory network (DMN) based on Stanford Question Answering Dataset (SQuAD) dataset.
