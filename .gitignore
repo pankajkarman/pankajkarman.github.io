@@ -1,7 +1,7 @@
 cache
 .doit.db*
-__pycache__
+__pycache__/
 output
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .DS_Store
 *.pyc

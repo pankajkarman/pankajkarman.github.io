@@ -2,10 +2,10 @@
 .. title: Writing papers and reports in markdown
 .. slug: markdown
 .. date: 2020-05-08 06:46:34 UTC+05:30
-.. tags: 
+.. tags: pandoc, markdown, 
 .. category: 
 .. link: 
-.. description: 
+.. description: Paper writing in Markdown
 .. type: text
 -->
 
