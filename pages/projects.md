@@ -7,9 +7,12 @@
 .. link: 
 .. description: 
 .. type: text
+.. has_math: true
 -->
 
 - [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert tables from pandas to latex or markdown format.
+
+- [Remote Sensing](https://github.com/pankajkarman/satelite): A collection of python scripts to read and correct atmospheric composition profile data from various satellites ([Aura-MLS](https://mls.jpl.nasa.gov/) and [OMPS](https://www.ball.com/aerospace/programs/omps)) like geopotential height, Temperature, ozone, water vapor, N<sub>2</sub>O, ClO and HNO<sub>3</sub>.
 
 - [bias-correction](https://github.com/pankajkarman/bias_correction): A python library to perform bias correction of datasets in order to remove cross-dataset biases. Implemented methods include quantile mapping, modified quantile mapping, scaled distribution mapping (both Gamma and Normal corrections).
 
