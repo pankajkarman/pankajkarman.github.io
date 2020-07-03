@@ -38,7 +38,7 @@
 	
 - [Antarctic Ozone hole Analysis](hhttps://github.com/pankajkarman/antarctic_ozone_hole_2019): A collection of python scripts to analyze ozone hole in Antarctic region using various satellite and ground-based measurements and Atmospheric chemistry model. A paper based on this project is in preparation. 
 
-- [HyTraj](https://github.com/pankajkarman/AntAir): It is a python library, still under development, for performing receptor modeling using trajectories generated with HYSPLIT model. It'll have functions for generating large number of air-parcel trajectories with parallel processing; reducing the trajectories generation time. It will also have appropriate tools for clustering trajectories using different clustering techniques.
+- [HyTraj](https://github.com/pankajkarman/HyTraj): It is a python library, still under development, for performing receptor modeling using trajectories generated with HYSPLIT model. It'll have functions for generating large number of air-parcel trajectories with parallel processing; reducing the trajectories generation time. It will also have appropriate tools for clustering trajectories using different clustering techniques.
 
 - [Analysis of airmass transport to Antarctica](https://github.com/pankajkarman/AntAir): This repository contains the draft paper and scripts for investigation of long-term trend in the sources of tropospheric ozone in Antarctica. It relies on HyTraj for trajectory generation, receptor modeling and clustering. A paper based on this project is in preparation. Codes will be made public after publication of the paper.
 
