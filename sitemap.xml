@@ -11,11 +11,15 @@
  </url>
  <url>
   <loc>https://pankajkarman.github.io/archive.html</loc>
-  <lastmod>2020-06-21T17:45:00Z</lastmod>
+  <lastmod>2020-07-19T21:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/blog/</loc>
-  <lastmod>2020-05-08T01:18:00Z</lastmod>
+  <lastmod>2020-07-19T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pankajkarman.github.io/blog/covid/</loc>
+  <lastmod>2020-07-19T18:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/blog/markdown/</loc>
@@ -23,7 +27,15 @@
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/</loc>
-  <lastmod>2020-06-21T17:45:00Z</lastmod>
+  <lastmod>2020-07-19T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pankajkarman.github.io/categories/coronavirus/</loc>
+  <lastmod>2020-07-19T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pankajkarman.github.io/categories/covid/</loc>
+  <lastmod>2020-07-19T18:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/markdown/</loc>
@@ -36,14 +48,6 @@
  <url>
   <loc>https://pankajkarman.github.io/cv/</loc>
   <lastmod>2020-05-04T21:51:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pankajkarman.github.io/galleries/</loc>
-  <lastmod>2020-05-04T19:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pankajkarman.github.io/listings/</loc>
-  <lastmod>2020-05-04T19:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/news/</loc>
