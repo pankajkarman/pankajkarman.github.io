@@ -17,7 +17,7 @@
 
 Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at [Indian Institute of Technology (IIT) Kharagpur](http://www.iitkgp.ac.in/) under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include Bayesian statistics, causal network analysis, deep learning and atmospheric chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical and physical models, and develop open source tools for modeling and analysis.
 
-Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physics, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. [Here is my resume](../myfiles/resume.pdf). 
+Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physics, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. [Here is my resume](https://github.com/pankajkarman/resume/blob/master/resume.pdf). 
 
 **News Highlights**
 
