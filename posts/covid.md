@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-**Track the daily and cumulative coronavirus updates for India using [this link](https://www.covid19india.org/) and the districtwise status for Bihar using [this link](https://www.covid19india.org/state/BR).**
+<img src="/images/covid.jpeg" align="center" width="600" HSPACE="250" VSPACE="0">
 
-<img src="/images/covid.png" align="right" width="600" HSPACE="10" VSPACE="0">
+**Track the daily and cumulative coronavirus updates for India using [this link](https://www.covid19india.org/) and the districtwise status for Bihar using [this link](https://www.covid19india.org/state/BR).**
 
 Given the severity of the disease and healthcare facilities in our country, [it is very important and imperative to understand the causes of the infection and ways to avoid it](https://www.wired.com/story/to-beat-covid-19-you-have-to-know-how-a-virus-moves/?fbclid=IwAR1IX3J2iWA_2zNL_ZrRjFg3vtHEBO1JW-UGlKm1_dPHwm8uafcJYdNDCsk). While it is a novel disease and there is still a lot of research going on, there is a more or less a consensus amongs scientists about the mode of transmission of the virus. It was thought to be spreading through droplets in the beginning but now a lot of evidences are coming in the public domain regarding the possible aerosol transmission mode. Here in this blog, I'll be discussing about a few papers which have convincingly demonstarted the dominance of aerosol transmission for the spread of the virus. At the end, I'll discus about the scientific reasoning about the steps being recommended to avoid contracting the virus and the role of ventilation in avoiding the spread of the virus. 
 
