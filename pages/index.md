@@ -73,5 +73,3 @@ Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technolog
     Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013*, [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf)
 
 If you want to get in touch with me, you can contact me via the links provided below. I’ll be happy to connect with people with similar interests.
-
-<div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div><script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="web page hit counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h" border="0" title="web page hit counter" alt="web page hit counter"></a></noscript>

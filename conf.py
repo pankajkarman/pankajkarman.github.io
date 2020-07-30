@@ -1102,19 +1102,12 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # long time). Insert anything you want here, or even make it empty (which is
 # the default right now)
 # (translatable)
-# SOCIAL_BUTTONS_CODE = """
-# <!-- Social buttons -->
-# <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
-# <a class="addthis_button_more">Share</a>
-# <ul><li><a class="addthis_button_facebook"></a>
-# <li><a class="addthis_button_google_plusone_share"></a>
-# <li><a class="addthis_button_linkedin"></a>
-# <li><a class="addthis_button_twitter"></a>
-# </ul>
-# </div>
-# <script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
-# <!-- End of social buttons -->
-# """
+SOCIAL_BUTTONS_CODE = """
+ <!-- Social buttons -->
+ <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f230a1c3a27a985"></script>
+ <!-- End of social buttons -->
+ """
 
 # Show link to source for the posts?
 SHOW_SOURCELINK = False
@@ -1262,7 +1255,32 @@ CONTENT_FOOTER = '''
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """
+
+<!-- Start of StatCounter Code -->
+<div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div>
+<script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&down=async" async>
+</script>
+<noscript>
+<a href="https://www.freecounterstat.com" title="web page hit counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h" border="0" title="web page hit counter" alt="web page hit counter">
+</a>
+</noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Start of Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174100738-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-174100738-1');
+</script>
+<!-- End of Google Analytics -->
+
+
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
