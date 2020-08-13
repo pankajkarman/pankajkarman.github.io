@@ -44,7 +44,9 @@ In this study, we have reported the comprehensive analysis of vertical, spatial 
 
 Atmospheric chemistry is closely coupled with both local and global atmospheric dynamics. Understanding these interactions is an essential prerequisite for diagnosing the influence of weather/climate on atmospheric chemistry and vice-versa. I am developing and utilising state of the art causal discovery methods for reconstructing the causal dependency structure underlying chemistry–atmosphere interactions. I am also analysing the climatic impacts of changes in tropospheric ozone in Antarctic region and its geophysical drivers with the help of a suite of statistical, machine learning and physical modeling techniques.
 
-<center><img src="/images/causal.png" width=900" height="500"></center></a>
+<center>
+![Representational learning of Trajectories using seq2seq Autoencoder.](/images/causal.png){width=95%} 
+</center>
 
 ### Papers in preparation/review
 
