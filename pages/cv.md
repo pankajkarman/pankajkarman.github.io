@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-**EDUCATION**
+## **EDUCATION**
 
-**Doctor of Philosophy, Atmospheric physics and chemistry, 2017 - Present** 
+**Doctor of Philosophy, Atmospheric Physics and Chemistry, 2017 - Present** 
 
 Indian Institute of Technology Kharagpur, Kharagpur, India
 
@@ -23,18 +23,20 @@ Indian Institute of Technology Kharagpur, Kharagpur, India
 
 Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
-**SKILLS**
+## **SKILLS**
 
-**Programming Languages:** Python, MATLAB, Fortran
 
-**Data Science Skills**
 
--   **Statistical Learning**: Bayesian analysis and Parameter
-    Estimation (MLE, MAP, MCMC), Regression, Classification and
-    Clustering, Time series analysis (State space models, MLR, DLM),
-    Deep learning, and Explainable Artificial Intelligence.
+#### **Data Science Skills**
 
-**Physical Modeling Skills**
+-   **Programming Languages:** Python, MATLAB, Fortran, Javascript
+
+-   **Statistical Learning**: Bayesian analysis and parameter
+    estimation (MLE, MAP, MCMC), regression, classification and
+    clustering, Time series analysis (state space models, MLR, DLM),
+    Trajectory analysis, Deep learning, and Explainable Artificial Intelligence.
+
+#### **Physical Modeling Skills**
 
 -   **Trajectory Modeling**: HYSPLIT
 
@@ -42,11 +44,11 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   **Radiative Transfer Modeling**: RRTMG
 
-**Analytics Tools**
+#### **Analytics Tools**
 
--   **Statistical Learning**: Statsmodels, Scikit-learn, Keras, PyMC3, PyStan.
+-   **Statistical Learning**: Statsmodels, Scikit-learn, Keras.
 
--   **Data visualization**: Matplotlib, Seaborn in Python.
+-   **Data visualization**: Matplotlib, Seaborn, Basemap, Cartopy in Python.
 
 -   **Mathematical optimization**: Scipy, Scikit-Optimize in Python.
 
@@ -56,15 +58,15 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   **Parallel Programming**: dask, joblib in Python.
 
-**Other Computer related skills**
+#### **Other Computer related skills**
 
 -   Experience of version control with git and shell scripting in Linux.
 
--   Conversant with Markdown and LaTeX.
+-   Conversant with Markdown, HTML/CSS and LaTeX.
 
-**RESEARCH EXPERIENCE**
+## **RESEARCH EXPERIENCE**
 
-**Research Scholar, ATMOS Lab, PhD, 2017 - Present**
+#### **Research Scholar, ATMOS Lab, PhD, 2017 - Present**
 
 -   Setup WRF-Chem and GEOS-Chem for atmospheric composition studies.
 
@@ -100,7 +102,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     
 -   Simulated and analysed global atmospheric chemistry using GEOS-Chem at Pratyush, India's fastest supercomputer.
 
-**Research Assistant, ATMOS Lab, MTech, 2016 - 2017**
+#### **Research Assistant, ATMOS Lab, MTech, 2016 - 2017**
 
 -   Compared long term total column ozone datasets from various ground
     based instruments with satellite based observations in Antarctic
@@ -113,7 +115,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   Investigated freezing of water droplet and subsequent transformation
     of its shape numerically using **MATLAB**.
 
-**Undergraduate project, BE, 2011 - 2012**
+#### **Undergraduate project, BE, 2011 - 2012**
 
 -   Carried out numerical investigation of natural convection in Bingham
     fluids within a square enclosure with differentially heated
@@ -122,13 +124,24 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   Performed optimization of Wind Turbine Blades using **Fluent** in
     **Ansys.**
 
-**PUBLICATIONS**
+## **PUBLICATIONS**
 
--   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I.
-    Petropavlovskikh, B. Johnson, Audra McClure-Begley, P.
-    Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez:
-    *Climate impact of tropospheric ozone trends in Antarctica,*
-    Environmental Science & Technology, under review..
+-   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
+
+-   **P. Kumar,** M. Mishra and R. Shukla: *Mining trajectories using deep representational learning,* in preparation.
+
+-   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
+
+-   J. Kuttippurath, A. R. Ravishankara, P. Newmann, **P. Kumar**, S. Raj, M. Chipperfiled W. Feng, F. Lefevre, 
+    L. Froidevaux, M. L. Santee, G. S. Gopikrishnan, P. von Gathen, M. Weber, L. E. Flynn, J. Davies, and H. Fast: 
+    *A myth-busting ozone hole in the Arctic*, in preparation.
+
+-   J. Kuttippurath, S. Raj, **P. Kumar** and K. Abbhishek: *The ozone hole observed at the Indian station Maitri in Antarctica*, 
+    Polar Science, submitted.
+
+-   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, 
+    P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* 
+    Environmental Science & Technology, in revision.
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of
     ozone recovery evidenced by reduction in the occurrence of Antarctic
@@ -139,7 +152,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     conditions: Comparison with ground-based observations in
     1979-2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
 
-**CONFERENCES**
+## **CONFERENCES**
 
 -   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical
     teleconnection and climate impacts of tropospheric ozone variability
@@ -158,7 +171,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     effects on physical parameters in Arabian Sea*, 
     [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf)
 
-**AWARDS**
+## **AWARDS/GRANTS**
 
 -   Received full funding for attending European Geosciences Union (EGU) 
     General Assembly held in Vienna, Austria. **April** **2017**

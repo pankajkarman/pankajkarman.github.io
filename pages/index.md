@@ -9,17 +9,19 @@
 .. type: text
 -->
 
-<img src="/images/me.png" align="right" width="160" HSPACE="10" VSPACE="0">
+<img src="/images/me.png" align="right" width="190" HSPACE="10" VSPACE="0">
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at [Indian Institute of Technology (IIT) Kharagpur](http://www.iitkgp.ac.in/) under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include Bayesian statistics, causal network analysis, deep learning and atmospheric chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical and physical models, and develop open source tools for modeling and analysis.
+Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at [Indian Institute of Technology (IIT) Kharagpur](http://www.iitkgp.ac.in/) under the supervision of [Jayanarayanan Kuttippurath](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS). My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis.
 
-Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric chemistry and physics, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. [Here is my resume](https://github.com/pankajkarman/resume/blob/master/resume.pdf). 
+Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. 
 
-**News Highlights**
+Here is my brief resume [[pdf](https://github.com/pankajkarman/resume/blob/master/resume.pdf)]. 
+
+## **News Highlights**
 
 - India Today - [Antarctic ozone hole is healing, confirms IIT Kharagpur study, November 29, 2018. ](https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29)
 
@@ -27,16 +29,24 @@ Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technolog
 
 - India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018. ](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
 
-**Papers**
+## **Papers**
 
--   **P. Kumar**: *Pattern recognition using Autoencoder based Deep representation of air-parcel trajectories,* in preparation.
+-   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
+
+-   **P. Kumar,** M. Mishra and R. Shukla: *Mining trajectories using deep representational learning,* in preparation.
 
 -   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
 
--   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* Environmental Science & Technology, under review.
+-   J. Kuttippurath, A. R. Ravishankara, P. Newmann, **P. Kumar**, S. Raj, M. Chipperfiled W. Feng,
+F. Lefevre, L. Froidevaux, M. L. Santee, G. S Gopikrishnan, P. von Gathen, M. Weber, L. E.
+Flynn, J. Davies, and H. Fast: *A myth-busting ozone hole in the Arctic*, in preparation.
+
+-   J. Kuttippurath, S. Raj, **P. Kumar** and K. Abbhishek: *The ozone hole observed at the Indian station Maitri in Antarctica*, Polar Science, submitted.
+
+-   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* Environmental Science & Technology, in revision.
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair,  and P. C. Pandey: *Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic
-    ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)   
+    ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)
 
 <div class="container">
 <div class="row">
@@ -65,11 +75,11 @@ Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technolog
 </div>
 </div>
 
-**Conferences**
+## **Conferences**
 
 -   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica*, National Conference on Polar Sciences, Goa, August 2019.
 
 -   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
     Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013*, [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf)
 
-If you want to get in touch with me, you can contact me via the links provided below. I’ll be happy to connect with people with similar interests.
+If you want to get in touch with me, you can contact me via the links provided at the bottom of the page. I’m open to connect with people with similar interests.

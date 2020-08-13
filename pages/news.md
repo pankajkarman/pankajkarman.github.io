@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Here, I'll list the mention of our research work across media platforms.
+Reportage of our research work across various mainstream media platforms.
 
 - India Today - [Antarctic ozone hole is healing, confirms IIT Kharagpur study, November 29, 2018.](https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29)
 
