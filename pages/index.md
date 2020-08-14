@@ -13,19 +13,17 @@
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="pankajkmr1990" style="float:left; margin-top: 60px; margin: 45px;"><a class="LI-simple-link" href='https://www.linkedin.com/in/pankajkmr1990?trk=profile-badge'>Pankaj Kumar</a></div>
+<img src="/images/me.png" align="right" width="195" HSPACE="15" VSPACE="8">
 
 <p align='justify'>
 Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS">Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis.
 </p>
 
 <p align='justify'>
-Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf">Here is my brief resume.</a>
+Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. 
 </p>
 
-
+Here is my brief resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf">[pdf].</a>
 
 ## **News Highlights**
 
@@ -34,9 +32,6 @@ Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technolog
 - NDTV - [IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole, November 30, 2018. ](https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054)
 
 - India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018. ](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
-
-
-<br/>
 
 ## **Papers**
 
