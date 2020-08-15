@@ -23,7 +23,9 @@ Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine lea
 Prior to this, I graduated from IIT Kharagpur in 2017 with a Master of Technology (MTech) degree in Earth System Science and Technology where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from Birla Institute of Technology (BIT) Mesra. 
 </p>
 
-Here is my brief resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf">[pdf].</a>
+Here is my brief resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf">[pdf]</a> and CV <a href="/cv/index.html">[link].</a>
+
+<BR>
 
 ## **News Highlights**
 
@@ -32,6 +34,8 @@ Here is my brief resume <a href="https://github.com/pankajkarman/resume/blob/mas
 - NDTV - [IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole, November 30, 2018. ](https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054)
 
 - India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018. ](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
+
+<BR>
 
 ## **Papers**
 
@@ -78,6 +82,8 @@ Flynn, J. Davies, and H. Fast: *A myth-busting ozone hole in the Arctic*, in pre
 </div>
 </div>
 </div>
+
+<BR>
 
 ## **Conferences**
 

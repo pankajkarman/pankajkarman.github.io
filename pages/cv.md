@@ -9,54 +9,84 @@
 .. type: text
 -->
 
-## **EDUCATION**
+<h1 style="background-color: #ADD8E6; color:#000000"> EDUCATION</h1>
 
-**Doctor of Philosophy, Atmospheric Physics and Chemistry, 2017 - Present** 
+<table rules=rows style="width:100%">
+<thead>
+<tr style="height: 50px">
+	<th>Degree</th>
+	<th>Major</th>
+	<th>Institution</th>
+	<th nowrap>Graduation Year</th>
+</tr>
+</thead>
 
-Indian Institute of Technology Kharagpur, Kharagpur, India
+<tr style="height: 50px">
+	<td>Doctor of Philosophy</td>
+	<td>Atmospheric Chemistry and Physics</td>
+	<td>Indian Institute of Technology Kharagpur (IN)</td>
+	<td align="center">Present</td>
+</tr>
+<tr style="height: 50px">
+	<td>Master of Technology</td>
+	<td>Earth System Science and Technology</td>
+	<td>Indian Institute of Technology Kharagpur (IN)</td>
+	<td align="center">2017</td>
+</tr>
+<tr>
+	<td>Bachelor of Engineering</td>
+	<td>Mechanical Engineering</td>
+	<td>Birla Institute of Technology, Mesra (IN)</td>
+	<td align="center">2012</td>
+</tr>
+</table>
 
-**Master of Technology, Earth System Science and Technology, 2015 - 2017**
 
-Indian Institute of Technology Kharagpur, Kharagpur, India
+<br>
 
-**Bachelor of Engineering, Mechanical Engineering, 2008 - 2012**
-
-Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
-
-## **SKILLS**
+<h1 style="background-color: #ADD8E6; color:#000000"> SKILLS</h1>
 
 
+#### **Data Analysis**
 
-#### **Data Science Skills**
+-   **Programming Languages:** 
+	- Python (Object oriented programming)
+	- MATLAB
+	- Fortran 
+	- Javascript
 
--   **Programming Languages:** Python, MATLAB, Fortran, Javascript
+-   **Statistical Learning**: 
+	- Bayesian Analysis and Parameter Estimation (MLE, MAP, MCMC) 
+	- Regression, Classification and Clustering
+	- Time-series Analysis (state space models, MLR, DLM)
+	- Predictive Modeling
+	- Trajectory Modeling and Analysis
+	- Causal Network Analysis
+	- Natural Language Processing
+	- Machine / Deep Learning (MLP, CNN, RNN, AutoEncoder, Transformer, GAN)
+	- Explainable Artificial Intelligence
 
--   **Statistical Learning**: Bayesian analysis and parameter
-    estimation (MLE, MAP, MCMC), regression, classification and
-    clustering, Time series analysis (state space models, MLR, DLM),
-    Trajectory analysis, Deep learning, and Explainable Artificial Intelligence.
+#### **Physical Modeling**
 
-#### **Physical Modeling Skills**
+- **Trajectory Modeling**: HYSPLIT
 
--   **Trajectory Modeling**: HYSPLIT
+- **Atmospheric modeling**: WRF, GEOS-Chem, climlab
 
--   **Atmospheric modeling**: WRF, GEOS-Chem, climlab
+- **Radiative Transfer Modeling**: RRTMG
 
--   **Radiative Transfer Modeling**: RRTMG
+#### **Libraries / Frameworks**
 
-#### **Analytics Tools**
+- **Statistical Learning**: Pandas, Statsmodels, Scikit-learn, NLTK, Networkx, tensorflow, Keras
 
--   **Statistical Learning**: Statsmodels, Scikit-learn, Keras.
+- **Data visualization**: Matplotlib, Seaborn, Basemap, Cartopy
 
--   **Data visualization**: Matplotlib, Seaborn, Basemap, Cartopy in Python.
+- **Mathematical optimization**: Scipy, Scikit-Optimize
 
--   **Mathematical optimization**: Scipy, Scikit-Optimize in Python.
+- **RADAR Data Analysis**: wradlib
 
--   **RADAR Data Analysis**: wradlib in Python.
+- **Geospatial Data Analysis**: gdal, rasterio, xarray, geopandas, Google Earth Engine
 
--   **Geospatial Data Analysis**: gdal, rasterio, xarray, geopandas, Google Earth Engine
-
--   **Parallel Programming**: dask, joblib in Python.
+- **Parallel Programming**: dask, joblib
 
 #### **Other Computer related skills**
 
@@ -64,9 +94,14 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 
 -   Conversant with Markdown, HTML/CSS and LaTeX.
 
-## **RESEARCH EXPERIENCE**
+-   Experience of working on supercomputer
 
-#### **Research Scholar, ATMOS Lab, PhD, 2017 - Present**
+
+
+<h1 style="background-color: #ADD8E6; color:#000000"> RESEARCH EXPERIENCE</h1>
+
+
+#### **Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present**
 
 -   Setup WRF-Chem and GEOS-Chem for atmospheric composition studies.
 
@@ -102,7 +137,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     
 -   Simulated and analysed global atmospheric chemistry using GEOS-Chem at Pratyush, India's fastest supercomputer.
 
-#### **Research Assistant, ATMOS Lab, MTech, 2016 - 2017**
+#### **Research Assistant, ATMOS Lab, IIT Kharagpur, 2016 - 2017**
 
 -   Compared long term total column ozone datasets from various ground
     based instruments with satellite based observations in Antarctic
@@ -115,7 +150,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   Investigated freezing of water droplet and subsequent transformation
     of its shape numerically using **MATLAB**.
 
-#### **Undergraduate project, BE, 2011 - 2012**
+#### **Undergraduate project, BIT Mesra, 2011 - 2012**
 
 -   Carried out numerical investigation of natural convection in Bingham
     fluids within a square enclosure with differentially heated
@@ -124,7 +159,8 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
 -   Performed optimization of Wind Turbine Blades using **Fluent** in
     **Ansys.**
 
-## **PUBLICATIONS**
+
+<h1 style="background-color: #ADD8E6; color:#000000"> PUBLICATIONS</h1>
 
 -   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
 
@@ -152,7 +188,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     conditions: Comparison with ground-based observations in
     1979-2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
 
-## **CONFERENCES**
+<h1 style="background-color: #ADD8E6; color:#000000"> CONFERENCES</h1>
 
 -   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical
     teleconnection and climate impacts of tropospheric ozone variability
@@ -171,7 +207,7 @@ Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India
     effects on physical parameters in Arabian Sea*, 
     [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf)
 
-## **AWARDS/GRANTS**
+<h1 style="background-color: #ADD8E6; color:#000000"> AWARDS/GRANTS</h1>
 
 -   Received full funding for attending European Geosciences Union (EGU) 
     General Assembly held in Vienna, Austria. **April** **2017**
