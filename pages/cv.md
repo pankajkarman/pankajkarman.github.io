@@ -181,12 +181,12 @@
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of
     ozone recovery evidenced by reduction in the occurrence of Antarctic
-    ozone loss saturation*, [npj Climate and Atmospheric Science, 2018.](https://www.nature.com/articles/s41612-018-0052-6)
+    ozone loss saturation*, npj Climate and Atmospheric Science, 2018 [[link]](https://www.nature.com/articles/s41612-018-0052-6).
 
 -   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy
     of satellite total column ozone measurements in polar vortex
     conditions: Comparison with ground-based observations in
-    1979-2013*, [Remote Sensing of Environment, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671)
+    1979-2013*, Remote Sensing of Environment, 2018 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671).
 
 <h1 style="background-color: #ADD8E6; color:#000000"> CONFERENCES</h1>
 
@@ -200,12 +200,12 @@
 -   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and
     Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
     Vortex conditions: Comparison to TOMS/OMI observations during
-    1979-2013*, [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf)
+    1979-2013*, EGU General Assembly, Vienna, April 2017 [[pdf]](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf).
 
 -   Rohit Kumar Shukla, Chithra Shaji, Satya P Ojha, and **Pankaj
     Kumar**: *A study on the seasonal variability of upwelling and its
     effects on physical parameters in Arabian Sea*, 
-    [EGU General Assembly, Vienna, April 2017.](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf)
+    EGU General Assembly, Vienna, April 2017 [[pdf]](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf).
 
 <h1 style="background-color: #ADD8E6; color:#000000"> AWARDS/GRANTS</h1>
 
