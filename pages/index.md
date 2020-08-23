@@ -41,7 +41,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 -   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
 
--   **P. Kumar,** et al.: *Mining trajectories using deep representational learning,* in preparation.
+-   **P. Kumar ** et al.: *Mining trajectories using deep representational learning,* in preparation.
 
 -   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
 
