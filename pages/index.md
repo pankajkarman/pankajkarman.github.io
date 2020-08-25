@@ -24,7 +24,7 @@ small
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<img src="/images/me.png" align="right" width="170" HSPACE="25" VSPACE="8">
+<img src="/images/me.jpg" align="right" width="210" HSPACE="25" VSPACE="8">
 
 <p align='justify'>
 Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS">Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Human Resource Development (MHRD), Government of India.
@@ -36,19 +36,34 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf">[pdf]</a>.
 
-<BR>
+<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>News Highlights</h1>
 
-## **News Highlights**
-
-<BR>
-
-- India Today - [Antarctic ozone hole is healing, confirms IIT Kharagpur study, November 29, 2018. ](https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29)
-
-- NDTV - [IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole, November 30, 2018. ](https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054)
-
-- India TV - [IIT Kharagpur study confirms healing of Antarctic Ozone hole, December 01, 2018. ](https://www.indiatvnews.com/science/news-iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-488330)
-
-- Dainik Bhaskar - [Antarctic ozone hole is healing IIT Kharagpur study reveals, November 29, 2018.](https://www.bhaskar.com/health/healthy-life/news/antarctic-ozone-hole-is-healing-iit-kharagpur-study-reveals-01345077.html)
+<div class="card-deck">
+  <div class="card">
+  <img class="card-img-top" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201811/ozone-layer-shrinking_647-x404.jpg?B6H53U1jPoBqy2VEEq.n0wKPYdoXkT1E">
+    <div class="card-body">
+    <h3 class="card-title" align="left">India Today</h3>
+      <p class="card-text" align='justify'>Antarctic ozone hole is healing, confirms IIT Kharagpur study</p>
+    <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29" class="btn btn-primary">Read more</a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="https://www.ndtv.com/education/cache-static/media/presets/625X400/article_images/2020/5/12/llvlorh_iit-kharagpur-website_625x300_03_August_18.webp">
+    <div class="card-body">
+    <h3 class="card-title" align="left">NDTV</h3>
+      <p class="card-text" align='justify'>IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole</p>
+    <a href="https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054" class="btn btn-primary">Read more</a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="//images.firstpost.com/wp-content/uploads/2018/12/This-NASA-image-shows-the-ozone-hole-over-Antarctic-in-2001_NASA.jpg">
+    <div class="card-body">
+    <h3 class="card-title" align="left">Firstpost</h3>
+      <p class="card-text" align='justify'>Antarctic Ozone hole healing confirmed in new study by IIT Kharagpur researchers</p>
+    <a href="https://www.firstpost.com/tech/science/antarctic-ozone-hole-healing-confirmed-in-new-study-by-iit-kharagpur-researchers-5651941.html" class="btn btn-primary">Read more</a>
+    </div>
+  </div>
+</div>
 
 <BR>
 
@@ -95,7 +110,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
-      <h5 class="card-title" align="left">COVID19: A comprehensive review</h5>
+      <h3 class="card-title" align="left">COVID19: A comprehensive review</h3>
       <p class="card-text" align='justify'>In this blog, I'll be discussing about a few papers which have convincingly demonstrated the dominance of aerosol transmission for the spread of the novel coronavirus. I'll also discuss the scientific reasoning behind the steps being recommended to keep the coronavirus at bay and the role of ventilation in avoiding the spread of the virus. </p>
       <a href="blog/covid/" class="card-link">Read More</a>
       <div class="embed-container"><iframe width="200" height="150" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://www.covid19india.org/state/BR"></iframe></div>
@@ -103,7 +118,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
   </div>
   <div class="card">
     <div class="card-body">
-      <h5 class="card-title">Writing papers and reports in markdown</h5>
+      <h3 class="card-title">Writing papers and reports in markdown</h3>
       <p class="card-text" align='justify'>In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by .md file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc.</p>
       <a href="blog/markdown/" class="card-link">Read More</a>
       <img class="card-img-top" src="/images/mdflow.png" alt="Card image cap">
