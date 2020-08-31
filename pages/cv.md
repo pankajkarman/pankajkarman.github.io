@@ -171,9 +171,13 @@
 -   J. Kuttippurath, A. R. Ravishankara, P. Newmann, **P. Kumar**, S. Raj, M. Chipperfiled W. Feng, F. Lefevre, 
     L. Froidevaux, M. L. Santee, G. S. Gopikrishnan, P. von Gathen, M. Weber, L. E. Flynn, J. Davies, and H. Fast: 
     *A myth-busting ozone hole in the Arctic*, in preparation.
+    
+-   J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, **P. Kumar**, P. J. Nair, H. Varikoden, 
+    S. Raj, P. A. Francis, and P. C. Pandey : *Observed rainfall changes in the past century (1901–2019) over northeast 
+    India and the wettest place on the Earth*, Nature Communications, in review.
 
 -   J. Kuttippurath, S. Raj, **P. Kumar** and K. Abbhishek: *The ozone hole observed at the Indian station Maitri in Antarctica*, 
-    Polar Science, submitted.
+    Polar Science, in review.
 
 -   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, 
     P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* 
