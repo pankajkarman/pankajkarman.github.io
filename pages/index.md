@@ -182,7 +182,7 @@ Flynn, J. Davies, and H. Fast: *A myth-busting ozone hole in the Arctic*, in pre
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Conferences</h1>
 
--   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica*, National Conference on Polar Sciences, Goa, August 2019.
+-   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica*, National Conference on Polar Sciences, Goa, August 2019 [[pdf]](/ncps2019.pdf).
 
 -   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
     Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013*, EGU General Assembly, Vienna, April 2017 [[pdf]](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf).

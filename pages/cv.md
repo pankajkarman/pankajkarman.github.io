@@ -196,7 +196,7 @@
 
 -   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical
     teleconnection and climate impacts of tropospheric ozone variability
-    in Antarctica*, National Conference on Polar Sciences, Goa, August 2019.
+    in Antarctica*, National Conference on Polar Sciences, Goa, August 2019 [[pdf]](/ncps2019.pdf).
 
 -   Jayanarayanan Kuttippurath and **Pankaj Kumar**: *Polar Ozone and
     Climate Change*, National Conference on Polar Sciences, Goa, August 2019.
