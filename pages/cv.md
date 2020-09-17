@@ -168,9 +168,7 @@
 
 -   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
 
--   J. Kuttippurath, A. R. Ravishankara, P. Newmann, **P. Kumar**, S. Raj, M. Chipperfiled W. Feng, F. Lefevre, 
-    L. Froidevaux, M. L. Santee, G. S. Gopikrishnan, P. von Gathen, M. Weber, L. E. Flynn, J. Davies, and H. Fast: 
-    *A myth-busting ozone hole in the Arctic*, in preparation.
+-   J. Kuttippurath, **P. Kumar**, S. Raj, G. S Gopikrishnan: *A myth-busting ozone hole in the Arctic*, in preparation.
     
 -   J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, **P. Kumar**, P. J. Nair, H. Varikoden, 
     S. Raj, P. A. Francis, and P. C. Pandey : *Observed rainfall changes in the past century (1901–2019) over northeast 

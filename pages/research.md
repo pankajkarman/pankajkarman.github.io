@@ -78,7 +78,7 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 
 ### Papers in preparation
 
--   **P. Kumar**, M. Mishra and R. Shukla: *Mining trajectories using deep representational learning,* in preparation.
+-   **P. Kumar ** et al.: *Mining trajectories using deep representational learning,* in preparation.
 
 -   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
 

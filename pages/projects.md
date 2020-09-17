@@ -12,7 +12,7 @@
 
 - [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert tables from pandas to latex or markdown format.
 
-- [Remote Sensing](https://github.com/pankajkarman/satelite): A collection of python scripts to read and correct atmospheric composition profile data from various satellites ([Aura-MLS](https://mls.jpl.nasa.gov/) and [OMPS](https://www.ball.com/aerospace/programs/omps)) like geopotential height, Temperature, ozone, water vapor, N<sub>2</sub>O, ClO and HNO<sub>3</sub>.
+- [Remote Sensing](https://github.com/pankajkarman/satelite): A collection of python scripts to read and correct atmospheric composition profile data from various satellites ([GOME2](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp/About_GOME-2), [Aura-MLS](https://mls.jpl.nasa.gov/) and [OMPS](https://www.ball.com/aerospace/programs/omps)) like geopotential height, Temperature, ozone, water vapor, N<sub>2</sub>O, ClO and HNO<sub>3</sub>.
 
 - [bias-correction](https://github.com/pankajkarman/bias_correction): A python library to perform bias correction of datasets in order to remove cross-dataset biases. Implemented methods include quantile mapping, modified quantile mapping, scaled distribution mapping (both Gamma and Normal corrections).
 
@@ -26,15 +26,13 @@
 
 - [Arctic Ozone hole Analysis](https://github.com/pankajkarman/arctic_ozone_hole_2020): A collection of python scripts to analyze ozone hole in Arctic region using various satellite and ground-based measurements and Atmospheric chemistry model. A paper based on this project is in preparation. 
 
-	Analysed satellites inlcude:
+	Analysed satellites include:
 
 	- ACE-FTS
 	- MLS
 	- OMPS
 	- GOME
 	- OMI
-	- IASI
-	- MetOp-1/2
 	
 - [Antarctic Ozone hole Analysis](hhttps://github.com/pankajkarman/antarctic_ozone_hole_2019): A collection of python scripts to analyze ozone hole in Antarctic region using various satellite and ground-based measurements and Atmospheric chemistry model. A paper based on this project is in preparation. 
 

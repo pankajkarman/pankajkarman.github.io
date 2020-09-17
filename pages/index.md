@@ -18,11 +18,13 @@
 
 small
 {position: absolute; z-index: 40; bottom: 0; margin-bottom: -5px;}
-</style>
+
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</style>
 
 <img src="/images/me.jpg" align="right" width="210" HSPACE="25" VSPACE="8">
 
@@ -138,9 +140,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 -   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
 
--   J. Kuttippurath, A. R. Ravishankara, P. Newmann, **P. Kumar**, S. Raj, M. Chipperfiled W. Feng,
-F. Lefevre, L. Froidevaux, M. L. Santee, G. S Gopikrishnan, P. von Gathen, M. Weber, L. E.
-Flynn, J. Davies, and H. Fast: *A myth-busting ozone hole in the Arctic*, in preparation.
+-   J. Kuttippurath, **P. Kumar**, S. Raj, G. S Gopikrishnan: *A myth-busting ozone hole in the Arctic*, in preparation.
 
 -   J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, **P. Kumar**, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : *Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth*, Nature Communications, in review.
 
@@ -166,7 +166,7 @@ Flynn, J. Davies, and H. Fast: *A myth-busting ozone hole in the Arctic*, in pre
 </div>
 </div>
 
--   J. Kuttippurath, **P. Kumar**, P. J. Nair, and A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, Remote Sensing of Environment, 2018 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671).
+-   J. Kuttippurath, **P. Kumar**, P. J. Nair, and A. Chakraborty: *Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013*, Remote Sensing of Environment, 2018 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671). 
 
 <div class="container">
 <div class="row">
@@ -177,8 +177,6 @@ Flynn, J. Davies, and H. Fast: *A myth-busting ozone hole in the Arctic*, in pre
 </div>
 </div>
 </div>
-
-<BR>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Conferences</h1>
 
