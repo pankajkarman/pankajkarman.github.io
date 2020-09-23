@@ -183,6 +183,10 @@
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
+    <center>
+    <img src="/images/vortex.gif" width="770">
+    </center>
+    <br/>
       <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present</h3>
       <p class="card-text" align='justify'>
 <ul>
@@ -230,6 +234,7 @@
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
+    <img class="card-img-top" src="/images/droplet.gif" width="170"><br/>
       <h3 class="card-title" align="left">Research Assistant, ATMOS Lab, IIT Kharagpur, 2016 - 2017</h3>
       <p class="card-text" align='justify'>
 <ul>
@@ -247,13 +252,10 @@
 </p>
     </div>
   </div>
-</div>
 
-<BR/>
-
-<div class="card-deck">
   <div class="card">
     <div class="card-body">
+    <img class="card-img-top" src="https://i0.wp.com/gazette.mun.ca/wp-content/uploads/2016/05/wind_turbine_loop_small.gif?resize=600%2C400&quality=100&ssl=1"><br/><br/><br/>
       <h3 class="card-title" align="left">Undergraduate Project, BIT Mesra, 2011 - 2012</h3>
       <p class="card-text" align='justify'>
 <ul>
@@ -272,54 +274,69 @@
 
 <h1 style="background-color: #ADD8E6; color:#000000"> PUBLICATIONS</h1>
 
--   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
-
--   **P. Kumar,** M. Mishra and R. Shukla: *Mining trajectories using deep representational learning,* in preparation.
-
--   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
-
--   J. Kuttippurath, **P. Kumar**, S. Raj, G. S Gopikrishnan: *A myth-busting ozone hole in the Arctic*, in preparation.
-    
--   J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, **P. Kumar**, P. J. Nair, H. Varikoden, 
-    S. Raj, P. A. Francis, and P. C. Pandey : *Observed rainfall changes in the past century (1901–2019) over northeast 
-    India and the wettest place on the Earth*, Nature Communications, in review.
-
--   J. Kuttippurath, S. Raj, **P. Kumar** and K. Abbhishek: *The ozone hole observed at the Indian station Maitri in Antarctica*, 
-    Polar Science, in review.
-
--   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, 
-    P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* 
-    Environmental Science & Technology, in revision.
-
--   J. Kuttippurath, **P. Kumar**, P. J. Nair, P C Pandey: *Emergence of
-    ozone recovery evidenced by reduction in the occurrence of Antarctic
-    ozone loss saturation*, npj Climate and Atmospheric Science, 2018 [[link]](https://www.nature.com/articles/s41612-018-0052-6).
-
--   J. Kuttippurath, **P. Kumar**, P. J. Nair, A. Chakraborty: *Accuracy
-    of satellite total column ozone measurements in polar vortex
-    conditions: Comparison with ground-based observations in
-    1979-2013*, Remote Sensing of Environment, 2018 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671).
-
+<div class="card-deck">
+  <div class="card">
+    <div class="card-body">
+    <center>
+    <img src="/images/sonde11.png" width="800"><br/>
+    </center>
+      <p class="card-text" align='justify'>
+<ul>
+<li><p><strong>P. Kumar</strong>: <em>HyTraj: A python toolkit for trajectory analysis and receptor modeling,</em> in preparation.</p></li>
+<li><p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p></li>
+<li><p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p></li>
+<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, S. Raj, G. S Gopikrishnan: <em>A myth-busting ozone hole in the Arctic</em>, in preparation.</p></li>
+<li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Nature Communications, in review.</p></li>
+<li><p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p></li>
+<li><p><strong>P. Kumar</strong>, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: <em>Climate impact of tropospheric ozone trends in Antarctica,</em> Environmental Science &amp; Technology, in revision.</p></li>
+<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, P C Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p></li>
+<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979-2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>.</p></li>
+</ul>
+</p>
+    </div>
+  </div>
+</div> 
+<br/> 
+  
+ 
 <h1 style="background-color: #ADD8E6; color:#000000"> CONFERENCES</h1>
 
--   **Pankaj Kumar** and Jayanarayanan Kuttippurath: *Tropical
-    teleconnection and climate impacts of tropospheric ozone variability
-    in Antarctica*, National Conference on Polar Sciences, Goa, August 2019 [[pdf]](/ncps2019.pdf).
-
--   Jayanarayanan Kuttippurath and **Pankaj Kumar**: *Polar Ozone and
-    Climate Change*, National Conference on Polar Sciences, Goa, August 2019.
-
--   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Prijitha J. Nair, and
-    Arun Chakroborty: *Accuracy of Ground-based measurements in Polar
-    Vortex conditions: Comparison to TOMS/OMI observations during
-    1979-2013*, EGU General Assembly, Vienna, April 2017 [[pdf]](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf).
-
--   Rohit Kumar Shukla, Chithra Shaji, Satya P Ojha, and **Pankaj
-    Kumar**: *A study on the seasonal variability of upwelling and its
-    effects on physical parameters in Arabian Sea*, 
-    EGU General Assembly, Vienna, April 2017 [[pdf]](https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf).
+<div class="card-deck">
+  <div class="card">
+    <div class="card-body">
+    <center>
+    <img src="https://alln-extcloud-storage.cisco.com/ciscoblogs/KR50464.jpg" width="800">
+    </center>
+    
+    <br/>
+      <p class="card-text" align='justify'>
+<ul>
+<li><p><strong>Pankaj Kumar</strong> and Jayanarayanan Kuttippurath: <em>Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica</em>, National Conference on Polar Sciences, Goa, August 2019 <a href="/ncps2019.pdf">[pdf]</a>.</p></li>
+<li><p>Jayanarayanan Kuttippurath and <strong>Pankaj Kumar</strong>: <em>Polar Ozone and Climate Change</em>, National Conference on Polar Sciences, Goa, August 2019.</p></li>
+<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: <em>Accuracy of Ground-based measurements in Polar Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf">[pdf]</a>.</p></li>
+<li><p>Rohit Kumar Shukla, Chithra Shaji, Satya P Ojha, and <strong>Pankaj Kumar</strong>: <em>A study on the seasonal variability of upwelling and its effects on physical parameters in Arabian Sea</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf">[pdf]</a>.</p></li>
+</ul>
+</p>
+    </div>
+  </div>
+</div> 
+<br/>
 
 <h1 style="background-color: #ADD8E6; color:#000000"> AWARDS/GRANTS</h1>
 
--   Received full funding for attending European Geosciences Union (EGU) 
-    General Assembly held in Vienna, Austria. **April** **2017**
+<div class="card-deck">
+  <div class="card">
+    <div class="card-body">
+    <center>
+    <img class="card-img-top" src="https://www2.uibk.ac.at/images/648x122/geographie/lidar/news/images/egu2017.png">
+    </center>
+    
+    <br/>
+      <p class="card-text" align='justify'>
+<ul>
+<li>Received full funding for attending European Geosciences Union (EGU) General Assembly held in Vienna, Austria. <strong>April</strong> <strong>2017</strong></li>
+</ul>
+</p>
+    </div>
+  </div>
+</div> 
