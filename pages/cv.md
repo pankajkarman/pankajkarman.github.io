@@ -184,7 +184,7 @@
   <div class="card">
     <div class="card-body">
     <center>
-    <img src="/images/vortex.gif" width="770">
+    <img src="/images/geoschem.gif" width="770">
     </center>
     <br/>
       <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present</h3>
