@@ -9,6 +9,12 @@
 .. type: text
 -->
 
+<style type="text/css">
+  p a{
+  text-decoration: underline;
+}
+</style>
+
 <h1 style="background-color: #ADD8E6; color:#000000"> EDUCATION</h1>
 
 

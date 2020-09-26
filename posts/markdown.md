@@ -9,6 +9,24 @@
 .. type: text
 -->
 
+<style>
+p a{
+  text-decoration: underline;
+}
+
+ol a{
+  text-decoration: underline;
+}
+
+ul a{
+  text-decoration: underline;
+}
+
+nav a{
+  text-decoration: none;
+}
+</style>
+
 This blog was inspired by [this PeerJ article](https://peerj.com/articles/cs-112/) and relies heavily on the same for content.
 
 **Note:** This blog was written in Markdown.

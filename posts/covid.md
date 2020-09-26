@@ -10,6 +10,15 @@
 -->
 
 <style>
+p a{
+  text-decoration: underline;
+}
+
+ol a{
+  text-decoration: underline;
+}
+
+
 .embed-container 
 {position: relative; padding-bottom: 100%; height: 10; max-width: 100%;} 
 

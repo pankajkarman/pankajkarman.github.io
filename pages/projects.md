@@ -10,6 +10,20 @@
 .. has_math: true
 -->
 
+<style type="text/css">
+p a{
+  text-decoration: underline;
+}
+
+ol a{
+  text-decoration: underline;
+}
+
+nav, article{
+  text-decoration: none;
+}
+</style>
+
 - [markdown-scholar](https://github.com/pankajkarman/markdown-scholar): A python tool to convert tables from pandas to latex or markdown format.
 
 - [Remote Sensing](https://github.com/pankajkarman/satelite): A collection of python scripts to read and correct atmospheric composition profile data from various satellites ([GOME2](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp/About_GOME-2), [Aura-MLS](https://mls.jpl.nasa.gov/) and [OMPS](https://www.ball.com/aerospace/programs/omps)) like geopotential height, Temperature, ozone, water vapor, N<sub>2</sub>O, ClO and HNO<sub>3</sub>.
