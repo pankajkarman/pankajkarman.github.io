@@ -39,8 +39,8 @@ color: #E6FFFB;
 <div class="card-deck ">
   <div class="card landing">
     <div class="card-body ">
-    <img src="/images/me.jpg" class="rounded-rectangle card-img-left" width="287" style="float: left; padding: 5px 15px 15px 0px;">
-    <p class="card-text" align='justify'>
+    <img src="/images/me.jpg" class="rounded-rectangle card-img-left" width="400" style="float: left; padding: 5px 25px 5px 0px;">
+    <p class="card-text" align='left' style='font-size: large'>
 
 Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline; color:#00eb00">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline; color:#00eb00">Dr. Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Human Resource Development (MHRD), Government of India.
 
