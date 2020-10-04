@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pankaj Kumar</title><link>https://pankajkarman.github.io/</link><description>This is Pankaj Kumar's personal website.</description><atom:link href="https://pankajkarman.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:pankaj.kmr1990@gmail.com"&gt;Pankaj Kumar&lt;/a&gt; </copyright><lastBuildDate>Sat, 26 Sep 2020 04:06:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>COVID19: A comprehensive review</title><link>https://pankajkarman.github.io/blog/covid/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pankaj Kumar</title><link>https://pankajkarman.github.io/</link><description>This is Pankaj Kumar's personal website.</description><atom:link href="https://pankajkarman.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:pankaj.kmr1990@gmail.com"&gt;Pankaj Kumar&lt;/a&gt; </copyright><lastBuildDate>Sun, 04 Oct 2020 05:46:40 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>COVID19: A comprehensive review</title><link>https://pankajkarman.github.io/blog/covid/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
 p a{
   text-decoration: underline;
 }
@@ -185,7 +185,7 @@ together have equal filtration ability as a surgical mask.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://www.sciencedirect.com/science/article/pii/S014139102030183X"&gt;Extended use of face masks during the COVID-19 pandemic - Thermal conditioning and spray-on surface disinfection&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;</description><category>coronavirus</category><category>covid</category><guid>https://pankajkarman.github.io/blog/covid/</guid><pubDate>Sun, 12 Jul 2020 01:16:34 GMT</pubDate></item><item><title>Writing papers and reports in markdown</title><link>https://pankajkarman.github.io/blog/markdown/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><category>coronavirus</category><category>covid</category><guid>https://pankajkarman.github.io/blog/covid/</guid><pubDate>Sun, 12 Jul 2020 01:16:34 GMT</pubDate></item><item><title>Technical writing using Markdown</title><link>https://pankajkarman.github.io/blog/markdown/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
 p a{
   text-decoration: underline;
 }
