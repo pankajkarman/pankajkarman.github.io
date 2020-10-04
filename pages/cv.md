@@ -81,31 +81,7 @@
 </p>
     </div>
   </div>
-  <div class="card">
-    <div class="card-body">
-      <img class="card-img-top" src="https://geoclimatologyblog.files.wordpress.com/2020/03/cru-cartopy.png?w=640">
-      <h2 class="card-title">Libraries / Frameworks</h2>
-      <p class="card-text" align='justify'>
-
-<ul>
-
-    <li><strong>Statistical Learning</strong>: Pandas, Statsmodels, Scikit-learn, NLTK, Networkx, Tensorflow, Keras</li>
-
-    <li><strong>Visualization</strong>: Matplotlib, Seaborn, Arviz, Basemap, Cartopy</li>
-
-    <li><strong>Optimization</strong>: Scipy, Scikit-Optimize</li>
-
-    <li><strong>RADAR Analysis</strong>: wradlib</li>
-
-    <li><strong>Geospatial Data Analysis</strong>: gdal, rasterio, xarray, geopandas, Google Earth Engine</li>
-
-    <li><strong>Parallel Programming</strong>: dask, joblib</li>
-
-</ul>
-</p>
-    </div>
-  </div>
-  
+   
 <div class="card">
     <div class="card-body">
     <img class="card-img-top" src="https://static.skillshare.com/uploads/video/thumbnails/c073470e95824079bc93e74d1bd5bdb5/original">
@@ -137,7 +113,30 @@
 </p>
     </div>
   </div>
+  
+    <div class="card">
+    <div class="card-body">
+      <img class="card-img-top" src="https://geoclimatologyblog.files.wordpress.com/2020/03/cru-cartopy.png?w=640">
+      <h2 class="card-title">Libraries / Frameworks</h2>
+      <p class="card-text" align='justify'>
+
+<ul>
+
+    <li><strong>Statistical Learning</strong>: Pandas, Statsmodels, Scikit-learn, NLTK, Networkx, Tensorflow, Keras</li>
+
+    <li><strong>Visualization</strong>: Matplotlib, Seaborn, Arviz, Basemap, Cartopy, Folium </li>
+
+    <li><strong>RADAR Analysis</strong>: wradlib</li>
+
+    <li><strong>Geospatial Data Analysis</strong>: gdal, rasterio, xarray, geopandas, Google Earth Engine</li>
+
+    <li><strong>Parallel Programming</strong>: dask, joblib</li>
+
+</ul>
+</p>
+    </div>
   </div>
+  
 </div>
 
 <BR/>
@@ -292,7 +291,7 @@
 <li><p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p></li>
 <li><p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p></li>
 <li><p>J. Kuttippurath, <strong>P. Kumar</strong>, S. Raj, G. S Gopikrishnan: <em>A myth-busting ozone hole in the Arctic</em>, in preparation.</p></li>
-<li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Nature Communications, in review.</p></li>
+<li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, in review.</p></li>
 <li><p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p></li>
 <li><p><strong>P. Kumar</strong>, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: <em>Climate impact of tropospheric ozone trends in Antarctica,</em> Environmental Science &amp; Technology, in revision.</p></li>
 <li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, P C Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p></li>
@@ -340,7 +339,7 @@
     <br/>
       <p class="card-text" align='justify'>
 <ul>
-<li>Received full funding for attending European Geosciences Union (EGU) General Assembly held in Vienna, Austria. <strong>April</strong> <strong>2017</strong></li>
+<li>Received full funding for attending European Geosciences Union (EGU) General Assembly held during <strong>23-28 April 2017</strong> in Vienna, Austria.</li>
 </ul>
 </p>
     </div>

@@ -1,5 +1,5 @@
 <!--
-.. title: Writing papers and reports in markdown
+.. title: Technical writing using Markdown
 .. slug: markdown
 .. date: 2020-05-08 06:46:34 UTC+05:30
 .. tags: pandoc, markdown, 
