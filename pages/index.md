@@ -65,24 +65,24 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
   <img class="card-img-top" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201811/ozone-layer-shrinking_647-x404.jpg?B6H53U1jPoBqy2VEEq.n0wKPYdoXkT1E">
     <div class="card-body">
     <h3 class="card-title" align="left">India Today</h3>
-      <p class="card-text" align='justify'>Antarctic ozone hole is healing, confirms IIT Kharagpur study</p>
-    <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29" class="btn btn-primary">Read more</a>
+      <p class="card-text" align='justify'>Antarctic ozone hole is healing, confirms IIT Kharagpur study.</p>
+    <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="https://www.ndtv.com/education/cache-static/media/presets/625X400/article_images/2020/5/12/llvlorh_iit-kharagpur-website_625x300_03_August_18.webp">
     <div class="card-body">
     <h3 class="card-title" align="left">NDTV</h3>
-      <p class="card-text" align='justify'>IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole</p>
-    <a href="https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054" class="btn btn-primary">Read more</a>
+      <p class="card-text" align='justify'>IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole.</p>
+    <a href="https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="//images.firstpost.com/wp-content/uploads/2018/12/This-NASA-image-shows-the-ozone-hole-over-Antarctic-in-2001_NASA.jpg">
     <div class="card-body">
     <h3 class="card-title" align="left">Firstpost</h3>
-      <p class="card-text" align='justify'>Antarctic Ozone hole healing confirmed in new study by IIT Kharagpur researchers</p>
-    <a href="https://www.firstpost.com/tech/science/antarctic-ozone-hole-healing-confirmed-in-new-study-by-iit-kharagpur-researchers-5651941.html" class="btn btn-primary">Read more</a>
+      <p class="card-text" align='justify'>Antarctic Ozone hole healing confirmed in new study by IIT Kharagpur researchers.</p>
+    <a href="https://www.firstpost.com/tech/science/antarctic-ozone-hole-healing-confirmed-in-new-study-by-iit-kharagpur-researchers-5651941.html" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
 </div>
@@ -99,7 +99,21 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
       <p class="card-text" align='justify'>In this work, I develop a sequence-to-sequence model using variational Autoencoder to learn latent representation of trajectories.</p>
     </div>
   </div>
+  
   <div class="card">
+    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">pyvortex</h5>
+      <p class="card-text" align='justify'>A python module to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
+      <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
+    </div> 
+  </div>
+</div>
+  
+<br/>  
+  
+<div class="card-deck">
+ <div class="card">
     <img class="card-img-top" src="/images/causal.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Causal Inference</h5>
@@ -108,18 +122,10 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">pyvortex</h5>
-      <p class="card-text" align='justify'>A python module to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
-      <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
-    </div>
-  </div>
-  <div class="card">
     <img class="card-img-top" src="/images/droplet.gif" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Supercooled Droplet Freezing</h5>
-      <p class="card-text" align='justify'>This project investigates the freezing of a supercooled water droplet placed on a supercooled plate and subsequent singularity formation at the tip. It simulated the evolution of the interaction between all three phases.</p>
+      <h5 class="card-title">Freezing of supercooled droplet</h5>
+      <p class="card-text" align='justify'>This project investigates the freezing of a supercooled water droplet placed on a supercooled plate and subsequent singularity formation at the tip; simulating the interaction between all three phases of water.</p>
       <a href="https://github.com/pankajkarman/droplet" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
