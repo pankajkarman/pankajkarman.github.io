@@ -11,7 +11,7 @@
 <link href="../../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../rss.xml">
 <link rel="canonical" href="https://pankajkarman.github.io/blog/markdown/">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
@@ -35,7 +35,7 @@
 navbar-dark bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
-        <a class="navbar-brand" href="https://pankajkarman.github.io/">
+        <a class="navbar-brand" href="../../">
 
             <span id="blog-title">Pankaj Kumar</span>
         </a>
@@ -62,6 +62,9 @@ navbar-dark bg-dark
                 </li>
 <li class="nav-item">
 <a href="../../archive.html" class="nav-link">Blog</a>
+                </li>
+<li class="nav-item">
+<a href="../../earth/index.html" class="nav-link">Earth</a>
 
                 
             </li>
@@ -144,12 +147,10 @@ nav a{
 <span class="err">### A h3 header</span>
 </code></pre>
 
-
 <pre class="code literal-block"><span></span><code><span class="o">*</span><span class="n">Italic</span><span class="o">*</span><span class="p">,</span> <span class="o">**</span><span class="n">bold</span><span class="o">**</span> <span class="k">and</span> <span class="o">***</span><span class="k">both</span><span class="o">***</span>
 
 <span class="n">Paragraphs</span> <span class="k">are</span> <span class="n">separated</span> <span class="k">by</span> <span class="n">a</span> <span class="n">blank</span> <span class="n">line</span><span class="p">.</span>
 </code></pre>
-
 
 <p>Here is an unordered list:</p>
 <pre class="code literal-block"><span></span><code><span class="err">- apple</span>
@@ -158,7 +159,6 @@ nav a{
 <span class="err">- banana</span>
 <span class="err">- orange</span>
 </code></pre>
-
 
 <p>and it would be rendered as</p>
 <blockquote>
@@ -180,7 +180,6 @@ nav a{
 <span class="err">5. orange</span>
 </code></pre>
 
-
 <p>and it would be rendered as</p>
 <blockquote>
 <ol>
@@ -197,14 +196,12 @@ nav a{
 <pre class="code literal-block"><span></span><code><span class="p">[</span><span class="n">Pankaj</span> <span class="n">Kumar</span><span class="p">](</span><span class="nl">https</span><span class="p">:</span><span class="c1">//pankajkarman.github.io/)</span>
 </code></pre>
 
-
 <p>and it would be rendered as </p>
 <blockquote>
 <p><a href="https://pankajkarman.github.io/">Pankaj Kumar</a></p>
 </blockquote>
 <pre class="code literal-block"><span></span><code><span class="err">~~Strikethrough text~~</span>
 </code></pre>
-
 
 <p>would be rendered as</p>
 <blockquote>
@@ -214,7 +211,6 @@ nav a{
 
 <span class="k">Some</span> <span class="nb">text</span> <span class="o">^</span><span class="n">Superscript</span><span class="o">^</span>
 </code></pre>
-
 
 <h4>A list of useful links for further learning about Markdown</h4>
 <ul>
@@ -243,7 +239,6 @@ nav a{
 <span class="p">|</span> <span class="nv">Header</span>      <span class="p">|</span> <span class="nv">Title</span>       <span class="p">|</span> <span class="nv">Here</span><span class="err">'</span><span class="s s-Atom">s</span> <span class="s s-Atom">this</span>   <span class="p">|</span>
 <span class="p">|</span> <span class="nv">Paragraph</span>   <span class="p">|</span> <span class="nv">Text</span>        <span class="p">|</span> <span class="nv">And</span> <span class="s s-Atom">more</span>      <span class="p">|</span>
 </code></pre>
-
 
 <p>would be rendered as </p>
 <blockquote>
@@ -276,7 +271,6 @@ nav a{
 <span class="n">tab</span><span class="o">.</span><span class="n">to_markdown</span><span class="p">(</span><span class="s1">'table.md'</span><span class="p">)</span>
 </code></pre>
 
-
 <p>The above python script saves the generated markdown table in a file named <code>table.md</code> which contains:</p>
 <pre class="code literal-block"><span></span><code><span class="err">|Stations|Latitude|Longitude|Altitude| Period  |</span>
 <span class="err">|--------|-------:|--------:|-------:|---------|</span>
@@ -288,12 +282,10 @@ nav a{
 <span class="err">|syow    |  -69.00|    39.58|      16|1997-2015|</span>
 </code></pre>
 
-
 <h4>Images</h4>
 <p>An image can be inserted in markdown using:</p>
 <pre class="code literal-block"><span></span><code><span class="err">!</span><span class="o">[</span><span class="n">Caption</span><span class="o">]</span><span class="p">(</span><span class="n">images</span><span class="o">/</span><span class="n">ex</span><span class="p">.</span><span class="n">png</span><span class="p">)</span><span class="err">{</span><span class="n">#figure1</span><span class="w"> </span><span class="n">width</span><span class="o">=</span><span class="mi">55</span><span class="o">%</span><span class="err">}</span><span class="w"></span>
 </code></pre>
-
 
 <p>Here, figure1 is an identifier for the figure defined with # along with image dimension in braces. </p>
 <p>The above text would be rendered as</p>
@@ -306,19 +298,16 @@ nav a{
 <span class="err">$$\</span><span class="n">sum_</span><span class="err">{</span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="err">}</span><span class="o">^</span><span class="n">n</span> <span class="n">i</span><span class="o">^</span><span class="mi">2</span> <span class="o">=</span> <span class="err">\</span><span class="n">frac</span><span class="err">{</span><span class="p">(</span><span class="n">n</span><span class="o">^</span><span class="mi">2</span><span class="o">+</span><span class="n">n</span><span class="p">)(</span><span class="mi">2</span><span class="n">n</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span><span class="err">}{</span><span class="mi">6</span><span class="err">}$$</span>
 </code></pre>
 
-
 <h4>Code blocks</h4>
 <p>To write code, you indent it by 4 spaces or a tab. Markdown will guess what language you are writing</p>
 <pre class="code literal-block"><span></span><code><span class="err">    def main():</span>
 <span class="err">        print "Say Hello!!"</span>
 </code></pre>
 
-
 <p>would be rendered as</p>
 <pre class="code literal-block"><span></span><code><span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
       <span class="nb">print</span> <span class="s2">"Say Hello!!"</span>
 </code></pre>
-
 
 <p>You can specifiy which programming language you are using with delimited blocks if you wish</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```python
@@ -331,13 +320,11 @@ def say_hello():
     <span class="nb">print</span><span class="p">(</span><span class="s1">'Hi Everybody'</span><span class="p">)</span>
 </code></pre>
 
-
 <h4>Citations/References</h4>
 <p>The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter <code>--filter pandoc-citeproc</code> is used, with variables for the reference database and the bibliography style. A separate <code>.bib</code> file must contain the database of all references with corresponding keys. The used database can be defined either in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like <a href="https://www.mendeley.com/"><strong><em>Mendeley</em></strong></a> and <a href="https://www.zotero.org/"><strong><em>Zotero</em></strong></a> can help in creating and maintaining reference databases. </p>
 <p>A citation is inserted by using the citation key given within square brackets preceded by '@' as follows:</p>
 <pre class="code literal-block"><span></span><code><span class="err">[@Solomon2016; @kuttippurath2018] </span>
 </code></pre>
-
 
 <p>The generated references will be inserted automatically below the header <code># References</code> or <code># Bibliography</code>.</p>
 <h5>Citation style</h5>
@@ -351,17 +338,14 @@ def say_hello():
 <span class="err">---</span>
 </code></pre>
 
-
 <h4>Pandoc filters</h4>
 <p>Pandoc supports lua and python based filters to aid in formatting of the documents. For example: pandoc-citeproc parses the citations included in markdown files, pandoc-crossref allows numbering and cross-referencing of figures, tables and equations across the document. Filters should be specified on the commandline with <code>--filter filterpath</code> or <code>-F filterpath</code> parameter. For example:</p>
 <pre class="code literal-block"><span></span><code>pandoc -F pandoc-citeproc -F pandoc-crossref -o example.docx example.md
 </code></pre>
 
-
 <p>I have written one python filter for <a href="https://github.com/pankajkarman/markdown-scholar/blob/master/pandoc-include.py">inserting any external text</a> in markdown. This filter inserts the text inside the file specified using <code>!include filename.md</code>. This filter should be run separately as a python script as follows:</p>
 <pre class="code literal-block"><span></span><code>python python-include.py --infile infile.md --outfile outfile.md
 </code></pre>
-
 
 <p>Have a look at <a href="https://pandoc.org/filters.html">this link</a> for more information regarding pandoc filters and <a href="https://github.com/jgm/pandoc/wiki/Pandoc-Filters">this link</a> for a list of available third party filters.</p>
 <h4>Automatising document generation</h4>
@@ -410,7 +394,6 @@ def say_hello():
     rm -rf *.pdf *.docx
 </code></pre>
 
-
 <p>Above Makefile can be modified appropriately to specify proper paths for images, tables, csl file, bibliography file (.bib), pandoc filters and templates to be used for document generation. Variable <code>upp</code> points to the header markdown file with appropriate YAML blocks to be included in generated documents. Variable <code>main</code> points to markdown file being edited (main.md in this case). </p>
 <pre class="code literal-block"><span></span><code><span class="nv">arg</span> <span class="o">=</span> -F pandoc-crossref -F pandoc-citeproc
 <span class="nv">com1</span> <span class="o">=</span> cat <span class="k">$(</span>upp<span class="k">)</span>.md <span class="k">$(</span>main<span class="k">)</span>.md &gt; <span class="k">$(</span>tem<span class="k">)</span>
@@ -418,7 +401,6 @@ def say_hello():
 <span class="nv">com3</span> <span class="o">=</span> pandoc <span class="k">$(</span>tem<span class="k">)</span> <span class="k">$(</span>arg<span class="k">)</span> --csl <span class="k">$(</span>csl<span class="k">)</span> --bibliography <span class="k">$(</span>bib<span class="k">)</span> 
 <span class="nv">com</span> <span class="o">=</span> <span class="k">$(</span>com1<span class="k">)</span><span class="p">;</span> <span class="k">$(</span>com2<span class="k">)</span><span class="p">;</span> <span class="k">$(</span>com3<span class="k">)</span>
 </code></pre>
-
 
 <p>Above lines specify the appropriate arguments to be used for pandoc commandline. Instruction to execute Makefile has been provided in the <a href="https://github.com/pankajkarman/paper-template">accompanying paper-template repository</a>. For example: <a href="https://github.com/pankajkarman/paper-template/blob/master/main.pdf">pdf output</a> can be generated using <code>make pdf</code> command. Similarly <a href="https://github.com/pankajkarman/paper-template/blob/master/main.docx">docx</a> can be generated using <code>make docx</code> command. Running command <code>make all</code> or <code>make</code> will generate both pdf and docx outputs. For generating pdf output, LaTeX should be installed on the system before executing the Makefile. Generated docx file might require a little bit of tweaking before shared/submitted.</p>
 <h4>Version control</h4>

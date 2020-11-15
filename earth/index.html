@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>earth | Pankaj Kumar</title>
+<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../rss.xml">
+<link rel="canonical" href="https://pankajkarman.github.io/earth/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<meta name="author" content="Pankaj Kumar">
+<meta property="og:site_name" content="Pankaj Kumar">
+<meta property="og:title" content="earth">
+<meta property="og:url" content="https://pankajkarman.github.io/earth/">
+<meta property="og:description" content='Earth threejs 
+      &lt;br&gt;
+       body { margin: 0; background-color: black;}
+       canvas { width: 100%; height: 100% } 
+    
+   
+
+    
+    
+    
+        var mapUrl = "/images/earth/earth_texture.jpg'>
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2020-11-15T10:32:41+05:30">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-expand-md static-top mb-4
+navbar-dark bg-dark
+"><div class="container">
+<!-- This keeps the margins nice -->
+        <a class="navbar-brand" href="../">
+
+            <span id="blog-title">Pankaj Kumar</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a href="../index.html" class="nav-link">Home</a>
+                </li>
+<li class="nav-item">
+<a href="../cv/index.html" class="nav-link">CV</a>
+                </li>
+<li class="nav-item">
+<a href="../research/index.html" class="nav-link">Research</a>
+                </li>
+<li class="nav-item">
+<a href="../projects/index.html" class="nav-link">Projects</a>
+                </li>
+<li class="nav-item">
+<a href="../news/index.html" class="nav-link">News</a>
+                </li>
+<li class="nav-item">
+<a href="../archive.html" class="nav-link">Blog</a>
+                </li>
+<li class="nav-item">
+<a href="#" class="nav-link">Earth</a>
+
+                
+            </li>
+</ul>
+<ul class="navbar-nav navbar-right"></ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+                
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+    <meta charset="utf-8">
+<title> Earth threejs </title>
+<style> 
+       body { margin: 0; background-color: black;}
+       canvas { width: 100%; height: 100% } 
+    </style>
+<script src="../js/three.min.js"></script><script src="../js/orbit_controls.js"></script><script>
+        var mapUrl = "/images/earth/earth_texture.jpg";
+        const fov = 45;
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+        const nfield = 0.1;
+        const ffield = 1000;
+        const mrad = 25;           
+
+        const loader = new THREE.TextureLoader();
+        var scene = new THREE.Scene();
+        var camera = new THREE.PerspectiveCamera(30, width / height, nfield, ffield);
+
+        var light = new THREE.AmbientLight( 0x888888 )
+        scene.add( light )
+
+        var light = new THREE.DirectionalLight( 0xfdfcf0, 1 )
+        light.position.set(10,10,10)
+        scene.add( light )
+
+        var geometry = new THREE.SphereGeometry(6, 50, 50);  
+        var material = new THREE.MeshBasicMaterial({
+            map: new loader.load(mapUrl),
+            bumpMap : new loader.load("images/earthbump1k.jpg"),
+            bumpScale : 0.75,
+            color: 0xaaaaaa, 
+            specular: 0x333333,
+            shininess: 25
+            });
+
+        var earth = new THREE.Mesh(geometry, material);
+        scene.add(earth);
+
+        //Clouds
+        var cloudGeometry = new THREE.SphereGeometry(6.1,  50, 50);
+        var cloudMaterial = new THREE.MeshBasicMaterial({
+          map: new loader.load("/images/earth/clouds.jpg"),
+          transparent: true,
+          opacity: 0.1
+        });
+        
+        var clouds = new THREE.Mesh(cloudGeometry, cloudMaterial);
+        scene.add(clouds);
+
+        //Starfield
+        var starGeometry = new THREE.SphereGeometry(1000, 50, 50);
+        var starMaterial = new THREE.MeshPhongMaterial({
+          map: new loader.load("/images/earth/galaxy_starfield.png"),
+          side: THREE.DoubleSide,
+          shininess: 0
+        });
+        
+        var starField = new THREE.Mesh(starGeometry, starMaterial);
+        //scene.add(starField);
+
+        //Moon 
+        var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
+        var moonMaterial = new THREE.MeshPhongMaterial({
+          map: new loader.load("/images/earth/moon_texture.jpg"),
+          color: 0xaaaaaa, 
+        });
+        var moon = new THREE.Mesh(moonGeometry, moonMaterial);
+        moon.position.set(mrad,0,0);
+        //scene.add(moon);
+
+        camera.position.z = 25;
+        earth.rotation.x = 0.4;
+
+        var renderer = new THREE.WebGLRenderer({ antialias: true });        
+        renderer.setSize(width, height, false);
+        
+        document.body.appendChild(renderer.domElement);
+        var orbit = new THREE.OrbitControls( camera, renderer.domElement )
+
+        var r = mrad;
+        var theta = 0;
+        var dTheta = 2 * Math.PI / 1000;
+
+            //Set position increments
+        var dx = .01;
+        var dy = -.01;
+        var dz = -.05;
+
+
+        var earthVec = new THREE.Vector3(0,0,0);
+
+        function render() {
+            requestAnimationFrame( render );
+
+            //earth.rotation.x += 0.1;
+            earth.rotation.y += 0.005;
+            clouds.rotation.y += .0055;
+
+            theta += dTheta;
+            //moon.position.x = r * Math.cos(theta);
+            //moon.position.z = r * Math.sin(theta);
+
+            //Update the camera position
+            //camera.position.x += dx;
+            //camera.position.y += dy;
+            //camera.position.z += dz;
+
+            //Flyby reset
+            //if (camera.position.z < 0) {
+            //      camera.position.set(45,mrad,70);
+            //}
+
+            camera.lookAt(earthVec);
+
+            renderer.render( scene, camera );
+        };   
+
+        render();
+    </script><p></p>
+</div>
+    </div>
+    
+
+</article>
+</div>
+</div>
+
+
+        <script src="../assets/js/all-nocdn.js"></script><!-- Social buttons --><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f230a1c3a27a985"></script><!-- End of social buttons --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script><!-- Start of StatCounter Code --><div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div>
+<script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&amp;down=async" async>
+</script><noscript>
+<a href="https://www.freecounterstat.com" title="web page hit counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h" border="0" title="web page hit counter" alt="web page hit counter"></a>
+</noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Start of Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174100738-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-174100738-1');
+</script><!-- End of Google Analytics -->
+</body>
+</html>

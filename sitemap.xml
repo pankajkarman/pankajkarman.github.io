@@ -7,66 +7,70 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://pankajkarman.github.io/</loc>
-  <lastmod>2020-09-03T16:34:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/archive.html</loc>
-  <lastmod>2020-10-18T18:20:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/blog/</loc>
-  <lastmod>2020-07-19T18:03:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/blog/covid/</loc>
-  <lastmod>2020-07-19T18:03:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/blog/markdown/</loc>
-  <lastmod>2020-05-08T01:18:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/</loc>
-  <lastmod>2020-07-19T18:03:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/coronavirus/</loc>
-  <lastmod>2020-07-19T18:03:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/covid/</loc>
-  <lastmod>2020-07-19T18:03:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/markdown/</loc>
-  <lastmod>2020-06-21T17:45:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/categories/pandoc/</loc>
-  <lastmod>2020-06-21T17:45:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/cv/</loc>
-  <lastmod>2020-05-04T21:51:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pankajkarman.github.io/earth/</loc>
+  <lastmod>2020-11-15T08:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/news/</loc>
-  <lastmod>2020-05-07T00:23:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/projects/</loc>
-  <lastmod>2020-05-05T14:41:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/research/</loc>
-  <lastmod>2020-05-07T00:23:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/resume/</loc>
-  <lastmod>2020-06-21T17:16:00Z</lastmod>
+  <lastmod>2020-11-15T04:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://pankajkarman.github.io/resume/core-page.html</loc>
-  <lastmod>2020-05-06T19:38:00Z</lastmod>
+  <lastmod>2020-11-11T22:47:00Z</lastmod>
  </url>
 </urlset>
