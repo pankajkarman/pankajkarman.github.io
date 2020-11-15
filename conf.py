@@ -145,6 +145,7 @@ NAVIGATION_LINKS = {
         ("/projects/index.html", "Projects"),
         ("/news/index.html", "News"),
         ("/archive.html", "Blog"),
+        ("/earth/index.html", "Earth"),
     ),
 }
 
