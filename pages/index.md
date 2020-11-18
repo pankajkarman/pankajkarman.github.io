@@ -34,7 +34,7 @@
 	    var geometry = new THREE.SphereGeometry(6, 50, 50);  
 	    var material = new THREE.MeshBasicMaterial({
       		map: new loader.load(mapUrl),
-      		//bumpMap : new loader.load("images/earthbump1k.jpg"),
+      		bumpMap : new loader.load("/images/earthbump1k.jpg"),
       		bumpScale : 0.75,
       		color: 0xaaaaaa, 
       		specular: 0x333333,
@@ -55,24 +55,24 @@
 		scene.add(clouds);
 		
 		//Starfield
-		var starGeometry = new THREE.SphereGeometry(1000, 50, 50);
+		var starGeometry = new THREE.SphereGeometry(100, 50, 50);
 		var starMaterial = new THREE.MeshPhongMaterial({
-		  map: new loader.load("images/earth/galaxy_starfield.png"),
+		  map: new loader.load("/images/earth/galaxy_starfield.png"),
 		  side: THREE.DoubleSide,
 		  shininess: 0
 		});
 		var starField = new THREE.Mesh(starGeometry, starMaterial);
-		//scene.add(starField);
+		scene.add(starField);
 		
 		//Moon 
 		var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
 		var moonMaterial = new THREE.MeshPhongMaterial({
-		  map: new loader.load("images/earth/moon_texture.jpg"),
+		  map: new loader.load("/images/earth/moon_texture.jpg"),
 		  color: 0xaaaaaa, 
 		});
 		var moon = new THREE.Mesh(moonGeometry, moonMaterial);
 		moon.position.set(mrad,0,0);
-		//scene.add(moon);
+		scene.add(moon);
   		
   		camera.position.z = 25;
   		earth.rotation.x = 0.4;
@@ -102,18 +102,18 @@
 	  		clouds.rotation.y += .00095;
 	  		
 	  		theta += dTheta;
-			//moon.position.x = r * Math.cos(theta);
-			//moon.position.z = r * Math.sin(theta);
+			moon.position.x = r * Math.cos(theta);
+			moon.position.z = r * Math.sin(theta);
 			
 			//Update the camera position
-		    //camera.position.x += dx;
-		    //camera.position.y += dy;
-		    //camera.position.z += dz;
+		    camera.position.x += dx;
+		    camera.position.y += dy;
+		    camera.position.z += dz;
 
 		  	//Flyby reset
-		 	//if (camera.position.z < 0) {
-		    //		camera.position.set(45,mrad,70);
-		  	//}
+		 	if (camera.position.z < 0) {
+		       	camera.position.set(45,mrad,70);
+		  	}
 			
 			camera.lookAt(earthVec);
 	  		
