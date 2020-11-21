@@ -84,14 +84,7 @@ navbar-dark bg-dark
     <div class="body-content">
         <!--Body content-->
         
-        
-        
-<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><div class="e-content entry-content" itemprop="articleBody text">
-    <div>
-<p>
-   </p>
-    <meta charset="utf-8">
-<title> Earth threejs </title>
+<div>
 <style> 
        body { margin: 0; background-color: black;}
        canvas { width: 100%; height: 100% ; z-index: -1; position: fixed;} 
@@ -151,7 +144,7 @@ navbar-dark bg-dark
 		}
 	
 		.titles {
-		    top: 50%;
+		    top: 60%;
 		    left: 50%;
 		    z-index: 100;
 		    position: absolute;
@@ -189,7 +182,7 @@ navbar-dark bg-dark
     </style>
 <script src="../js/three.min.js"></script><script src="../js/orbit_controls.js"></script><script>
         var mapUrl = "/images/earth/earth_texture.jpg";
-        const fov = 45;
+        const fov = 28;
         const width = window.innerWidth;
         const height = window.innerHeight;
         const nfield = 0.1;
@@ -198,7 +191,7 @@ navbar-dark bg-dark
 
         const loader = new THREE.TextureLoader();
         var scene = new THREE.Scene();
-        var camera = new THREE.PerspectiveCamera(30, width / height, nfield, ffield);
+        var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
 
         var light = new THREE.AmbientLight( 0x888888 )
         scene.add( light )
@@ -238,7 +231,7 @@ navbar-dark bg-dark
           shininess: 0
         });
         var starField = new THREE.Mesh(starGeometry, starMaterial);
-        scene.add(starField);
+        //scene.add(starField);
 
         //Moon 
         var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
@@ -248,7 +241,7 @@ navbar-dark bg-dark
         });
         var moon = new THREE.Mesh(moonGeometry, moonMaterial);
         moon.position.set(mrad,0,0);
-        scene.add(moon);
+        //scene.add(moon);
 
         camera.position.z = 25;
         earth.rotation.x = 0.4;
@@ -274,22 +267,22 @@ navbar-dark bg-dark
             requestAnimationFrame( render );
 
             //earth.rotation.x += 0.1;
-            earth.rotation.y += 0.009;
-            clouds.rotation.y += .0095;
+            earth.rotation.y += 0.005;
+            clouds.rotation.y += .0055;
 
             theta += dTheta;
-            moon.position.x = r * Math.cos(theta);
-            moon.position.z = r * Math.sin(theta);
+            //moon.position.x = r * Math.cos(theta);
+            //moon.position.z = r * Math.sin(theta);
 
             //Update the camera position
-            camera.position.x += dx;
-            camera.position.y += dy;
-            camera.position.z += dz;
+            //camera.position.x += dx;
+            //camera.position.y += dy;
+            //camera.position.z += dz;
 
             //Flyby reset
-            if (camera.position.z < 0) {
-                  camera.position.set(45,mrad,70);
-            }
+            //if (camera.position.z < 0) {
+            //      camera.position.set(45,mrad,70);
+            //}
 
             camera.lookAt(earthVec);
 
@@ -305,13 +298,10 @@ navbar-dark bg-dark
 			<div class="page-subtitle">ATMOSPHERIC SCIENTIST | DEVELOPER | AI ENTHUSIAST</div>
 		</div>
         </div>
-    
-    <p></p>
 </div>
     </div>
     
-
-</article><!--End of body content-->
+<!--End of body content-->
 </div>
 </div>
 
