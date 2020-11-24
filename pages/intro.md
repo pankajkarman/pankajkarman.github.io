@@ -180,13 +180,13 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Nature Geoscience, submitted.</p>
 </li>
 <li>
-<p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, in review.</p>
-</li>
-<li>
 <p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p>
 </li>
 <li>
 <p><strong>P. Kumar</strong>, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: <em>Climate impact of tropospheric ozone trends in Antarctica,</em> Environmental Science &amp; Technology, in revision.</p>
+</li>
+<li>
+<p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, accepted.</p>
 </li>
 <li>
 <p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair,  and P. C. Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p>

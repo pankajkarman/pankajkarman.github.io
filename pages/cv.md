@@ -291,9 +291,12 @@
 <li><p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p></li>
 <li><p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p></li>
 <li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Nature Geoscience, submitted.</p></li>
-<li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, in review.</p></li>
+
 <li><p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p></li>
 <li><p><strong>P. Kumar</strong>, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: <em>Climate impact of tropospheric ozone trends in Antarctica,</em> Environmental Science &amp; Technology, in revision.</p></li>
+
+<li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey: <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, accepted.</p></li>
+
 <li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, P C Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p></li>
 <li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979-2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>.</p></li>
 </ul>
