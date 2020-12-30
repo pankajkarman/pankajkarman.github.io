@@ -64,6 +64,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
   <div class="card">
   <img class="card-img-top" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201811/ozone-layer-shrinking_647-x404.jpg?B6H53U1jPoBqy2VEEq.n0wKPYdoXkT1E">
     <div class="card-body">
+    
     <h3 class="card-title" align="left">India Today</h3>
       <p class="card-text" align='justify'>Antarctic ozone hole is healing, confirms IIT Kharagpur study.</p>
     <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29" class="btn btn-primary">Read Full Story</a>
@@ -80,6 +81,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
   <div class="card">
     <img class="card-img-top" src="//images.firstpost.com/wp-content/uploads/2018/12/This-NASA-image-shows-the-ozone-hole-over-Antarctic-in-2001_NASA.jpg">
     <div class="card-body">
+    <p> </p><p> </p>
     <h3 class="card-title" align="left">Firstpost</h3>
       <p class="card-text" align='justify'>Antarctic Ozone hole healing confirmed in new study by IIT Kharagpur researchers.</p>
     <a href="https://www.firstpost.com/tech/science/antarctic-ozone-hole-healing-confirmed-in-new-study-by-iit-kharagpur-researchers-5651941.html" class="btn btn-primary">Read Full Story</a>
@@ -93,18 +95,20 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="/images/seq.png" alt="Card image cap">
+    <img class="card-img-top" src="/images/hytraj.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title" align="left">Deep Representational Learning of Trajectories</h5>
-      <p class="card-text" align='justify'>In this work, I develop a sequence-to-sequence model using variational Autoencoder to learn latent representation of trajectories.</p>
+      <h5 class="card-title" align="left">HyTraj</h5>
+      <p class="card-text" align='justify'>A python package for trajectory modeling and analysis using <strong>HYSPLIT</strong>. It supports receptor modeling for air pollution sources analysis alongwith trajectory mining using various machine learning techniques.</p>
+       <a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
   
   <div class="card">
     <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
     <div class="card-body">
+     <p> <br/> </p>
       <h5 class="card-title">pyvortex</h5>
-      <p class="card-text" align='justify'>A python module to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
+      <p class="card-text" align='justify'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
       <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
     </div> 
   </div>
@@ -117,7 +121,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     <img class="card-img-top" src="/images/causal.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Causal Inference</h5>
-      <p class="card-text" align='justify'>In this project, I perform the causal network analysis of tropospheric ozone in Antarctic region to identify the geophysical drivers of variation in tropospheric ozone concentration.</p>
+      <p class="card-text" align='justify'>In this project, I perform the causal network analysis of tropospheric ozone in Antarctic region to identify the geophysical drivers of variation in surface ozone concentration.</p>
       <a href="https://github.com/pankajkarman/deep-learning/tree/master/causality" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
