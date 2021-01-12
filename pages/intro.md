@@ -181,7 +181,11 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 <p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p>
 </li>
 <li>
-<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Nature Geoscience, submitted.</p>
+<p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Causal Discovery of drivers of surface ozone variabilty in Antarctica,</em> in preparation.</p>
+</li>
+
+<li>
+<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, submitted.</p>
 </li>
 <li>
 <p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p>
