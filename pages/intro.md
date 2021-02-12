@@ -35,14 +35,20 @@ color: #E6FFFB;
 }
 </style>
 
+<!--For Altmetric badges-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+	
+<!--For Dimensions badges-->
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 
 <div class="card-deck ">
-  <div class="card landing">
+  <div class="card">
     <div class="card-body ">
     <img src="/images/me.jpg" class="rounded-rectangle card-img-left" width="400" style="float: left; padding: 5px 25px 5px 0px;">
-    <p class="card-text" align='left' style='font-size: large'>
+    <p class="card-text" align='justify' style='font-size: large'>
 
-Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline; color:#00eb00">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline; color:#00eb00">Dr. Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Human Resource Development (MHRD), Government of India.
+Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of ATMOS research group at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Human Resource Development (MHRD), Government of India.
 
 <br/><br/>
 
@@ -50,7 +56,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <br/><br/>
 
-Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf" style="text-decoration: underline; color:#00eb00">[pdf]</a>.</p>
+Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf" style="text-decoration: underline;">[pdf]</a>.</p>
 
     </div>
   </div>
@@ -172,65 +178,71 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 <ul>
 <li>
-<p><strong>P. Kumar</strong>: <em>HyTraj: A python toolkit for trajectory analysis and receptor modeling,</em> in preparation.</p>
-</li>
-<li>
-<p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p>
-</li>
-<li>
-<p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p>
-</li>
-<li>
-<p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Causal Discovery of drivers of surface ozone variabilty in Antarctica,</em> in preparation.</p>
-</li>
-
-<li>
-<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, submitted.</p>
-</li>
-<li>
-<p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p>
-</li>
-<li>
-<p><strong>P. Kumar</strong>, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: <em>Climate impact of tropospheric ozone trends in Antarctica,</em> Environmental Science &amp; Technology, in revision.</p>
-</li>
-<li>
 <p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, 2020 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abcf78?fbclid=IwAR066jF_yX5CrEPCfxP_42rZVC6mb5co9xOU90rKc3vPcwbtK0Fj-lNSnmY">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1088/1748-9326/abcf78' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+ <div class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/abcf78" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
 </li>
 <li>
 <p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair,  and P. C. Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1038/s41612-018-0052-6' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div class="__dimensions_badge_embed__" data-doi="10.1038/s41612-018-0052-6" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
 </li>
 <li>
-<p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex    conditions: Comparison with ground-based observations in 1979--2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>. </p>
+<p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979--2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>. </p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1016/j.rse.2018.02.054' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2018.02.054" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
 </li>
 </ul>
-
  </p> 
     </div>
   </div>
 </div>
 
 <br/>
-
-<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Conferences</h1>
-
-<div class="card-deck">
-  <div class="card">
-    <div class="card-body">
-      <p class="card-text">
-      
-<ul>
-<li>
-<p align='left'><strong>Pankaj Kumar</strong> and Jayanarayanan Kuttippurath: <em>Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica</em>, National Conference on Polar Sciences, Goa, August 2019 <a href="/ncps2019.pdf">[pdf]</a>.</p>
-</li>
-
-<li>
-<p align='left'><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: <em>Accuracy of Ground-based measurements in Polar Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf">[pdf]</a>.</p>
-</li>
-</ul>
-
- </p> 
-    </div>
-  </div>
-</div>
-
 

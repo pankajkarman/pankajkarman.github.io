@@ -82,7 +82,7 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 </p>
 
 <center>
-![Representational learning of Trajectories using seq2seq Autoencoder.](/images/seq.png){width=65%} 
+![Representational learning of Trajectories using seq2seq Autoencoder.](/images/stt.png){width=90%} 
 </center>
 
 <br/>

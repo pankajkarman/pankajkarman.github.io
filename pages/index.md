@@ -62,7 +62,7 @@
 		  shininess: 0
 		});
 		var starField = new THREE.Mesh(starGeometry, starMaterial);
-		scene.add(starField);
+		//scene.add(starField);
 		
 		//Moon 
 		var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
@@ -72,13 +72,13 @@
 		});
 		var moon = new THREE.Mesh(moonGeometry, moonMaterial);
 		moon.position.set(mrad,0,0);
-		scene.add(moon);
+		//scene.add(moon);
   		
   		camera.position.z = 25;
   		earth.rotation.x = 0.4;
   		
   		var renderer = new THREE.WebGLRenderer({ antialias: true }); 		
-  		renderer.setSize(width, height, false);
+  		renderer.setSize(width*0.9, height, false);
   		document.body.appendChild(renderer.domElement);
   		var orbit = new THREE.OrbitControls( camera, renderer.domElement )
   		
@@ -98,22 +98,22 @@
 	  		requestAnimationFrame( render );
 	  		
 	  		//earth.rotation.x += 0.1;
-	  		earth.rotation.y += 0.0009;
-	  		clouds.rotation.y += .00095;
+	  		earth.rotation.y += 0.005;
+	  		clouds.rotation.y += .0055;
 	  		
 	  		theta += dTheta;
 			moon.position.x = r * Math.cos(theta);
 			moon.position.z = r * Math.sin(theta);
 			
 			//Update the camera position
-		    camera.position.x += dx;
-		    camera.position.y += dy;
-		    camera.position.z += dz;
+		    //camera.position.x += dx;
+		    //camera.position.y += dy;
+		    //camera.position.z += dz;
 
 		  	//Flyby reset
-		 	if (camera.position.z < 0) {
-		       	camera.position.set(45,mrad,70);
-		  	}
+		 	//if (camera.position.z < 0) {
+		       	//camera.position.set(45,mrad,70);
+		  	//}
 			
 			camera.lookAt(earthVec);
 	  		

@@ -20,7 +20,7 @@
 
 <div class="card-deck">
   <div class="card">
-  <img class="card-img-top" src="https://aura.gsfc.nasa.gov/images/science/201701a.jpg">
+  <img class="card-img-top" src="https://aura.gsfc.nasa.gov/images/science/201701a.jpg" width="250" height="250">
     <div class="card-body">
     <h3 class="card-title" align="left">Doctor of Philosophy</h3>
       <p class="card-text" align='justify'> 
@@ -31,7 +31,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="https://wdc.dlr.de/sensors/omi/omi.png">
+    <img class="card-img-top" src="https://wdc.dlr.de/sensors/omi/omi.png" width="250" height="250">
     <div class="card-body">
     <h3 class="card-title" align="left">Master of Technology</h3>
       <p class="card-text" align='justify'> 
@@ -42,7 +42,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="//regmedia.co.uk/2016/06/30/wind_turbines_image_via_shutterstock.jpg?x=442&y=293&crop=1">
+    <img class="card-img-top" src="//regmedia.co.uk/2016/06/30/wind_turbines_image_via_shutterstock.jpg?x=442&y=293&crop=1" width="250" height="250">
     <div class="card-body">
     <h3 class="card-title" align="left">Bachelor of Engineering</h3>
       <p class="card-text" align='justify'> 
@@ -195,14 +195,9 @@
       <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present</h3>
       <p class="card-text" align='justify'>
 <ul>
-<li>   Setup WRF-Chem and GEOS-Chem for atmospheric composition studies.</li><BR/>
-
 <li>  Merged and bias-corrected long term data record of vertical profiles
     of rainfall, ozone and related trace gases using various correction
     techniques like quantile mapping and scaled distribution mapping.</li><BR/>
-
-<li>   Assessed and bias-corrected long term total column ozone datasets
-    from various ground based instruments in Arctic region.</li><BR/>
 
 <li>   Analysed Polar vortex based stratospheric ozone for detection of
     ozone hole saturation using ground-based and satellite based
@@ -210,21 +205,23 @@
 
 <li>   Developed Receptor models based on airmass trajectory generated with
     HYSPLIT in python for source detection studies and clustered them
-    using Hierarchical agglomerative clustering and wavelet transform
-    based Mean-shift clustering for transportation pathways analysis.</li><BR/>
+    using Hierarchical agglomerative clustering (HAC) and wavelet transform
+    based K-Means clustering for transportation pathways analysis.</li><BR/>
 
 <li>   Investigated Land Use Land Cover (LULC) change over North-East India
     using Google Earth Engine and Random forest based classification.</li><BR/>
 
 <li>   Performed Self-organising map (SOM) based clustering of tropospheric
     ozone profiles for Antarctic region and their long-term analysis
-    using DLM and MLR.</li><BR/>
+    using Multivariate Linear Regression (MLR) and Bayesian Dynamic Linear Model (DLM).</li><BR/>
 
 <li>  Conducted Causal Effect Network (CEN) analysis of tropospheric ozone
     in Antarctica for determination of geophysical drivers responsible
     for observed variability.</li><BR/>
-
-<li>   Carried out radiative transfer modeling using RRTMG for radiative
+    
+<li>  Developed a causal inference framework using attention based temporal convolution network (TCIF) for performing causal effect estimation.</li><BR/>
+    
+ <li>  Carried out radiative transfer modeling using RRTMG for radiative
     forcing estimation.</li><BR/>
     
 <li>   Simulated and analysed global atmospheric chemistry using GEOS-Chem at Pratyush, India's fastest supercomputer.</li>
@@ -287,9 +284,6 @@
     </center>
       <p class="card-text" align='justify'>
 <ul>
-<li><p><strong>P. Kumar</strong>: <em>HyTraj: A python toolkit for trajectory analysis and receptor modeling,</em> in preparation.</p></li>
-<li><p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p></li>
-<li><p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p></li>
 <li><p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Causal Discovery of drivers of surface ozone variabilty in Antarctica,</em> in preparation.</p></li>
 
 <li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, submitted.</p></li>
