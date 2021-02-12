@@ -13,16 +13,16 @@
   	<script src="/js/orbit_controls.js"></script>
   	<script>
 		var mapUrl = "/images/earth/earth_texture.jpg";
-		const fov = 45;
+		const fov = 28;
 		const width = window.innerWidth;
-		const height = window.innerHeight;
+		const height = window.innerHeight-150;
 		const nfield = 0.1;
-		const ffield = 1000;
-		const mrad = 25;	       
-		
+		const ffield = 100;
+		const mrad = 25;           
+
 		const loader = new THREE.TextureLoader();
 		var scene = new THREE.Scene();
-		var camera = new THREE.PerspectiveCamera(30, width / height, nfield, ffield);
+		var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
 		
 		var light = new THREE.AmbientLight( 0x888888 )
 		scene.add( light )
@@ -78,13 +78,13 @@
   		earth.rotation.x = 0.4;
   		
   		var renderer = new THREE.WebGLRenderer({ antialias: true }); 		
-  		renderer.setSize(width*0.9, height, false);
+  		renderer.setSize(width, height);
   		document.body.appendChild(renderer.domElement);
   		var orbit = new THREE.OrbitControls( camera, renderer.domElement )
   		
-  		var r = mrad;
-	    var theta = 0;
-	    var dTheta = 2 * Math.PI / 1000;
+  	        var r = mrad;
+	        var theta = 0;
+	        var dTheta = 2 * Math.PI / 1000;
 	        
 	        //Set position increments
 		var dx = .01;
@@ -92,7 +92,7 @@
 		var dz = -.05;
 
 
-	    var earthVec = new THREE.Vector3(0,0,0);
+	        var earthVec = new THREE.Vector3(0,0,0);
   		
   		function render() {
 	  		requestAnimationFrame( render );
@@ -122,5 +122,6 @@
   		
   		render();
   	</script>
+  	
    </body>
 </html>
