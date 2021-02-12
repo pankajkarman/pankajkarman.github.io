@@ -114,7 +114,7 @@ navbar-dark bg-dark
 		    user-select: none;
 		    white-space: nowrap;
 		    position: absolute;
-		    top: 15vh;
+		    top: 5vh;
 		    font-size: 35vh;
 		    font-family: futura-pt;
 		    color: #fff;
@@ -134,7 +134,7 @@ navbar-dark bg-dark
 		    position: relative;
 		    white-space: nowrap;
 		    pointer-events: none;
-		    top: 10vh;
+		    top: 5vh;
 		    margin: 0 auto;
 		    color: rgba(255,255,255,.5);
 		    text-transform: uppercase;
@@ -171,7 +171,7 @@ navbar-dark bg-dark
 		    width: 100vw;
 		    position: absolute;
 		    transform: translate3d(0,20%,0);
-		    top: 30px;
+		    top: 5px;
 		    left: 0px;
 		    z-index: 0;
 		    background: none;
@@ -182,16 +182,16 @@ navbar-dark bg-dark
     </style>
 <script src="../js/three.min.js"></script><script src="../js/orbit_controls.js"></script><script>
         var mapUrl = "/images/earth/earth_texture.jpg";
-        const fov = 28;
-        const width = window.innerWidth;
-        const height = window.innerHeight;
-        const nfield = 0.1;
-        const ffield = 1000;
-        const mrad = 25;           
+        const fov = 38;
+		const width = window.innerWidth;
+		const height = window.innerHeight;
+		const nfield = 0.1;
+		const ffield = 100;
+		const mrad = 25;           
 
-        const loader = new THREE.TextureLoader();
-        var scene = new THREE.Scene();
-        var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
+		const loader = new THREE.TextureLoader();
+		var scene = new THREE.Scene();
+		var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
 
         var light = new THREE.AmbientLight( 0x888888 )
         scene.add( light )
@@ -243,7 +243,7 @@ navbar-dark bg-dark
         moon.position.set(mrad,0,0);
         //scene.add(moon);
 
-        camera.position.z = 25;
+        camera.position.z = 30;
         earth.rotation.x = 0.4;
 
         var renderer = new THREE.WebGLRenderer({ antialias: true });        
