@@ -185,12 +185,18 @@ navbar-dark bg-dark
     </style>
 <script src="../js/three.min.js"></script><script src="../js/orbit_controls.js"></script><script>
         var mapUrl = "/images/earth/earth_texture.jpg";
-        const fov = 38;
+        const fov = 37;
 		const width = window.innerWidth;
 		const height = window.innerHeight;
 		const nfield = 0.1;
 		const ffield = 100;
-		const mrad = 25;           
+		const mrad = 25;
+		var r = 6.0 * width / height;
+		//var r = Math.min(width, height);
+		
+		var r1 = r*1.01;
+		
+		const z = r / Math.sin(Math.PI* fov/ 360) + r*1.1;         
 
 		const loader = new THREE.TextureLoader();
 		var scene = new THREE.Scene();
@@ -203,7 +209,7 @@ navbar-dark bg-dark
         light.position.set(10,10,10)
         scene.add( light )
 
-        var geometry = new THREE.SphereGeometry(6, 50, 50);  
+        var geometry = new THREE.SphereGeometry(r, 50, 50);  
         var material = new THREE.MeshBasicMaterial({
             map: new loader.load(mapUrl),
             bumpMap : new loader.load("/images/earthbump1k.jpg"),
@@ -217,7 +223,7 @@ navbar-dark bg-dark
         scene.add(earth);
 
         //Clouds
-        var cloudGeometry = new THREE.SphereGeometry(6.1,  50, 50);
+        var cloudGeometry = new THREE.SphereGeometry(r1,  50, 50);
         var cloudMaterial = new THREE.MeshBasicMaterial({
           map: new loader.load("/images/earth/clouds.jpg"),
           transparent: true,
@@ -246,7 +252,7 @@ navbar-dark bg-dark
         moon.position.set(mrad,0,0);
         //scene.add(moon);
 
-        camera.position.z = 30;
+        camera.position.z = z;
         earth.rotation.x = 0.4;
 
         var renderer = new THREE.WebGLRenderer({ antialias: true });        
