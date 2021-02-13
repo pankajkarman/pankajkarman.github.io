@@ -199,7 +199,7 @@ navbar-dark bg-dark
 		var z = r * 1.5 / Math.tan(Math.PI* fov/ 360) ;
 		
 	        if (width < height) {
-                    z *= 1.3 ;
+                    z *= height / width ;
                  }        
 
 		const loader = new THREE.TextureLoader();
