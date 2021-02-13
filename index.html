@@ -185,24 +185,22 @@ navbar-dark bg-dark
     </style>
 <script src="../js/three.min.js"></script><script src="../js/orbit_controls.js"></script><script>
         var mapUrl = "/images/earth/earth_texture.jpg";
-        const fov = 35;
+        const fov = 37;
 	const width = window.innerWidth;
 	const height = window.innerHeight;
 	const nfield = 0.1;
 	const ffield = 1000;
 	const mrad = 25;
-	var r = 6.0;
+	var r = 6.0 * height / width;
 	//var r = Math.min(width, height);
 	
-	var r1 = r*1.01;
+	var r1 = r * 1.01;
 	
-	var z = r * 0.66 / Math.tan(Math.PI* fov/ 360) ;
+	var z = r * 1.5 / Math.tan(Math.PI* fov/ 360) ;
 	
         if (width < height) {
             z *= height / width ;
-         } else {
-            z *= width / height ;               
-         }     
+         }        
 
 	const loader = new THREE.TextureLoader();
 	var scene = new THREE.Scene();
