@@ -196,7 +196,11 @@ navbar-dark bg-dark
 		
 		var r1 = r*1.01;
 		
-		const z = r * 1.5 / Math.tan(Math.PI* fov/ 360) ;         
+		const z = r * 1.5 / Math.tan(Math.PI* fov/ 360) ;
+		
+	        if (width < height) {
+                    z = 1.7;
+                 }        
 
 		const loader = new THREE.TextureLoader();
 		var scene = new THREE.Scene();
