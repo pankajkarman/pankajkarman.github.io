@@ -189,14 +189,14 @@ navbar-dark bg-dark
 		const width = window.innerWidth;
 		const height = window.innerHeight;
 		const nfield = 0.1;
-		const ffield = 100;
+		const ffield = 1000;
 		const mrad = 25;
-		var r = 6.0 * width / height;
+		var r = 6.0 * height / width;
 		//var r = Math.min(width, height);
 		
 		var r1 = r*1.01;
 		
-		const z = r / Math.sin(Math.PI* fov/ 360) + r*1.1;         
+		const z = r * 1.5 / Math.tan(Math.PI* fov/ 360) ;         
 
 		const loader = new THREE.TextureLoader();
 		var scene = new THREE.Scene();
