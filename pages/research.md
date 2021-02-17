@@ -67,8 +67,6 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 
 ### Papers in preparation/review
 
--   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
-
 -   **P. Kumar** and J. Kuttippurath: *Causal Discovery of drivers of surface ozone variabilty in Antarctica,* in preparation.
 
 -   **P. Kumar**, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: *Climate impact of tropospheric ozone trends in Antarctica,* Environmental Science & Technology, in revision.
@@ -85,9 +83,11 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 ![Representational learning of Trajectories using seq2seq Autoencoder.](/images/stt.png){width=90%} 
 </center>
 
-<br/>
+<p></p>
 
 ### Papers in preparation
+
+-   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
 
 -   **P. Kumar ** et al.: *Mining trajectories using deep representational learning,* in preparation.
 
