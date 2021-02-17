@@ -37,10 +37,9 @@ nav, article{
   </div>
   
   <div class="card">
-    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap" width="410" height="475">
+    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap" width="410" height="520">
     <div class="card-body">
-     <p> <br/> </p>
-      <h5 class="card-title"> <strong> PyVortex  </strong> </h5>
+      <h5 class="card-title"> <strong> pyvortex  </strong> </h5>
       <p class="card-text" align='justify'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
       <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
     </div> 
@@ -51,10 +50,10 @@ nav, article{
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="/images/bias.png" alt="Card image cap" width="600" height="300">
+    <img class="card-img-top" src="/images/bias.png" alt="Card image cap" width="600" height="270">
     <div class="card-body">
       <h5 class="card-title" align="left"> <strong> Bias Correction </strong></h5>
-      <p class="card-text" align='justify'>A python library to perform bias correction of datasets in order to remove cross-dataset biases. Implemented methods include quantile mapping, modified quantile mapping, scaled distribution mapping (both Gamma and Normal corrections).</p>
+      <p class="card-text" align='justify'>A python library to perform bias correction of datasets in order to remove cross-dataset biases. Implemented methods include <a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.2168">quantile mapping</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425716302000?via%3Dihub">modified quantile mapping</a>, <a href="https://hess.copernicus.org/articles/21/2649/2017/">scaled distribution mapping (both Gamma and Normal corrections)</a>.</p>
        <a href="https://github.com/pankajkarman/bias_correction" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
@@ -62,7 +61,7 @@ nav, article{
   <div class="card">
     <img class="card-img-top" src="/images/sat.png" alt="Card image cap" width="600" height="250">
     <div class="card-body">
-     <p> <br/> </p>
+     <p>  </p>
       <h5 class="card-title"> <strong> Satellite Data Processing </strong> </h5>
       <p class="card-text" align='justify'>A collection of python scripts to read and correct atmospheric composition profile data from various satellites (<a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp/About_GOME-2">GOME2</a>, <a href="https://mls.jpl.nasa.gov/">Aura-MLS</a>, <a href="https://www.ball.com/aerospace/programs/omps">OMPS</a>) like geopotential height, Temperature, ozone, water vapor, N<sub>2</sub>O, ClO and HNO<sub>3</sub>.</p>
       <a href="https://github.com/pankajkarman/satellite" class="btn btn-primary">Go to Project</a>
@@ -74,7 +73,7 @@ nav, article{
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="/images/lulc.png" alt="Card image cap" width="200" height="400">
+    <img class="card-img-top" src="/images/lulc.png" alt="Card image cap" width="200" height="430">
     <div class="card-body">
       <h5 class="card-title" align="left"> <strong> Land Use Land Cover (LULC) classification </strong></h5>
       <p class="card-text" align='justify'>A collection of python scripts to perform LULC analysis using Google Earth Engine (GEE) and raw satellite remote sensing data using random forest and SVM classifiers.</p>
@@ -98,7 +97,7 @@ nav, article{
 <div class="card-deck">
 
   <div class="card">
-    <img class="card-img-top" src="/images/droplet.gif" alt="Card image cap" width="300" height="250">
+    <img class="card-img-top" src="/images/droplet.gif" alt="Card image cap" width="300" height="300">
     <div class="card-body">
       <h5 class="card-title"> <strong> Freezing of supercooled water droplet </strong> </h5>
       <p class="card-text" align='justify'>MATLAB and python codes for 
@@ -109,7 +108,7 @@ nav, article{
 
   
   <div class="card">
-    <img class="card-img-top" src="/images/pandoc.png" alt="Card image cap" width="300" height="250">
+    <img class="card-img-top" src="/images/pandoc.png" alt="Card image cap" width="350" height="300">
     <div class="card-body">
       <h5 class="card-title"> <strong> markdown-scholar </strong> </h5>
       <p class="card-text" align='justify'>A python tool to convert tables from pandas to latex or markdown format. It has functionality to allow inserting an external table in a markdown document.</p>
