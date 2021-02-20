@@ -30,7 +30,7 @@ nav, article{
     <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="410" height="175">
     <div class="card-body">
     <h3 class="card-title" align="left">The Hindu</h3>
-      <p class="card-text" align='justify'>Monitoring rainfall changes in world’s wettest place.</p>
+      <p class="card-text" align='justify'>Wettest place on Earth sees decreasing trend in rainfall. </p>
     <a href="https://www.thehindu.com/sci-tech/science/wettest-place-on-earth-sees-decreasing-trend-in-rainfall/article33889697.ece" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
