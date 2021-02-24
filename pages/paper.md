@@ -63,7 +63,7 @@
 <ul>
 
 <li>
-<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj and G. S. Gopikrishnan: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, submitted.</p>
+<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
 </li>
 <li>
 <p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p>
