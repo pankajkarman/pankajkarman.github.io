@@ -179,6 +179,14 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 <ul>
 
 <li>
+
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021, accepted.</p>
+
+<BR> <BR>
+
+</li>
+
+<li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
 
 <div class="container">

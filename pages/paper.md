@@ -68,9 +68,6 @@
 <li>
 <p>J. Kuttippurath, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole observed at the Indian station Maitri in Antarctica</em>, Polar Science, in review.</p>
 </li>
-<li>
-<p><strong>P. Kumar</strong>, J. Kuttippurath, P. von der Gathen, I. Petropavlovskikh, B. Johnson, Audra McClure-Begley, P. Cristofanelli, P. Bonasoni, M. E. Barlasina, and R. Sánchez: <em>Climate impact of tropospheric ozone trends in Antarctica,</em> Environmental Science &amp; Technology, in revision.</p>
-</li>
 </ul>
 
  </p> 
@@ -80,7 +77,7 @@
 
 <br/>
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Published</h1>
+<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Published/Accepted</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -88,6 +85,10 @@
       <p class="card-text" align='left'>
 
 <ul>
+<li>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021, accepted.</p>
+</li>
+
 <li>
 <p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, 2020 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abcf78?fbclid=IwAR066jF_yX5CrEPCfxP_42rZVC6mb5co9xOU90rKc3vPcwbtK0Fj-lNSnmY">[link]</a>.</p>
 
