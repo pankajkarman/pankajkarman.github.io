@@ -65,7 +65,7 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 ![Representational learning of Trajectories using seq2seq Autoencoder.](/images/causal.png){width=85%} 
 </center>
 
-### Papers in preparation/review
+### Relevant Papers
 
 -   **P. Kumar** and J. Kuttippurath: *Causal Discovery of drivers of surface ozone variabilty in Antarctica,* in preparation.
 
@@ -85,7 +85,7 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 
 <p></p>
 
-### Papers in preparation
+### Relevant Papers
 
 -   **P. Kumar** and J. Kuttippurath: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
 
