@@ -187,6 +187,14 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 </li>
 
 <li>
+
+<p>J. Kuttippurath, F. Lefèvre, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole measurements at the Indian station Maitri in Antarctica</em>, Polar Science, 2021, accepted.</p>
+
+<BR> <BR>
+
+</li>
+
+<li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
 
 <div class="container">
