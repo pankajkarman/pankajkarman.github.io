@@ -67,10 +67,9 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 
 ### Relevant Papers
 
--   **P. Kumar** and J. Kuttippurath: *Causal Discovery of drivers of surface ozone variabilty in Antarctica,* in preparation.
+- **P. Kumar** and J. Kuttippurath: *Causal Discovery of drivers of surface ozone variabilty in Antarctica,* in preparation.
 
--   **Pankaj Kumar**, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: *The increasing surface and tropospheric ozone in Antarctica and their possible drivers,* Environmental Science & Technology, 2021, accepted.
-
+- <p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021<a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
 <BR>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A">Trajectory Analysis and Receptor Modeling</h1>
@@ -92,4 +91,5 @@ Atmospheric chemistry is closely coupled with both local and global atmospheric 
 -   **P. Kumar ** et al.: *Mining trajectories using deep representational learning,* in preparation.
 
 -   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
+-   <p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021<a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
 
