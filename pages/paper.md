@@ -74,7 +74,7 @@
 
 <br/>
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Published/Accepted</h1>
+<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Published / Accepted</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -110,7 +110,6 @@
 
 <li><p>J. Kuttippurath, F. Lefèvre, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole measurements at the Indian station Maitri in Antarctica</em>, Polar Science, 2021 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1873965221000785?via%3Dihub">[link]</a>.</p>
 
-<!--
 
 <div class="container">
 <div class="row">
@@ -128,8 +127,6 @@
 </div>
 
 <BR> <BR>
-
--->
 
 </li>
 

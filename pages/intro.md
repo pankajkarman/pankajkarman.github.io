@@ -178,6 +178,28 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 <ul>
 <li>
+<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.5194/acp-2020-1313' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
+</li>
+
+<li>
 <p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
 
 <!--
@@ -205,7 +227,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 <li><p>J. Kuttippurath, F. Lefèvre, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole measurements at the Indian station Maitri in Antarctica</em>, Polar Science, 2021 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1873965221000785?via%3Dihub">[link]</a>.</p>
 
-<!--
+
 
 <div class="container">
 <div class="row">
@@ -223,33 +245,8 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 </div>
 
 <BR> <BR>
-
--->
-
 </li>
 
-
-<li>
-<p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
-
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.5194/acp-2020-1313' data-badge-popover="right"></div>
-  <p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-
-</div>
-</div>
-</div>
-
-<BR> <BR>
-
-</li>
 
 <li>
 <p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, 2020 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abcf78?fbclid=IwAR066jF_yX5CrEPCfxP_42rZVC6mb5co9xOU90rKc3vPcwbtK0Fj-lNSnmY">[link]</a>.</p>
