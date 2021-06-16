@@ -67,6 +67,16 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>News Highlights</h1>
 
 <div class="card-deck">
+
+    <div class="card">
+  <img class="card-img-top" src="https://thefutureworld.org/wp-content/uploads/2019/02/Phys.Org_.png" width="450" height="245">
+    <div class="card-body">
+    <h3 class="card-title" align="left">Phys.org</h3>
+      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
+    <a href="https://phys.org/news/2021-06-ozone-pollution-antarctica.html" class="btn btn-primary">Read Full Story</a>
+    </div>
+  </div>
+  
   <div class="card">
     <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="410" height="220">
     <div class="card-body">
@@ -83,14 +93,6 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     <h3 class="card-title" align="left">India Today</h3>
       <p class="card-text" align='justify'>Antarctic ozone hole is healing, confirms IIT Kharagpur study.</p>
     <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29" class="btn btn-primary">Read Full Story</a>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="https://www.ndtv.com/education/cache-static/media/presets/625X400/article_images/2020/5/12/llvlorh_iit-kharagpur-website_625x300_03_August_18.webp">
-    <div class="card-body">
-    <h3 class="card-title" align="left">NDTV</h3>
-      <p class="card-text" align='justify'>IIT Kharagpur Study Confirms Healing Of Antarctic Ozone Hole.</p>
-    <a href="https://www.ndtv.com/education/iit-kharagpur-study-confirms-healing-of-antarctic-ozone-hole-1956054" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
 </div>
@@ -178,6 +180,31 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 
 <ul>
 <li>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acs.est.0c08491' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<!--
+ <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
+ -->
+</div>
+
+</div>
+</div>
+
+<BR> <BR>
+
+</li>
+
+<li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
 
 <div class="container">
@@ -196,32 +223,6 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 </div>
 
 <BR> <BR>
-
-</li>
-
-<li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
-
-<!--
-
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acs.est.0c08491' data-badge-popover="right"></div>
-  <p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
- <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
-</div>
-</div>
-</div>
-
-<BR> <BR>
-
--->
 
 </li>
 

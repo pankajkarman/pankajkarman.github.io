@@ -89,8 +89,6 @@
 <li>
 <p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
 
-<!--
-
 <div class="container">
 <div class="row">
 
@@ -101,14 +99,15 @@
 
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<!--
  <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
+ -->
 </div>
+
 </div>
 </div>
 
 <BR> <BR>
-
--->
 
 </li>
 

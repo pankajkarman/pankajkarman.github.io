@@ -23,6 +23,40 @@ nav, article{
 }
 </style>
 
+<h1 style="background-color: #ADD8E6; color:#A52A2A">The Increasing Surface Ozone and Tropospheric Ozone in Antarctica and Their Possible Drivers</h1>
+
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="https://www.newswise.com/assets/new/img/Newswise-Logo.png" width="410" height="175">
+    <div class="card-body">
+    <h3 class="card-title" align="left">News Wise</h3>
+      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica </p>
+    <a href="https://www.newswise.com/articles/ozone-pollution-has-increased-in-antarctica" class="btn btn-primary">Read Full Story</a>
+    </div>
+  </div>
+
+
+  <div class="card">
+  <img class="card-img-top" src="https://sciencewritersmeeting.org/2018/sites/default/files/sponsor_logos/EurekAlert_HorizLogo_Wht-RedBox.png" width="450" height="175">
+    <div class="card-body">
+    <h3 class="card-title" align="left">EurekAlert!</h3>
+      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
+    <a href="https://www.eurekalert.org/pub_releases/2021-06/acs-oph061021.php" class="btn btn-primary">Read Full Story</a>
+    </div>
+  </div>
+  
+  <div class="card">
+  <img class="card-img-top" src="https://thefutureworld.org/wp-content/uploads/2019/02/Phys.Org_.png" width="410" height="175">
+    <div class="card-body">
+    <h3 class="card-title" align="left">Phys.org</h3>
+      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
+    <a href="https://phys.org/news/2021-06-ozone-pollution-antarctica.html" class="btn btn-primary">Read Full Story</a>
+    </div>
+  </div>
+</div>
+
+<BR>
+
 <h1 style="background-color: #ADD8E6; color:#A52A2A">Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</h1>
 
 <div class="card-deck">
