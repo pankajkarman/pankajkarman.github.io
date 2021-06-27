@@ -179,30 +179,6 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
       <p class="card-text" align='left'>
 
 <ul>
-<li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
-
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acs.est.0c08491' data-badge-popover="right"></div>
-  <p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-<!--
- <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
- -->
-</div>
-
-</div>
-</div>
-
-<BR> <BR>
-
-</li>
 
 <li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
@@ -219,6 +195,31 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
 
 </div>
+</div>
+</div>
+
+<BR> <BR>
+
+</li>
+
+<li>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acs.est.0c08491' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+
+ <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
+
+</div>
+
 </div>
 </div>
 
