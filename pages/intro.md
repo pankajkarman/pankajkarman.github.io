@@ -128,7 +128,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
  <div class="card">
     <img class="card-img-top" src="/images/causal.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Causal Inference</h5>
+      <h5 class="card-title">Causal Network Analysis of Chemistry and Climate Interactions </h5>
       <p class="card-text" align='justify'>In this project, I perform the causal network analysis of tropospheric ozone in Antarctic region to identify the geophysical drivers of variation in surface ozone concentration.</p>
       <a href="https://github.com/pankajkarman/deep-learning/tree/master/causality" class="btn btn-primary">Go to Project</a>
     </div>
