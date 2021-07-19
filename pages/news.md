@@ -80,7 +80,11 @@ display: flex;
     <div class="card-body">
     <h3 class="card-title" align="left">The Hindu</h3>
       <p class="card-text" align='justify'>Wettest place on Earth sees decreasing trend in rainfall. </p>
+      
+    <span>  
     <a href="https://www.thehindu.com/sci-tech/science/wettest-place-on-earth-sees-decreasing-trend-in-rainfall/article33889697.ece" class="btn btn-primary">Read Full Story</a>
+    <a href="https://www.youtube.com/watch?v=l5SMFbp-bJ0" class="btn btn-primary">YouTube</a>
+    </span>
     </div>
   </div>
   </div>
