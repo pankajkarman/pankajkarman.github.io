@@ -22,11 +22,19 @@ ol a{
 nav, article{
   text-decoration: none;
 }
+
+.row-eq-height {
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+}
 </style>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A">Open source libraries</h1>
 
-<div class="card-deck">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/hytraj.png" alt="Card image cap" width="410" height="475">
     <div class="card-body">
@@ -35,7 +43,9 @@ nav, article{
        <a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
+  </div>
   
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap" width="410" height="520">
     <div class="card-body">
@@ -44,11 +54,9 @@ nav, article{
       <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
     </div> 
   </div>
-</div>
-  
-<br/>  
+  </div>
 
-<div class="card-deck">
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/bias.png" alt="Card image cap" width="600" height="270">
     <div class="card-body">
@@ -57,7 +65,9 @@ nav, article{
        <a href="https://github.com/pankajkarman/bias_correction" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
+  </div>
   
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/sat.png" alt="Card image cap" width="600" height="250">
     <div class="card-body">
@@ -67,11 +77,9 @@ nav, article{
       <a href="https://github.com/pankajkarman/satellite" class="btn btn-primary">Go to Project</a>
     </div> 
   </div>
-</div>
-  
-<br/> 
+  </div>
 
-<div class="card-deck">
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/lulc.png" alt="Card image cap" width="200" height="430">
     <div class="card-body">
@@ -80,7 +88,9 @@ nav, article{
        <a href="https://github.com/pankajkarman/land-use-land-cover-classification" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
+  </div>
   
+    <div class="col mb-4 row-eq-height">
     <div class="card">
     <img class="card-img-top" src="/images/tcdf.png" alt="Card image cap" width="300" height="400">
     <div class="card-body">
@@ -89,13 +99,9 @@ nav, article{
        <a href="https://github.com/pankajkarman/deep-learning" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
+  </div>
   
-</div>
-  
-<br/> 
-
-<div class="card-deck">
-
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/droplet.gif" alt="Card image cap" width="300" height="300">
     <div class="card-body">
@@ -105,8 +111,9 @@ nav, article{
       <a href="https://github.com/pankajkarman/droplet" class="btn btn-primary">Go to Project</a>
     </div> 
   </div>
+  </div>
 
-  
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/pandoc.png" alt="Card image cap" width="350" height="300">
     <div class="card-body">
@@ -114,6 +121,7 @@ nav, article{
       <p class="card-text" align='justify'>A python tool to convert tables from pandas to latex or markdown format. It has functionality to allow inserting an external table in a markdown document.</p>
       <a href="https://github.com/pankajkarman/markdown-scholar" class="btn btn-primary">Go to Project</a>
     </div> 
+  </div>
   </div>
 </div>
   

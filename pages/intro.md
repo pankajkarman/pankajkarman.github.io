@@ -2,10 +2,10 @@
 .. title:  
 .. slug: intro
 .. date: 2020-05-04 20:18:18 UTC
-.. tags:
+.. tags: About
 .. category:
 .. link:
-.. description:
+.. description: About
 .. type: text
 -->
 
@@ -33,6 +33,13 @@ background-position: 0 0;
 background-size: cover;
 color: #E6FFFB;
 }
+
+.row-eq-height {
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+}
 </style>
 
 <!--For Altmetric badges-->
@@ -42,33 +49,29 @@ color: #E6FFFB;
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
-<div class="card-deck ">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
   <div class="card">
     <div class="card-body ">
-    <img src="/images/me.jpg" class="rounded-rectangle card-img-left" width="400" style="float: left; padding: 5px 25px 5px 0px;">
-    <p class="card-text" align='justify' style='font-size: large'>
+    <img src="/images/me.jpg" class="rounded-circle card-img-left" width="360" style="float: right; padding: 5px 15px 15px 25px;">
+    <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Education (MoE), Government of India.</p>
 
-Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Education (MoE), Government of India.
+<p class="card-text"style='font-size: large' align='left'>
+I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
 
-<br/><br/>
+<p class="card-text"style='font-size: large' align='left'> Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf" style="text-decoration: underline;">[pdf]</a>.</p>
 
-I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. 
-
-<br/><br/>
-
-Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/resume.pdf" style="text-decoration: underline;">[pdf]</a>.</p>
-
-    </div>
-  </div>
+</div>
+</div>
 </div>
 
 <br/>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>News Highlights</h1>
 
-<div class="card-deck">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3">
 
-    <div class="card">
+  <div class="col mb-4 row-eq-height">
+  <div class="card">
   <img class="card-img-top" src="https://thefutureworld.org/wp-content/uploads/2019/02/Phys.Org_.png" width="450" height="245">
     <div class="card-body">
     <h3 class="card-title" align="left">Phys.org</h3>
@@ -76,7 +79,9 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     <a href="https://phys.org/news/2021-06-ozone-pollution-antarctica.html" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
+  </div>
   
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="410" height="220">
     <div class="card-body">
@@ -85,7 +90,9 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     <a href="https://www.thehindu.com/sci-tech/science/wettest-place-on-earth-sees-decreasing-trend-in-rainfall/article33889697.ece" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
+  </div>
   
+  <div class="col mb-4 row-eq-height">
   <div class="card">
   <img class="card-img-top" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201811/ozone-layer-shrinking_647-x404.jpg?B6H53U1jPoBqy2VEEq.n0wKPYdoXkT1E" >
     <div class="card-body">
@@ -95,13 +102,15 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     <a href="https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctic-ozone-hole-healing-iit-kharagpur-study-html-1398826-2018-11-29" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
+  </div>
 </div>
 
 <BR>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Projects</h1>
 
-<div class="card-deck">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+<div class="col mb-4 row-eq-height">
   <div class="card">
     <img class="card-img-top" src="/images/hytraj.png" alt="Card image cap">
     <div class="card-body">
@@ -110,7 +119,9 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
        <a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
+  </div>
   
+<div class="col mb-4 row-eq-height">  
   <div class="card">
     <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
     <div class="card-body">
@@ -121,10 +132,9 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     </div> 
   </div>
 </div>
+
   
-<br/>  
-  
-<div class="card-deck">
+<div class="col mb-4 row-eq-height">  
  <div class="card">
     <img class="card-img-top" src="/images/causal.png" alt="Card image cap">
     <div class="card-body">
@@ -133,6 +143,10 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
       <a href="https://github.com/pankajkarman/deep-learning/tree/master/causality" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
+  </div>
+  
+  
+<div class="col mb-4 row-eq-height">  
   <div class="card">
     <img class="card-img-top" src="/images/droplet.gif" alt="Card image cap">
     <div class="card-body">
@@ -142,21 +156,27 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
     </div>
   </div>
 </div>
+</div>
 
 <BR>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Blog</h1>
 
-<div class="card-deck">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+  <div class="col mb-4 row-eq-height">
   <div class="card">
-    <div class="card-body">
-      <h3 class="card-title" align="left">COVID19: A comprehensive review</h3>
-      <p class="card-text" align='justify'>In this blog, I'll be discussing about a few papers which have convincingly demonstrated the dominance of aerosol transmission for the spread of the novel coronavirus. I'll also discuss the scientific reasoning behind the steps being recommended to keep the coronavirus at bay and the role of ventilation in avoiding the spread of the virus. </p>
+  <div class="card-body">
+  <h3 class="card-title" align="left">COVID19: A comprehensive review</h3>
+  <p class="card-text" align='justify'>In this blog, I'll be discussing about a few papers which have convincingly demonstrated the dominance of aerosol transmission for the spread of the novel coronavirus. I'll also discuss the scientific reasoning behind the steps being recommended to keep the coronavirus at bay and the role of ventilation in avoiding the spread of the virus. </p>
       <a href="/blog/covid/" class="btn btn-primary">Read More</a>
-      <div class="embed-container"><iframe width="200" height="150" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://www.covid19india.org/state/BR"></iframe></div>
+      <div class="embed-container">
+      <iframe width="200" height="150" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://www.covid19india.org/state/BR"></iframe>
+      </div>
     </div>
   </div>
+  </div>
   
+  <div class="col mb-4 row-eq-height">
   <div class="card">
     <div class="card-body">
       <h3 class="card-title">Technical writing using Markdown</h3>
@@ -165,6 +185,7 @@ Here is my resume <a href="https://github.com/pankajkarman/resume/blob/master/re
       <img class="card-img-top" src="/images/mdflow.png" alt="Card image cap">
     </div>
   </div>
+</div>
 </div>
 
 
