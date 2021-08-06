@@ -57,7 +57,7 @@
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Machine Intelligence, submitted.</p>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Computational Science, submitted.</p>
 </li>
 
 <li>

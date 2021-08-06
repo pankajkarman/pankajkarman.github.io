@@ -205,7 +205,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <ul>
 
-<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Machine Intelligence, submitted.</p></li>
+<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Computational Science, submitted.</p></li>
 
 <li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p>
