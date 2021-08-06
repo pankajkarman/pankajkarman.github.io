@@ -37,12 +37,6 @@
 <li>
 <p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p>
 </li>
-<li>
-<p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Long-term variation in sources of tropospheric ozone in Antarctica,</em> in preparation.</p>
-</li>
-<li>
-<p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Causal Discovery of drivers of surface ozone variabilty in Antarctica,</em> in preparation.</p>
-</li>
 </ul>
 
  </p> 
@@ -61,6 +55,10 @@
       <p class="card-text" align='left'>
 
 <ul>
+
+<li>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Machine Intelligence, submitted.</p>
+</li>
 
 <li>
 <p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Quarterly Journal of the Royal Meteorological Society, in review.</p>

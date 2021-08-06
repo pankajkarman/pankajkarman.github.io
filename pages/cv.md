@@ -284,7 +284,7 @@
     </center>
       <p class="card-text" align='justify'>
 <ul>
-<li><p><strong>P. Kumar</strong> and J. Kuttippurath: <em>Causal Discovery of drivers of surface ozone variabilty in Antarctica,</em> in preparation.</p></li>
+<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Machine Intelligence, submitted.</p></li>
 
 <li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p></li>
 
