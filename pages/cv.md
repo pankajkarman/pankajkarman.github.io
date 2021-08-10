@@ -286,7 +286,7 @@
 <ul>
 <li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Computational Science, submitted.</p></li>
 
-<li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Arctic on the verge of an ozone hole?</em>, Atmospheric Chemistry and Physics, in review <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p></li>
+<li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Exceptional loss in ozone in the Arctic winter/spring 2020</em>, Atmospheric Chemistry and Physics, accepted <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p></li>
 
 <li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p></li>
 
@@ -294,8 +294,8 @@
 
 <li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, 2020 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abcf78?fbclid=IwAR066jF_yX5CrEPCfxP_42rZVC6mb5co9xOU90rKc3vPcwbtK0Fj-lNSnmY">[link]</a>.</p></li>
 
-<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, P C Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p></li>
-<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979-2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>.</p></li>
+<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and P C Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p></li>
+<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979-2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>.</p></li>
 </ul>
 </p>
     </div>
