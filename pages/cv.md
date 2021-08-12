@@ -7,6 +7,7 @@
 .. link: cv.pdf
 .. description: 
 .. type: text
+.. hidetitle: True
 -->
 
 <style type="text/css">

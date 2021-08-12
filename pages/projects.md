@@ -7,7 +7,8 @@
 .. link: 
 .. description: 
 .. type: text
-.. has_math: true
+.. has_math: True
+.. hidetitle: True
 -->
 
 <style type="text/css">

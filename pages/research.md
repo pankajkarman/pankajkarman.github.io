@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: True
 -->
 
 <style type="text/css">
