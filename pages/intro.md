@@ -1,5 +1,5 @@
 <!--
-.. title:  
+.. title: about
 .. slug: intro
 .. date: 2020-05-04 20:18:18 UTC
 .. tags: About
@@ -7,6 +7,7 @@
 .. link:
 .. description: About
 .. type: text
+.. hidetitle: True
 -->
 
 <style>

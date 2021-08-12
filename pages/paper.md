@@ -1,5 +1,5 @@
 <!--
-.. title:  
+.. title: publications
 .. slug: paper
 .. date: 2020-05-04 20:18:18 UTC
 .. tags:
@@ -7,6 +7,7 @@
 .. link:
 .. description:
 .. type: text
+.. hidetitle: True
 -->
 
 <style type="text/css">

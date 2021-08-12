@@ -1,3 +1,15 @@
+<!--
+.. title: home
+.. slug: index
+.. date: 2020-05-07 05:53:09 UTC+05:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+-->
+
 <html>
    <head>
 	<meta charset='utf-8'>

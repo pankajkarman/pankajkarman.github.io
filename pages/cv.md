@@ -1,5 +1,5 @@
 <!--
-.. title: Curriculum Vitae
+.. title: cv
 .. slug: cv
 .. date: 2020-05-04 20:18:58 UTC
 .. tags: 

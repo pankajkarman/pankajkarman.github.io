@@ -1,5 +1,5 @@
 <!--
-.. title: Digital, TV and Print Media Coverage
+.. title: news
 .. slug: news
 .. date: 2020-05-07 05:53:09 UTC+05:30
 .. tags: 
@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: True
 -->
 
 <style type="text/css">
