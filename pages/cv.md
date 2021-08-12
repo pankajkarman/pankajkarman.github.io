@@ -16,7 +16,7 @@
 }
 </style>
 
-<h1 style="background-color: #ADD8E6; color:#000000"> EDUCATION</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'> EDUCATION</h1>
 
 
 <div class="card-deck">
@@ -57,7 +57,7 @@
 
 <BR/> 
 
-<h1 style="background-color: #ADD8E6; color:#000000"> SKILLS</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'> SKILLS</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -184,7 +184,7 @@
 
 <BR/>
 
-<h1 style="background-color: #ADD8E6; color:#000000"> RESEARCH EXPERIENCE</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'> RESEARCH EXPERIENCE</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -275,7 +275,7 @@
 
 <BR/>
 
-<h1 style="background-color: #ADD8E6; color:#000000"> PUBLICATIONS</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'> PUBLICATIONS</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -305,7 +305,7 @@
 <br/> 
   
  
-<h1 style="background-color: #ADD8E6; color:#000000"> CONFERENCES</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'> CONFERENCES</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -328,7 +328,7 @@
 </div> 
 <br/>
 
-<h1 style="background-color: #ADD8E6; color:#000000"> AWARDS/GRANTS</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'> AWARDS/GRANTS</h1>
 
 <div class="card-deck">
   <div class="card">
