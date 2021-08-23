@@ -111,9 +111,7 @@ biological irritant but also an atmospheric cleansing agent which rids the atmos
 <span>
 <a href="https://www.researchsquare.com/article/rs-826824/v1" class="btn btn-primary">Preprint</a>  
 <a href="https://assets.researchsquare.com/files/rs-826824/v1_covered.pdf" class="btn btn-primary">PDF</a> 
-<!--
-<a href="/images/posters/ACP_01.png" class="btn btn-primary">Summary</a> 
--->
+<a href="/images/posters/Causal_01.png" class="btn btn-primary">Summary</a> 
 </span>
 
 </div>
