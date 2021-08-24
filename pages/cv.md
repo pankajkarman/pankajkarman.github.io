@@ -21,7 +21,7 @@
 
 <div class="card-deck">
   <div class="card">
-  <img class="card-img-top" src="https://aura.gsfc.nasa.gov/images/science/201701a.jpg" width="250" height="250">
+  <img class="card-img-top" src="/images/cv/hole.jpg" width="250" height="250">
     <div class="card-body">
     <h3 class="card-title" align="left">Doctor of Philosophy</h3>
       <p class="card-text" align='justify'> 
@@ -32,7 +32,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="https://wdc.dlr.de/sensors/omi/omi.png" width="250" height="250">
+    <img class="card-img-top" src="/images/cv/omi.png" width="250" height="250">
     <div class="card-body">
     <h3 class="card-title" align="left">Master of Technology</h3>
       <p class="card-text" align='justify'> 
@@ -43,7 +43,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="//regmedia.co.uk/2016/06/30/wind_turbines_image_via_shutterstock.jpg?x=442&y=293&crop=1" width="250" height="250">
+    <img class="card-img-top" src="/images/cv/wind_turbine.jpg" width="250" height="250">
     <div class="card-body">
     <h3 class="card-title" align="left">Bachelor of Engineering</h3>
       <p class="card-text" align='justify'> 
@@ -62,7 +62,7 @@
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
-    <img class="card-img-top" src="//www.epsiloninnovation.com/img/climate-predictive-analytics.png">
+    <img class="card-img-top" src="/images/cv/climate-predictive-analytics.png">
       <h2 class="card-title" align="left">Data Analysis</h2>
       <p class="card-text" align='justify'>      
 
@@ -85,7 +85,7 @@
    
 <div class="card">
     <div class="card-body">
-    <img class="card-img-top" src="https://static.skillshare.com/uploads/video/thumbnails/c073470e95824079bc93e74d1bd5bdb5/original">
+    <img class="card-img-top" src="/images/cv/coding.jpeg">
       <h3 class="card-title">Programming Languages</h3>
       <p class="card-text" align='justify'>
 
@@ -117,7 +117,7 @@
   
     <div class="card">
     <div class="card-body">
-      <img class="card-img-top" src="https://geoclimatologyblog.files.wordpress.com/2020/03/cru-cartopy.png?w=640">
+      <img class="card-img-top" src="/images/cv/cartopy.png?w=640">
       <h2 class="card-title">Libraries / Frameworks</h2>
       <p class="card-text" align='justify'>
 
@@ -146,7 +146,7 @@
 
   <div class="card">
     <div class="card-body">
-    <img class="card-img-top" src="https://i.ytimg.com/vi/Gs_dy75bZXY/maxresdefault.jpg">
+    <img class="card-img-top" src="/images/cv/geoschem.jpg">
       <h3 class="card-title" align="left">Physical Modeling</h3>   
 <p> 
 <ul>
@@ -162,7 +162,7 @@
   
   <div class="card">
     <div class="card-body">
-    <img class="card-img-top" src="https://cdn-images-1.medium.com/max/1600/1*qwFrTMnFkcd3U9rFKwwacw.png">
+    <img class="card-img-top" src="/images/cv/git.png">
       <h2 class="card-title" align="left">Other Computer related skills</h2>
       <p class="card-text" align='justify'>
 <ul>
@@ -285,7 +285,7 @@
     </center>
       <p class="card-text" align='justify'>
 <ul>
-<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Environmental Modelling & Software, submitted [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p></li>
+<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, submitted [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p></li>
 
 <li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Exceptional loss in ozone in the Arctic winter/spring 2020</em>, Atmospheric Chemistry and Physics, accepted <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p></li>
 
@@ -311,7 +311,7 @@
   <div class="card">
     <div class="card-body">
     <center>
-    <img src="https://alln-extcloud-storage.cisco.com/ciscoblogs/KR50464.jpg" width="800">
+    <img src="/images/cv/conference.jpg" width="800">
     </center>
     
     <br/>
@@ -334,7 +334,7 @@
   <div class="card">
     <div class="card-body">
     <center>
-    <img class="card-img-top" src="https://www2.uibk.ac.at/images/648x122/geographie/lidar/news/images/egu2017.png">
+    <img class="card-img-top" src="/images/cv/egu2017.png">
     </center>
     
     <br/>

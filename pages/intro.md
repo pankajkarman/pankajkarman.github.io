@@ -206,7 +206,31 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <ul>
 
-<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Environmental Modelling & Software, submitted [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>, <a href="/images/posters/Causal_01.png"> summary</a>].</p></li>
+<li>
+
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, submitted [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>, <a href="/images/posters/Causal_01.png"> summary</a>].</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.21203/rs.3.rs-826824/v1' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<!--
+<div class="__dimensions_badge_embed__" data-doi="10.21203/rs.3.rs-826824/v1" data-legend="hover-right"></div>
+-->
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
+
+</li>
 
 <li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Exceptional loss in ozone in the Arctic winter/spring 2020</em>, Atmospheric Chemistry and Physics, accepted [<a href="https://acp.copernicus.org/preprints/acp-2020-1313/">preprint</a>, <a href="/images/posters/ACP_01.png"> summary</a>].</p>
@@ -222,6 +246,9 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
 
+<!--
+ <div class="__dimensions_badge_embed__" data-doi="10.5194/acp-2020-1313" data-legend="hover-right"></div>
+-->
 </div>
 </div>
 </div>
