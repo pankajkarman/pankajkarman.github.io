@@ -285,7 +285,7 @@
     </center>
       <p class="card-text" align='justify'>
 <ul>
-<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Nature Computational Science, submitted [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p></li>
+<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, Environmental Modelling & Software, submitted [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p></li>
 
 <li><p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Exceptional loss in ozone in the Arctic winter/spring 2020</em>, Atmospheric Chemistry and Physics, accepted <a href="https://acp.copernicus.org/preprints/acp-2020-1313/">[preprint]</a>.</p></li>
 
