@@ -69,21 +69,26 @@
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, in review [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, in review [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p>
 </li>
 
 <li>
-<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, submitted.</p>
+<p>D. Ardra, Jayanarayanan Kuttippurath, <strong>Pankaj Kumar</strong>, Raina Roy, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, submitted.</p>
 </li>
 
 <li>
-<p>Surajit Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, submitted.</p>
+<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, submitted.</p>
+</li>
+
+<li>
+<p>Surajit Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, submitted.</p>
 </li>
 </ul>
 
- </p> 
-    </div>
-  </div>
+       </p>
+    
+      </div>
+   </div>
 </div>
 
 <br/>
@@ -111,7 +116,7 @@
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
 
-<div class="__dimensions_badge_embed__" data-doi="https://doi.org/10.5194/acp-21-14019-2021" data-legend="hover-right"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.5194/acp-21-14019-2021" data-legend="hover-right"></div>
 
 </div>
 </div>

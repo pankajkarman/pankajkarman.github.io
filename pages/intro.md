@@ -246,7 +246,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
 
-<div class="__dimensions_badge_embed__" data-doi="https://doi.org/10.5194/acp-21-14019-2021" data-legend="hover-right"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.5194/acp-21-14019-2021" data-legend="hover-right"></div>
 
 </div>
 </div>
