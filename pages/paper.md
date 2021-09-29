@@ -44,11 +44,6 @@
 <li>
 <p>R. Roy, <strong>P. Kumar</strong>, J. Kuttippurath, and F. Lefèvre: <em>The chemical ozone loss in the Antarctic winters 2013–2020,</em> in preparation.</p>
 </li>
-
-<li>
-<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Atmospheric pollution in the Arctic: sources, variability and long–term trends,</em> in preparation.</p>
-</li>
-
 </ul>
 
  </p> 
@@ -78,6 +73,11 @@
 
 <li>
 <p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, submitted.</p>
+</li>
+
+
+<li>
+<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Atmospheric pollution in the Arctic: sources, variability and long–term trends,</em> submitted.</p>
 </li>
 
 <li>
