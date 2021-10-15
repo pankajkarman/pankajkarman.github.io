@@ -189,9 +189,7 @@
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
-    <center>
-    <img src="/images/geoschem.gif" width="770">
-    </center>
+    <center> <img src="/images/acp.png" width="70%">  </center>
     <br/>
       <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present</h3>
       <p class="card-text" align='justify'>
@@ -333,12 +331,8 @@
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
-    <center>
-    <img class="card-img-top" src="/images/cv/egu2017.png">
-    </center>
-    
-    <br/>
-      <p class="card-text" align='justify'>
+    <center>  <img class="card-img-top" src="/images/cv/egu2017.png">   </center>   <br/>
+    <p class="card-text" align='justify'>
 <ul>
 <li>Received full funding for attending European Geosciences Union (EGU) General Assembly held during <strong>23-28 April 2017</strong> in Vienna, Austria.</li>
 </ul>
