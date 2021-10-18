@@ -127,22 +127,10 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   </div>
   
 <div class="col mb-4 row-eq-height">  
-  <div class="card">
-    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
-    <div class="card-body">
-     <p> <br/> </p>
-      <h5 class="card-title">pyvortex</h5>
-      <p class="card-text" align='justify'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
-      <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
-    </div> 
-  </div>
-</div>
-
-  
-<div class="col mb-4 row-eq-height">  
  <div class="card">
-    <img class="card-img-top" src="/images/causal.png" alt="Card image cap">
+    <img class="card-img-top" src="/images/causal1.png" alt="Card image cap">
     <div class="card-body">
+         <p> <br/> <br/> </p>
       <h5 class="card-title">Causal Network Analysis of Chemistry and Climate Interactions </h5>
       <p class="card-text" align='justify'>In this project, I perform the causal network analysis of tropospheric ozone in Antarctic region to identify the geophysical drivers of variation in surface ozone concentration.</p>
       <a href="https://github.com/pankajkarman/deep-learning/tree/master/causality" class="btn btn-primary">Go to Project</a>
@@ -150,13 +138,24 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   </div>
   </div>
   
+<div class="col mb-4 row-eq-height">  
+  <div class="card">
+    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">pyvortex</h5>
+      <p class="card-text" align='justify'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
+      <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
+    </div> 
+  </div>
+</div>
+  
   
 <div class="col mb-4 row-eq-height">  
   <div class="card">
-    <img class="card-img-top" src="/images/droplet.gif" alt="Card image cap">
+    <img class="card-img-top" src="/images/reprobus_ozone.gif" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Freezing of supercooled droplet</h5>
-      <p class="card-text" align='justify'>This project investigates the freezing of a supercooled water droplet placed on a supercooled plate and subsequent singularity formation at the tip; simulating the interaction between all three phases of water.</p>
+      <h5 class="card-title">Reprobus</h5>
+      <p class="card-text" align='justify'>Python library to process the output from REPROBUS (Reactive Procecesses Ruling the Ozone Budget in the Stratosphere) model, a prominent Chemistry Transport Model that describes stratospheric chemistry with 55 chemical species and more than 100 chemical reactions. Heterogeneous chemistry upon Polar Stratospheric Clouds and aerosol particles is parameterised within the model. Transport of the chemical species are assured by a semi-Lagrangian scheme.</p>
       <a href="https://github.com/pankajkarman/droplet" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
