@@ -155,7 +155,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
     <img class="card-img-top" src="/images/reprobus_ozone.gif" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Reprobus</h5>
-      <p class="card-text" align='justify'>Python library to process the output from REPROBUS (Reactive Procecesses Ruling the Ozone Budget in the Stratosphere) model, a prominent Chemistry Transport Model that describes stratospheric chemistry with 55 chemical species and more than 100 chemical reactions. Heterogeneous chemistry upon Polar Stratospheric Clouds and aerosol particles is parameterised within the model. Transport of the chemical species are assured by a semi-Lagrangian scheme.</p>
+      <p class="card-text" align='justify'>Python library to process the output from REPROBUS (Reactive Processes Ruling the Ozone Budget in the Stratosphere) model, a prominent Chemistry Transport Model that describes stratospheric chemistry with 55 chemical species and more than 100 chemical reactions. Heterogeneous chemistry upon Polar Stratospheric Clouds and aerosol particles is parameterised within the model. Transport of the chemical species are assured by a semi-Lagrangian scheme.</p>
       <a href="https://github.com/pankajkarman/reprobus" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
