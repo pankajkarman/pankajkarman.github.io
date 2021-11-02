@@ -64,7 +64,7 @@
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, in review [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, in revision [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p>
 </li>
 
 <li>
