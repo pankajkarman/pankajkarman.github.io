@@ -109,8 +109,8 @@ biological irritant but also an atmospheric cleansing agent which rids the atmos
 <p class="card-text" align='justify'>  Atmospheric chemistry is closely coupled with both local and global atmospheric dynamics. Understanding these interactions is an essential prerequisite for diagnosing the influence of weather/climate on atmospheric chemistry and vice-versa. I am developing and utilising state-of-the-art causal discovery methods for reconstructing the causal dependency structure underlying chemistry–atmosphere interactions. I am also analysing the climatic impacts of changes in tropospheric ozone in Antarctic region and its geophysical drivers with the help of a suite of statistical, machine learning and physical modeling techniques.</p>
 
 <span>
-<a href="https://www.researchsquare.com/article/rs-826824/v1" class="btn btn-primary">Preprint</a>  
-<a href="https://assets.researchsquare.com/files/rs-826824/v1_covered.pdf" class="btn btn-primary">PDF</a> 
+<a href="https://doi.org/10.1039/D1EM00383F" class="btn btn-primary">Full Text</a>  
+<a href="https://pubs.rsc.org/en/content/articlepdf/2022/EM/D1EM00383F?page=search" class="btn btn-primary">PDF</a> 
 <a href="/images/posters/Causal_01.png" class="btn btn-primary">Summary</a> 
 </span>
 

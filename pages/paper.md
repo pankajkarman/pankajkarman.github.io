@@ -64,10 +64,6 @@
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, in revision [<a href="https://www.researchsquare.com/article/rs-826824/v1">preprint</a>].</p>
-</li>
-
-<li>
 <p>D. Ardra, Jayanarayanan Kuttippurath, <strong>Pankaj Kumar</strong>, Raina Roy, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, submitted.</p>
 </li>
 
@@ -101,6 +97,30 @@
       <p class="card-text" align='left'>
 
 <ul>
+
+<li>
+
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, 2021 [<a href="https://doi.org/10.1039/D1EM00383F">link</a>].</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1039/D1EM00383F' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1039/D1EM00383F" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
+
+</li>
 
 <li>
 <p>J. Kuttippurath, W. Feng, R. Müller, <strong>P. Kumar</strong>, S. Raj, G. S. Gopikrishnan and R. Roy: <em>Exceptional loss in ozone in the Arctic winter/spring 2020</em>, Atmospheric Chemistry and Physics, 2021 [<a href="https://acp.copernicus.org/articles/21/14019/2021/">paper</a>, <a href="/images/posters/ACP_01.png"> summary</a>].</p>

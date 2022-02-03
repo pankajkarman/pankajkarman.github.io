@@ -59,7 +59,7 @@ display: flex;
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="https://thefutureworld.org/wp-content/uploads/2019/02/Phys.Org_.png" width="410" height="175">
+  <img class="card-img-top" src="http://www.kurzweilai.net/images/logo_phys_org.png" width="210" height="180">
     <div class="card-body">
     <h3 class="card-title" align="left">Phys.org</h3>
       <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
