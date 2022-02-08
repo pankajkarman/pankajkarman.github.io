@@ -207,7 +207,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <li>
 
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, 2021 [<a href="https://doi.org/10.1039/D1EM00383F">paper</a>, <a href="/images/posters/Causal_01.png"> summary</a>].</p>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, 2022 [<a href="https://doi.org/10.1039/D1EM00383F">paper</a>, <a href="/images/posters/Causal_01.png"> summary</a>].</p>
 
 <div class="container">
 <div class="row">
