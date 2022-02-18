@@ -72,9 +72,7 @@
 <p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Atmospheric pollution in the Arctic: sources, variability and long–term trends,</em> submitted.</p>
 </li>
 
-<li>
-<p>Surajit Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, submitted.</p>
-</li>
+
 </ul>
 
        </p>
@@ -95,7 +93,27 @@
 <ul>
 
 <li>
-<p>Divakaran Ardra, Jayanarayanan Kuttippurath, Raina Roy, <strong>Pankaj Kumar</strong>, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, ACS Earth and Space Chemistry, 2022.</p>
+<p>Divakaran Ardra, Jayanarayanan Kuttippurath, Raina Roy, <strong>Pankaj Kumar</strong>, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, ACS Earth and Space Chemistry, 2022 [<a href="https://doi.org/10.1021/acsearthspacechem.1c00333">link</a>].</p>
+
+<!--
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acsearthspacechem.1c00333' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1021/acsearthspacechem.1c00333" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+-->
 </li>
 
 
@@ -216,6 +234,12 @@
 <BR> <BR>
 
 </li>
+
+<li>
+<p>S. Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, ournal of Water and Climate Change, 2022.</p>
+</li>
+
+
 <li>
 <p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair,  and P. C. Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p>
 
