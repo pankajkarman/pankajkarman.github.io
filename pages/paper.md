@@ -95,8 +95,6 @@
 <li>
 <p>Divakaran Ardra, Jayanarayanan Kuttippurath, Raina Roy, <strong>Pankaj Kumar</strong>, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, ACS Earth and Space Chemistry, 2022 [<a href="https://doi.org/10.1021/acsearthspacechem.1c00333">link</a>].</p>
 
-<!--
-
 <div class="container">
 <div class="row">
 
@@ -113,7 +111,8 @@
 </div>
 
 <BR> <BR>
--->
+
+
 </li>
 
 
