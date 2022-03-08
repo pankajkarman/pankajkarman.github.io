@@ -73,10 +73,10 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="http://www.kurzweilai.net/images/logo_phys_org.png" width="200" height="260">
+  <img class="card-img-top" src="http://www.kurzweilai.net/images/logo_phys_org.png" width="400" height="220">
     <div class="card-body">
     <h3 class="card-title" align="left">Phys.org</h3>
-      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
+      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica.</p>
     <a href="https://phys.org/news/2021-06-ozone-pollution-antarctica.html" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
@@ -84,7 +84,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-    <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="410" height="220">
+    <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="400" height="220">
     <div class="card-body">
     <h3 class="card-title" align="left">The Hindu</h3>
       <p class="card-text" align='justify'>Wettest place on Earth sees decreasing trend in rainfall. </p>
@@ -99,7 +99,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201811/ozone-layer-shrinking_647-x404.jpg?B6H53U1jPoBqy2VEEq.n0wKPYdoXkT1E" >
+  <img class="card-img-top" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201811/ozone-layer-shrinking_647-x404.jpg?B6H53U1jPoBqy2VEEq.n0wKPYdoXkT1E"  width="400" height="220">
     <div class="card-body">
     
     <h3 class="card-title" align="left">India Today</h3>
@@ -110,6 +110,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   </div>
 </div>
 
+<!--
 <BR>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Projects</h1>
@@ -164,6 +165,10 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <BR>
 
+-->
+
+<!--For Altmetric badges
+
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Blog</h1>
 
 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
@@ -192,9 +197,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 </div>
 </div>
 
-
-
-<BR>
+-->
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Papers</h1>
 
@@ -278,6 +281,8 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 </li>
 
+<!--
+
 <li><p>J. Kuttippurath, F. Lefèvre, S. Raj, <strong>P. Kumar</strong> and K. Abbhishek: <em>The ozone hole measurements at the Indian station Maitri in Antarctica</em>, Polar Science, 2021 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1873965221000785?via%3Dihub">[link]</a>.</p>
 
 
@@ -299,7 +304,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <BR> <BR>
 </li>
-
+-->
 
 <li>
 <p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, 2020 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abcf78?fbclid=IwAR066jF_yX5CrEPCfxP_42rZVC6mb5co9xOU90rKc3vPcwbtK0Fj-lNSnmY">[link]</a>.</p>
