@@ -27,7 +27,7 @@
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Atmospheric Physics and Chemistry  <BR/>     
 	<strong>Institute:</strong> Indian Institute of Technology (IIT) Kharagpur, Kharagpur, India <BR/>	
-	<strong>Graduation Year: </strong>2022         
+	<strong>Graduation Year: </strong>2022 <em>(Thesis submitted)</em>      
       </p>
     </div>
   </div>

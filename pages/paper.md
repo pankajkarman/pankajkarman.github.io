@@ -234,7 +234,24 @@
 </li>
 
 <li>
-<p>S. Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, ournal of Water and Climate Change, 2022.</p>
+<p>S. Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, Journal of Water and Climate Change, 2022 <a href="https://doi.org/10.2166/wcc.2022.424">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.2166/wcc.2022.424' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div class="__dimensions_badge_embed__" data-doi="10.2166/wcc.2022.424" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
 </li>
 
 
