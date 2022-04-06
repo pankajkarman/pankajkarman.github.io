@@ -87,8 +87,27 @@
 
 <ul>
 
+
 <li>
-<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, accepted.</p>
+<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, 2022 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
+<!--
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1007/s00704-022-04031-6' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1007/s00704-022-04031-6" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+-->
 </li>
 
 <li>

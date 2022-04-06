@@ -285,11 +285,12 @@
 <ul>
 
 <li>
-<p>Divakaran Ardra, Jayanarayanan Kuttippurath, Raina Roy, <strong>Pankaj Kumar</strong>, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, ACS Earth and Space Chemistry, 2022 [<a href="https://doi.org/10.1021/acsearthspacechem.1c00333">link</a>].</p>
+<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, 2022 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
 </li>
 
-
-
+<li>
+<p>Divakaran Ardra, Jayanarayanan Kuttippurath, Raina Roy, <strong>Pankaj Kumar</strong>, Sarath Raj, Rolf Mueller, and Wuhu Feng: <em>The unprecedented ozone loss in the Arctic winter and spring of 2010/2011 and 2019/2020</em>, ACS Earth and Space Chemistry, 2022 [<a href="https://doi.org/10.1021/acsearthspacechem.1c00333">link</a>].</p>
+</li>
 
 <li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath and Adway Mitra: <em>Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm</em>, RSC Environmental Science: Processes & Impacts, 2022 [<a href="https://doi.org/10.1039/D1EM00383F">link</a>].</p></li>
 
