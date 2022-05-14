@@ -27,6 +27,7 @@
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Atmospheric Physics and Chemistry  <BR/>     
 	<strong>Institute:</strong> Indian Institute of Technology (IIT) Kharagpur, Kharagpur, India <BR/>	
+	<strong>Thesis:</strong> Investigation of atmospheric ozone evolution in Antarctica using Machine learning <BR/>
 	<strong>Graduation Year: </strong>2022 <em>(Thesis submitted)</em>      
       </p>
     </div>
@@ -36,8 +37,9 @@
     <div class="card-body">
     <h3 class="card-title" align="left">Master of Technology</h3>
       <p class="card-text" align='justify'> 
-      	<strong>Major:</strong> Earth System Science and Technology <BR/>     
+      	<strong>Major:</strong> Earth System Science & Technology <BR/>     
 	<strong>Institute:</strong> Indian Institute of Technology (IIT) Kharagpur, Kharagpur, India <BR/>	
+	<strong>Thesis:</strong> Accuracy of satellite total column ozone measurements in polar vortex conditions<BR/>
 	<strong>Graduation Year: </strong>2017        
       </p>
     </div>
@@ -48,7 +50,8 @@
     <h3 class="card-title" align="left">Bachelor of Engineering</h3>
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Mechanical Engineering <BR/>     
-	<strong>Institute:</strong> Birla Institute of Technology (BIT), Mesra, India <BR/>	
+	<strong>Institute:</strong> Birla Institute of Technology (BIT), Mesra, India <BR/>
+	<strong>Thesis:</strong> Optimization of Wind Turbine Blades using CFD <BR/>	
 	<strong>Graduation Year: </strong>2012       
       </p>
     </div>
@@ -194,7 +197,7 @@
       <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present</h3>
       <p class="card-text" align='justify'>
 <ul>
-<li>  Merged and bias-corrected long term data record of vertical profiles
+<li>  Merged and <strong>bias-corrected</strong> long term data record of vertical profiles
     of rainfall, ozone and related trace gases using various correction
     techniques like quantile mapping and scaled distribution mapping.</li><BR/>
 
@@ -202,28 +205,27 @@
     ozone hole saturation using ground-based and satellite based
     measurements in Antarctic region.</li><BR/>
 
-<li>   Developed Receptor models based on airmass trajectory generated with
-    HYSPLIT in python for source detection studies and clustered them
-    using Hierarchical agglomerative clustering (HAC) and wavelet transform
-    based K-Means clustering for transportation pathways analysis.</li><BR/>
+<li>   Developed <strong>Receptor models</strong> based on airmass trajectories generated with
+    <strong>HySPLIT</strong> in python for <strong>air pollution source detection</strong> studies and clustered them
+    using <strong>Hierarchical agglomerative clustering (HAC)</strong> and <strong>wavelet transform
+    based K-Means clustering</strong> for transportation pathways analysis.</li><BR/>
 
-<li>   Investigated Land Use Land Cover (LULC) change over North-East India
-    using Google Earth Engine and Random forest based classification.</li><BR/>
+<li>   Investigated <strong>Land Use Land Cover (LULC)</strong> change over North-East India
+    using <strong>Google Earth Engine</strong> and <strong>Random Forest</strong> based classification.</li><BR/>
 
-<li>   Performed Self-organising map (SOM) based clustering of tropospheric
+<li>   Performed <strong>Self-organising map (SOM)</strong> based clustering of tropospheric
     ozone profiles for Antarctic region and their long-term analysis
-    using Multivariate Linear Regression (MLR) and Bayesian Dynamic Linear Model (DLM).</li><BR/>
+    using <strong>Multivariate Linear Regression (MLR)</strong> and <strong>Bayesian Dynamic Linear Model (DLM)</strong>.</li><BR/>
 
-<li>  Conducted Causal Effect Network (CEN) analysis of tropospheric ozone
+<li>  Conducted <strong>Causal Effect Network (CEN)</strong> analysis of tropospheric ozone
     in Antarctica for determination of geophysical drivers responsible
     for observed variability.</li><BR/>
     
-<li>  Developed a causal inference framework using attention based temporal convolution network (TCIF) for performing causal effect estimation.</li><BR/>
+<li>  Developing a <strong>causal inference framework</strong> using <strong>attention based temporal convolution network (TCIF)</strong> for performing causal effect estimation.</li><BR/>
     
- <li>  Carried out radiative transfer modeling using RRTMG for radiative
-    forcing estimation.</li><BR/>
+ <li>  Carried out <strong>radiative transfer modeling</strong> using <strong>RRTMG</strong> for radiative forcing estimation.</li><BR/>
     
-<li>   Simulated and analysed global atmospheric chemistry using GEOS-Chem at Pratyush, India's fastest supercomputer.</li>
+<li>   <strong>Simulated</strong> and analysed <strong>global atmospheric chemistry</strong> using <strong>GEOS-Chem</strong> at Pratyush, India's fastest <strong>supercomputer</strong>.</li>
 </ul>
 </p>
     </div>
@@ -303,7 +305,7 @@
 <li><p>J. Kuttippurath, S. Murasingh, P. A. Stott, B. Balan Sarojini, M. K. Jha, <strong>P. Kumar</strong>, P. J. Nair, H. Varikoden, S. Raj, P. A. Francis, and P. C. Pandey : <em>Observed rainfall changes in the past century (1901–2019) over northeast India and the wettest place on the Earth</em>, Environmental Research Letters, 2020 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/abcf78?fbclid=IwAR066jF_yX5CrEPCfxP_42rZVC6mb5co9xOU90rKc3vPcwbtK0Fj-lNSnmY">[link]</a>.</p></li>
 
 <li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and P C Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p></li>
-<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979-2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>.</p></li>
+<li><p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979–2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>.</p></li>
 </ul>
 </p>
     </div>
@@ -326,7 +328,7 @@
 <ul>
 <li><p><strong>Pankaj Kumar</strong> and Jayanarayanan Kuttippurath: <em>Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica</em>, National Conference on Polar Sciences, Goa, August 2019 <a href="/ncps2019.pdf">[pdf]</a>.</p></li>
 <li><p>Jayanarayanan Kuttippurath and <strong>Pankaj Kumar</strong>: <em>Polar Ozone and Climate Change</em>, National Conference on Polar Sciences, Goa, August 2019.</p></li>
-<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: <em>Accuracy of Ground-based measurements in Polar Vortex conditions: Comparison to TOMS/OMI observations during 1979-2013</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf">[pdf]</a>.</p></li>
+<li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: <em>Accuracy of Ground-based measurements in Polar Vortex conditions: Comparison to TOMS/OMI observations during 1979–2013</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf">[pdf]</a>.</p></li>
 <li><p>Rohit Kumar Shukla, Chithra Shaji, Satya P Ojha, and <strong>Pankaj Kumar</strong>: <em>A study on the seasonal variability of upwelling and its effects on physical parameters in Arabian Sea</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf">[pdf]</a>.</p></li>
 </ul>
 </p>
@@ -343,7 +345,7 @@
     <center>  <img class="card-img-top" src="/images/cv/egu2017.png">   </center>   <br/>
     <p class="card-text" align='justify'>
 <ul>
-<li>Received full funding for attending European Geosciences Union (EGU) General Assembly held during <strong>23-28 April 2017</strong> in Vienna, Austria.</li>
+<li>Received <strong>full funding</strong> for attending <strong>European Geosciences Union (EGU) General Assembly</strong> held during <strong>23–28 April 2017</strong> in <strong>Vienna, Austria</strong>.</li>
 </ul>
 </p>
     </div>

@@ -134,12 +134,3 @@ biological irritant but also an atmospheric cleansing agent which rids the atmos
 
 <p></p>
 
-### Papers
-
--   **P. Kumar** et al.: *Long-term variation in sources of tropospheric ozone in Antarctica,* in preparation.
-
--   **P. Kumar ** et al.: *Mining trajectories using deep representational learning,* in preparation.
-
--   **P. Kumar**: *HyTraj: A python toolkit for trajectory analysis and receptor modeling,* in preparation.
--   <p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021<a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
-

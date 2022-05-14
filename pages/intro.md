@@ -54,7 +54,7 @@ display: flex;
   <div class="card">
     <div class="card-body ">
     <img src="/images/me.jpg" class="rounded-circle card-img-left" width="360" style="float: right; padding: 5px 15px 15px 25px;">
-    <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate Atmospheric scientist and a machine learning enthusiast; currently pursuing my PhD as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. My research interests include Bayesian statistics, causal network analysis, machine learning and Atmospheric Chemistry models. I study the interactions of chemistry and weather/climate using a suite of statistical, machine learning and physical models, and develop open source tools for modeling and analysis. My current research is supported by Graduate Fellowship from Ministry of Education (MoE), Government of India.</p>
+    <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast. I have recently submitted my PhD thesis titled "Investigation of atmospheric ozone evolution in Antarctica using Machine learning". During my PhD, I studied the interactions between chemistry and weather/climate using a suite of statistical, machine learning and chemical transport models as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. I have also developed open source tools for modeling and analysis. My research interests include machine learning, causal network analysis and atmospheric modeling. </p>
 
 <p class="card-text"style='font-size: large' align='left'>
 I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
@@ -110,7 +110,6 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   </div>
 </div>
 
-<!--
 <BR>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Projects</h1>
@@ -121,20 +120,8 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
     <img class="card-img-top" src="/images/hytraj.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title" align="left">HyTraj</h5>
-      <p class="card-text" align='justify'>A python package for trajectory modeling and analysis using <strong>HYSPLIT</strong>. It supports receptor modeling for air pollution sources analysis alongwith trajectory mining using various machine learning techniques.</p>
+      <p class="card-text" align='justify'>A python package for trajectory modeling and analysis using <strong>HySPLIT</strong>. It supports receptor modeling for pollution sources analysis alongwith trajectory mining using various machine learning techniques.</p>
        <a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">Go to Project</a>
-    </div>
-  </div>
-  </div>
-  
-<div class="col mb-4 row-eq-height">  
- <div class="card">
-    <img class="card-img-top" src="/images/causal1.png" alt="Card image cap">
-    <div class="card-body">
-         <p> <br/> <br/> </p>
-      <h5 class="card-title">Causal Network Analysis of Chemistry and Climate Interactions </h5>
-      <p class="card-text" align='justify'>In this project, I perform the causal network analysis of tropospheric ozone in Antarctic region to identify the geophysical drivers of variation in surface ozone concentration.</p>
-      <a href="https://github.com/pankajkarman/deep-learning/tree/master/causality" class="btn btn-primary">Go to Project</a>
     </div>
   </div>
   </div>
@@ -143,29 +130,19 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   <div class="card">
     <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
     <div class="card-body">
+       <br/>
       <h5 class="card-title">pyvortex</h5>
       <p class="card-text" align='justify'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
       <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
     </div> 
   </div>
 </div>
-  
-  
-<div class="col mb-4 row-eq-height">  
-  <div class="card">
-    <img class="card-img-top" src="/images/reprobus_ozone.gif" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Reprobus</h5>
-      <p class="card-text" align='justify'>Python library to process the output from REPROBUS (Reactive Processes Ruling the Ozone Budget in the Stratosphere) model, a prominent Chemistry Transport Model that describes stratospheric chemistry with 55 chemical species and more than 100 chemical reactions. Heterogeneous chemistry upon Polar Stratospheric Clouds and aerosol particles is parameterised within the model. Transport of the chemical species are assured by a semi-Lagrangian scheme.</p>
-      <a href="https://github.com/pankajkarman/reprobus" class="btn btn-primary">Go to Project</a>
-    </div>
-  </div>
-</div>
+
+
 </div>
 
 <BR>
 
--->
 
 <!--For Altmetric badges
 
@@ -210,6 +187,25 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <li>
 <p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, 2022 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
+
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1007/s00704-022-04031-6' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1007/s00704-022-04031-6" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
 </li>
 
 <li>
@@ -352,7 +348,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 </li>
 <li>
-<p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979--2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>. </p>
+<p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979–2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>. </p>
 
 <div class="container">
 <div class="row">
