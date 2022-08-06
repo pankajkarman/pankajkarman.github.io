@@ -16,16 +16,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Pankaj Kumar"  # (translatable)
-BLOG_TITLE = "Pankaj Kumar" # (translatable)
+BLOG_AUTHOR = "Oindrila Nath"  # (translatable)
+BLOG_TITLE = "Oindrila Nath" # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://pankajkarman.github.io/"
+SITE_URL = "https://oindrila31.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "pankaj.kmr1990@gmail.com"
-BLOG_DESCRIPTION = "This is Pankaj Kumar's personal website."  # (translatable)
+BLOG_EMAIL = "oindrila.nath27@gmail.com"
+BLOG_DESCRIPTION = "This is Oindrila Nath's personal website."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -140,12 +140,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
-        ("/intro/index.html", "About"),
         ("/cv/index.html", "CV"),
         ("/research/index.html", "Research"),
         ("/paper/index.html", "Papers"),
-        ("/projects/index.html", "Projects"),
-        ("/news/index.html", "News"),
         ("/archive.html", "Blog"),
         
     ),
@@ -1223,7 +1220,7 @@ CONTENT_FOOTER = '''
 </span>
 
 <span class="fa-stack fa-2x">
-  <a href="https://www.linkedin.com/in/pankajkmr1990/">
+  <a href="https://www.linkedin.com/in/dr-oindrila-nath-22187023/">
     <i class="fa fa-square fa-stack-2x"></i>
     <i class="fa fa-linkedin fa-inverse fa-stack-1x"></i>
   </a>
@@ -1236,12 +1233,12 @@ CONTENT_FOOTER = '''
 </span>
 </span>
 <span class="fa-stack fa-2x">
-  <a href="https://twitter.com/scientistno2">
+  <a href="https://twitter.com/NathOindrila">
     <i class="fa fa-twitter-square fa-stack-2x"></i>
   </a>
 </span>
 <span class="fa-stack fa-2x">
-  <a href="mailto:pankaj.kmr1990@gmail.com">
+  <a href="mailto:oindrila.nath27@gmail.com">
     <i class="fa fa-square fa-stack-2x"></i>
     <i class="fa fa-envelope fa-inverse fa-stack-1x"></i>
   </a>

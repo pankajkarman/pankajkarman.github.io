@@ -121,16 +121,3 @@ biological irritant but also an atmospheric cleansing agent which rids the atmos
 </div>
 
 <br/>
-
-<h1 style="background-color: #ADD8E6; color:#A52A2A">Trajectory Analysis and Receptor Modeling</h1>
-
-<p align='justify'>
-<a href="https://linkinghub.elsevier.com/retrieve/pii/S0169809511002948">Movement of airmass, both on the planetary and local scale, can have huge impact on the chemical composition of the atmosphere</a>. While the problem of fluid movement is generally viewed from the Eulerian perspective, <a href="https://www.atmos-chem-phys.net/15/7877/2015/">Lagrangian approach is generally more useful when analysing the air-parcel movement from one region to another</a>; in my case for the analysis of source regions. I am particularly interested in the analysis of sources of ozone in Antarctic region. Trajectory analysis has proved useful in a number of problems ranging from <a href="https://arc.aiaa.org/doi/abs/10.2514/1.G000537?journalCode=jgcd">aircraft path analysis</a> to <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JD006577">identification of the sources of pollution</a>. I am working on the <a href="https://www.mdpi.com/2220-9964/6/7/210">trajectories data mining using machine learning</a> and <a href="https://enveurope.springeropen.com/articles/10.1186/s12302-019-0233-x">receptor models</a> like Potential Source Contribution Function (PSCF), Concentration Weighted Trajectories (CWT), Residence Time Weighted Concentration (RTWC) etc.
-</p>
-
-<center>
-![Representational learning of Trajectories using seq2seq Autoencoder.](/images/est.png){width=70%} 
-</center>
-
-<p></p>
-
