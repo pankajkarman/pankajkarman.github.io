@@ -11,18 +11,129 @@
 -->
 
 <html>
-<body>
-<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-  <div class="card">
-    <div class="card-body ">
-    <img src="/images/me.jpg" class="rounded-circle card-img-left" width="320" style="float: right; padding: 5px 15px 15px 25px;">
-    <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast. I have recently submitted my PhD thesis titled "Investigation of atmospheric ozone evolution in Antarctica using Machine learning". During my PhD, I studied the interactions between chemistry and weather/climate using a suite of statistical, machine learning and chemical transport models as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. I have also developed open source tools for modeling and analysis. My research interests include machine learning, causal network analysis and atmospheric modeling. </p>
+   <head>
+	<meta charset='utf-8'>
+	<title> Earth threejs </title>
+	<style>	   
+	   body { margin: 0; background-color: black;}
+	   canvas { width: 100%; height: 100% }	
+	</style>
+   </head>
+   
+   <body>
+  	<script src="/js/three.min.js"></script>
+  	<script src="/js/orbit_controls.js"></script>
+  	<script>
+		var mapUrl = "/images/earth/earth_texture.jpg";
+		const fov = 28;
+		const width = window.innerWidth;
+		const height = window.innerHeight-150;
+		const nfield = 0.1;
+		const ffield = 100;
+		const mrad = 25;           
 
-<p class="card-text"style='font-size: large' align='left'>
-I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
-</div>
-</div>
-</div>
+		const loader = new THREE.TextureLoader();
+		var scene = new THREE.Scene();
+		var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
+		
+		var light = new THREE.AmbientLight( 0x888888 )
+		scene.add( light )
+
+		var light = new THREE.DirectionalLight( 0xfdfcf0, 1 )
+		light.position.set(10,10,10)
+		scene.add( light )
+	  		  		
+	    var geometry = new THREE.SphereGeometry(6, 50, 50);  
+	    var material = new THREE.MeshBasicMaterial({
+      		map: new loader.load(mapUrl),
+      		bumpMap : new loader.load("/images/earthbump1k.jpg"),
+      		bumpScale : 0.75,
+      		color: 0xaaaaaa, 
+      		specular: 0x333333,
+      		shininess: 25
+	      	});
+  		  	  				
+  		var earth = new THREE.Mesh(geometry, material);
+  		scene.add(earth);
+  		
+  		//Clouds
+		var cloudGeometry = new THREE.SphereGeometry(6.1,  50, 50);
+		var cloudMaterial = new THREE.MeshBasicMaterial({
+		  map: new loader.load("/images/earth/clouds.jpg"),
+		  transparent: true,
+		  opacity: 0.1
+		});
+		var clouds = new THREE.Mesh(cloudGeometry, cloudMaterial);
+		scene.add(clouds);
+		
+		//Starfield
+		var starGeometry = new THREE.SphereGeometry(100, 50, 50);
+		var starMaterial = new THREE.MeshPhongMaterial({
+		  map: new loader.load("/images/earth/galaxy_starfield.png"),
+		  side: THREE.DoubleSide,
+		  shininess: 0
+		});
+		var starField = new THREE.Mesh(starGeometry, starMaterial);
+		//scene.add(starField);
+		
+		//Moon 
+		var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
+		var moonMaterial = new THREE.MeshPhongMaterial({
+		  map: new loader.load("/images/earth/moon_texture.jpg"),
+		  color: 0xaaaaaa, 
+		});
+		var moon = new THREE.Mesh(moonGeometry, moonMaterial);
+		moon.position.set(mrad,0,0);
+		//scene.add(moon);
+  		
+  		camera.position.z = 25;
+  		earth.rotation.x = 0.4;
+  		
+  		var renderer = new THREE.WebGLRenderer({ antialias: true }); 		
+  		renderer.setSize(width, height);
+  		document.body.appendChild(renderer.domElement);
+  		var orbit = new THREE.OrbitControls( camera, renderer.domElement )
+  		
+  	        var r = mrad;
+	        var theta = 0;
+	        var dTheta = 2 * Math.PI / 1000;
+	        
+	        //Set position increments
+		var dx = .01;
+		var dy = -.01;
+		var dz = -.05;
+
+
+	        var earthVec = new THREE.Vector3(0,0,0);
+  		
+  		function render() {
+	  		requestAnimationFrame( render );
+	  		
+	  		//earth.rotation.x += 0.1;
+	  		earth.rotation.y += 0.005;
+	  		clouds.rotation.y += .0055;
+	  		
+	  		theta += dTheta;
+			moon.position.x = r * Math.cos(theta);
+			moon.position.z = r * Math.sin(theta);
+			
+			//Update the camera position
+		    //camera.position.x += dx;
+		    //camera.position.y += dy;
+		    //camera.position.z += dz;
+
+		  	//Flyby reset
+		 	//if (camera.position.z < 0) {
+		       	//camera.position.set(45,mrad,70);
+		  	//}
+			
+			camera.lookAt(earthVec);
+	  		
+	  		renderer.render( scene, camera );
+  		};	 
+  		
+  		render();
+  	</script>
   	
-</body>
+   </body>
 </html>

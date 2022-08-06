@@ -1,5 +1,5 @@
 <!--
-.. title: CV
+.. title: cv
 .. slug: cv
 .. date: 2020-05-04 20:18:58 UTC
 .. tags: 
@@ -25,41 +25,34 @@
     <div class="card-body">
     <h3 class="card-title" align="left">Doctor of Philosophy</h3>
       <p class="card-text" align='justify'> 
-<<<<<<< HEAD
       	<strong>Major:</strong> Atmospheric Physics and Chemistry  <BR/>     
 	<strong>Institute:</strong> Indian Institute of Technology (IIT) Kharagpur, Kharagpur, India <BR/>	
 	<strong>Thesis:</strong> Investigation of Atmospheric Ozone Evolution in Antarctica using Measurements and Statistical Learning <BR/>
 	<strong>Graduation Year: </strong>2022   
-=======
-      	<strong>Major:</strong> Meteorology and Oceanography  <BR/>     
-	<strong>Institute:</strong> National Atmospheric Research Laboratory, ISRO, Department of Space, Govt. of India, India <BR/>	
-	<strong>Thesis:</strong> Investigation of atmospheric ozone evolution in Antarctica using ML/AI <BR/>
-	<strong>Graduation Year: </strong>2022       
->>>>>>> 7974e1f53a797eda2514e54149e67ef95963e104
       </p>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="/images/cv/omi.png" width="250" height="250">
     <div class="card-body">
-    <h3 class="card-title" align="left">Master of Science</h3>
+    <h3 class="card-title" align="left">Master of Technology</h3>
       <p class="card-text" align='justify'> 
-      	<strong>Major:</strong> Atmospheric Science <BR/>     
-	<strong>Institute:</strong>  Calcutta University, West Bengal, India <BR/>	
+      	<strong>Major:</strong> Earth System Science & Technology <BR/>     
+	<strong>Institute:</strong> Indian Institute of Technology (IIT) Kharagpur, Kharagpur, India <BR/>	
 	<strong>Thesis:</strong> Accuracy of satellite total column ozone measurements in polar vortex conditions<BR/>
-	<strong>Graduation Year: </strong>2012        
+	<strong>Graduation Year: </strong>2017        
       </p>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="/images/cv/wind_turbine.jpg" width="250" height="250">
     <div class="card-body">
-    <h3 class="card-title" align="left">Bachelor of Science</h3>
+    <h3 class="card-title" align="left">Bachelor of Engineering</h3>
       <p class="card-text" align='justify'> 
-      	<strong>Major:</strong> Chemistry <BR/>     
-	<strong>Institute:</strong> Calcutta University, West Bengal, India <BR/>
+      	<strong>Major:</strong> Mechanical Engineering <BR/>     
+	<strong>Institute:</strong> Birla Institute of Technology (BIT), Mesra, India <BR/>
 	<strong>Thesis:</strong> Optimization of Wind Turbine Blades using CFD <BR/>	
-	<strong>Graduation Year: </strong>2010      
+	<strong>Graduation Year: </strong>2012       
       </p>
     </div>
   </div>
@@ -77,6 +70,7 @@
       <p class="card-text" align='justify'>      
 
 <ul>
+    <li>Bayesian Analysis and Parameter Estimation (MLE, MAP, MCMC)</li>
     
     <li>Time-series Modeling and Analysis (state space models, MLR, DLM)</li>
     
@@ -86,6 +80,7 @@
     
     <li>Causal Network Analysis</li>
     
+    <li>Natural Language Processing</li>
 </ul>
 </p>
     </div>
@@ -104,6 +99,7 @@
 
     <li>Fortran </li>
 
+    <li>JavaScript</li>
 </ul>
 </p>
 
@@ -134,7 +130,11 @@
 
     <li><strong>Visualization</strong>: Matplotlib, Seaborn, Arviz, Basemap, Cartopy, Folium </li>
 
+    <li><strong>RADAR Analysis</strong>: wradlib</li>
+
     <li><strong>Geospatial Data Analysis</strong>: gdal, rasterio, xarray, geopandas, Google Earth Engine</li>
+
+    <li><strong>Parallel Programming</strong>: dask, joblib</li>
 
 </ul>
 </p>

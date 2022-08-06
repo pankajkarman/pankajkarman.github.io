@@ -57,7 +57,7 @@ display: flex;
     <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast. I have recently defended my PhD thesis titled "Investigation of Atmospheric Ozone Evolution in Antarctica using Measurements and Statistical Learning". During my PhD, I studied the interactions between chemistry and weather/climate using a suite of statistical, machine learning and chemical transport models as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="https://www.atmoslabiitkgp.com/spr" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. I have also developed open source tools for modeling and analysis. My research interests include machine learning, causal network analysis and atmospheric modeling. </p>
 
 <p class="card-text"style='font-size: large' align='left'>
-I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
+I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
 
 <p class="card-text"style='font-size: large' align='left'> Here is my resume <a href="https://raw.githubusercontent.com/pankajkarman/resume/master/resume.pdf" style="text-decoration: underline;">[pdf]</a>.</p>
 
@@ -67,7 +67,6 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <br/>
 
-<<<<<<< HEAD
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>News Highlights</h1>
 
 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3">
@@ -397,5 +396,3 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <br/>
 
-=======
->>>>>>> 7974e1f53a797eda2514e54149e67ef95963e104
