@@ -54,7 +54,7 @@ display: flex;
   <div class="card">
     <div class="card-body ">
     <img src="/images/me.jpg" class="rounded-circle card-img-left" width="360" style="float: right; padding: 5px 15px 15px 25px;">
-    <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast. I have recently submitted my PhD thesis titled "Investigation of atmospheric ozone evolution in Antarctica using Machine learning". During my PhD, I studied the interactions between chemistry and weather/climate using a suite of statistical, machine learning and chemical transport models as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. I have also developed open source tools for modeling and analysis. My research interests include machine learning, causal network analysis and atmospheric modeling. </p>
+    <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a passionate atmospheric scientist and a machine learning enthusiast. I have recently defended my PhD thesis titled "Investigation of Atmospheric Ozone Evolution in Antarctica using Measurements and Statistical Learning". During my PhD, I studied the interactions between chemistry and weather/climate using a suite of statistical, machine learning and chemical transport models as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="https://www.atmoslabiitkgp.com/spr" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. I have also developed open source tools for modeling and analysis. My research interests include machine learning, causal network analysis and atmospheric modeling. </p>
 
 <p class="card-text"style='font-size: large' align='left'>
 I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. Before moving to the field of Atmospheric Physics and Chemistry, I had a brief stint at a reputed metal fabrication and processing company in India. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
@@ -84,7 +84,7 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-    <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="400" height="220">
+    <img class="card-img-top" src="/images/hindu.png" width="400" height="220">
     <div class="card-body">
     <h3 class="card-title" align="left">The Hindu</h3>
       <p class="card-text" align='justify'>Wettest place on Earth sees decreasing trend in rainfall. </p>
@@ -112,32 +112,54 @@ I completed my Master of Technology (MTech) degree in Earth System Science and T
 
 <BR>
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Projects</h1>
+<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Open Source Projects</h1>
 
-<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3">
+<div class="col mb-4 row-eq-height">  
+  <div class="card">
+    
+    <div class="card-body">
+      <h3 class="card-title">bias-correction</h3>
+      <p class="card-text" align='left'>A python library to perform bias correction of datasets in order to remove cross-dataset biases. It supports various popular parametric and non-parametric approaches.</p>
+    
+    <span>
+    <a href="https://github.com/pankajkarman/bias_correction" class="btn btn-primary">Go to Project</a>
+    <a href="https://pepy.tech/project/bias-correction" class="btn btn-primary" style="margin-left: 1em"><img src="https://pepy.tech/badge/bias-correction" height="20"></a>
+    </span> 
+    </div> 
+  </div>
+</div>
+
 <div class="col mb-4 row-eq-height">
   <div class="card">
-    <img class="card-img-top" src="/images/hytraj.png" alt="Card image cap">
+    
     <div class="card-body">
-      <h5 class="card-title" align="left">HyTraj</h5>
+      <h3 class="card-title" align="left">HyTraj</h3>
       <p class="card-text" align='justify'>A python package for trajectory modeling and analysis using <strong>HySPLIT</strong>. It supports receptor modeling for pollution sources analysis alongwith trajectory mining using various machine learning techniques.</p>
-       <a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">Go to Project</a>
+      
+    <span>
+    <a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">Go to Project</a>
+    <a href="https://pepy.tech/project/hytraj" class="btn btn-primary" style="margin-left: 1em"><img src="https://static.pepy.tech/badge/hytraj" height="20"></a>
+    </span>
+       
     </div>
   </div>
   </div>
   
 <div class="col mb-4 row-eq-height">  
   <div class="card">
-    <img class="card-img-top" src="/images/vortex.gif" alt="Card image cap">
+    
     <div class="card-body">
-       <br/>
-      <h5 class="card-title">pyvortex</h5>
-      <p class="card-text" align='justify'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
-      <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
+      <h3 class="card-title">pyvortex</h3>
+      <p class="card-text" align='left'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
+      
+    <span>
+    <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
+    <a href="https://pepy.tech/project/pyvortex" class="btn btn-primary" style="margin-left: 1em"><img src="https://pepy.tech/badge/pyvortex" height="20"></a>
+    </span>        
     </div> 
   </div>
 </div>
-
 
 </div>
 

@@ -114,7 +114,7 @@ display: flex;
 
   <div class="col mb-4 row-eq-height">
   <div class="card">
-    <img class="card-img-top" src="https://bestmediainfo.com/wp-content/uploads/2018/12/THE-HINDU-Logo_4.jpg" width="410" height="175">
+    <img class="card-img-top" src="/images/hindu.jpg" width="410" height="175">
     <div class="card-body">
     <h3 class="card-title" align="left">The Hindu</h3>
       <p class="card-text" align='justify'>Wettest place on Earth sees decreasing trend in rainfall. </p>

@@ -27,8 +27,8 @@
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Atmospheric Physics and Chemistry  <BR/>     
 	<strong>Institute:</strong> Indian Institute of Technology (IIT) Kharagpur, Kharagpur, India <BR/>	
-	<strong>Thesis:</strong> Investigation of atmospheric ozone evolution in Antarctica using Machine learning <BR/>
-	<strong>Graduation Year: </strong>2022 <em>(Thesis submitted)</em>      
+	<strong>Thesis:</strong> Investigation of Atmospheric Ozone Evolution in Antarctica using Measurements and Statistical Learning <BR/>
+	<strong>Graduation Year: </strong>2022   
       </p>
     </div>
   </div>
@@ -153,7 +153,7 @@
       <h3 class="card-title" align="left">Physical Modeling</h3>   
 <p> 
 <ul>
-    <li><strong>Trajectory Modeling</strong>: HYSPLIT</li>
+    <li><strong>Trajectory Modeling</strong>: HySPLIT</li>
     <li><strong>Atmospheric modeling</strong>: WRF, GEOS-Chem, climlab</li>
     <li><strong>Radiative Transfer Modeling</strong>: RRTMG</li>
     
@@ -169,11 +169,11 @@
       <h2 class="card-title" align="left">Other Computer related skills</h2>
       <p class="card-text" align='justify'>
 <ul>
-    <li>Version control with git.</li>
+    <li>Version control with git</li>
     
-    <li>Shell scripting in Linux.</li>
+    <li>Shell scripting in Linux</li>
 
-    <li>Conversant with Markdown, HTML/CSS and LaTeX.</li>
+    <li>Conversant with Markdown, HTML/CSS and LaTeX</li>
 
     <li>Experience of working on supercomputer</li>
     
