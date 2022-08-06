@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pankaj Kumar (Posts about markdown)</title><link>https://pankajkarman.github.io/</link><description></description><atom:link href="https://pankajkarman.github.io/categories/markdown.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:pankaj.kmr1990@gmail.com"&gt;Pankaj Kumar&lt;/a&gt; </copyright><lastBuildDate>Wed, 18 Nov 2020 19:56:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Technical writing using Markdown</title><link>https://pankajkarman.github.io/blog/markdown/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oindrila Nath (Posts about markdown)</title><link>https://oindrila31.github.io/</link><description></description><atom:link href="https://oindrila31.github.io/categories/markdown.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:oindrila.nath27@gmail.com"&gt;Oindrila Nath&lt;/a&gt; </copyright><lastBuildDate>Sat, 06 Aug 2022 03:48:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Technical writing using Markdown</title><link>https://oindrila31.github.io/blog/markdown/</link><dc:creator>Oindrila Nath</dc:creator><description>&lt;div&gt;&lt;style&gt;
 p a{
   text-decoration: underline;
 }
@@ -35,7 +35,7 @@ nav a{
 &lt;p&gt;The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The figure below compares formatting elements and their implementations in different markup languages (&lt;a href="https://peerj.com/articles/cs-112/"&gt;image source&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Markdown Comparison" src="https://pankajkarman.github.io/images/mdcompare.png" width="96%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Markdown Comparison" src="https://oindrila31.github.io/images/mdcompare.png" width="96%"&gt;&lt;/p&gt;
 &lt;p&gt;In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by &lt;code&gt;.md&lt;/code&gt; file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Apart from that, the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.&lt;/p&gt;
 &lt;h3&gt;A brief introduction to markdown syntax&lt;/h3&gt;
 &lt;p&gt;Special symbols are used for formatting texts.&lt;/p&gt;
@@ -118,14 +118,14 @@ nav a{
 &lt;h4&gt;Markdown Editors&lt;/h4&gt;
 &lt;p&gt;While any plain text editor can work with markdown, there are some editors dedicated for markdown providing key bindings for common operations like making text bold, italic etc. Some of the open-source editors are:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://pankajkarman.github.io/blog/markdown/remarkableapp.github.io"&gt;Remarkable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://oindrila31.github.io/blog/markdown/remarkableapp.github.io"&gt;Remarkable&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/retext-project/retext"&gt;ReText&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://atom.io/"&gt;Atom&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Writing reports/papers&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://github.com/pankajkarman/paper-template"&gt;Link for markdown paper-template.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Markdown relies on &lt;a href="https://pandoc.org"&gt;&lt;em&gt;pandoc&lt;/em&gt;&lt;/a&gt; for all conversion tasks. Please follow the steps mentioned in the above link for installation of all dependencies. Installation steps may differ depending on the operating system. Instruction mentioned in the link are pretty generic and can be easily followed on any operating system.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Markdown Comparison" src="https://pankajkarman.github.io/images/mdflow.png" width="75%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Markdown Comparison" src="https://oindrila31.github.io/images/mdflow.png" width="75%"&gt;&lt;/p&gt;
 &lt;p&gt;The above figure shows the workfow for the generation of multiple document formats with Pandoc (&lt;a href="https://peerj.com/articles/cs-112/"&gt;image source&lt;/a&gt;). The markdown (MD) file contains the manuscript text with formatting tags, and include references to external files such as images or reference databases. The Pandoc processor converts the MD file to the desired output formats. Documents, citations etc. can be defined in style files or templates. &lt;/p&gt;
 &lt;p&gt;Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc, a swiss army knife for document conversion, using examples for typical document elements, such as tables, figures, formulas, code blocks and references. For more detailed discussion, please refer to the &lt;a href="http://pandoc.org/MANUAL.html"&gt;pandoc manual&lt;/a&gt;.&lt;/p&gt;
 &lt;h4&gt;Tables&lt;/h4&gt;
@@ -187,7 +187,7 @@ nav a{
 
 &lt;p&gt;Here, figure1 is an identifier for the figure defined with # along with image dimension in braces. &lt;/p&gt;
 &lt;p&gt;The above text would be rendered as&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Caption" id="figure1" src="https://pankajkarman.github.io/images/pk.jpg" width="55%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Caption" id="figure1" src="https://oindrila31.github.io/images/pk.jpg" width="55%"&gt;&lt;/p&gt;
 &lt;h4&gt;Equations&lt;/h4&gt;
 &lt;p&gt;Equations are written in LaTeX mode using the delimiters $.&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;specify&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;inline&lt;/span&gt; &lt;span class="n"&gt;quation&lt;/span&gt; &lt;span class="k"&gt;like&lt;/span&gt; &lt;span class="n"&gt;LaTeX&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;z&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;
@@ -309,4 +309,4 @@ def say_hello():
 &lt;li&gt;&lt;a href="https://github.com/robert-winkler/scientific-articles-markdown"&gt;Writing scientific articles using markdown&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/pandoc/lua-filters"&gt;Collection of lua-filters for pandoc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.atlassian.com/git/tutorials/what-is-git"&gt;Learn Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>markdown</category><category>pandoc</category><guid>https://pankajkarman.github.io/blog/markdown/</guid><pubDate>Fri, 08 May 2020 01:16:34 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><category>markdown</category><category>pandoc</category><guid>https://oindrila31.github.io/blog/markdown/</guid><pubDate>Fri, 08 May 2020 01:16:34 GMT</pubDate></item></channel></rss>

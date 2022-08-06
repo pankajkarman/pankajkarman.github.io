@@ -1,4 +1,4 @@
-Sitemap: https://pankajkarman.github.io/sitemapindex.xml
+Sitemap: https://oindrila31.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: pankajkarman.github.io
+Host: oindrila31.github.io
