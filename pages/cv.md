@@ -328,9 +328,22 @@
 <ul>
 <li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers</em>, 6th LOTUS Workshop (Long-term Ozone Trends and Uncertainties in the Stratosphere), Helsinki, Finland, June 2022.</p></li>
 
+
+<li><p>R. Roy, J. Kuttippurath, D. Ardra, <strong>P. Kumar</strong> and S. Raj: Polar processing and Chemical ozone loss in the Exceptional Arctic winters of 2011 and 2020, 7th National Conference of the Ocean Society of India (OSICON-21), August 2021.</p></li>
+
+
+<li><p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj and <strong>P. Kumar</strong>: The Sudden Stratospheric Warming and polar processing of the Antarctic winter 2019: Comparison with the winters of 1988 and 2002, Quadrennial Ozone Symposium (QOS), October 2021.</p></li>
+
+
 <li><p><strong>Pankaj Kumar</strong> and Jayanarayanan Kuttippurath: <em>Tropical teleconnection and climate impacts of tropospheric ozone variability in Antarctica</em>, National Conference on Polar Sciences, Goa, August 2019 <a href="/ncps2019.pdf">[pdf]</a>.</p></li>
+
+
 <li><p>Jayanarayanan Kuttippurath and <strong>Pankaj Kumar</strong>: <em>Polar Ozone and Climate Change</em>, National Conference on Polar Sciences, Goa, August 2019.</p></li>
+
+
 <li><p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Prijitha J. Nair, and Arun Chakroborty: <em>Accuracy of Ground-based measurements in Polar Vortex conditions: Comparison to TOMS/OMI observations during 1979–2013</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-10311-1.pdf">[pdf]</a>.</p></li>
+
+
 <li><p>Rohit Kumar Shukla, Chithra Shaji, Satya P Ojha, and <strong>Pankaj Kumar</strong>: <em>A study on the seasonal variability of upwelling and its effects on physical parameters in Arabian Sea</em>, EGU General Assembly, Vienna, April 2017 <a href="https://meetingorganizer.copernicus.org/EGU2017/EGU2017-19355-4.pdf">[pdf]</a>.</p></li>
 </ul>
 </p>
