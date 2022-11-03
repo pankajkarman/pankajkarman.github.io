@@ -64,7 +64,7 @@
 <ul>
 
 <li>
-<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Atmospheric pollution in the Arctic: sources, variability and long-term trends,</em> submitted.</p>
+<p>R. Kashyap, J. Kuttippurath, and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions during the last two decades driven by climate change and anthropogenic intrusions in India,</em> submitted.</p>
 </li>
 
 
