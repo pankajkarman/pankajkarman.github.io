@@ -64,9 +64,16 @@
 <ul>
 
 <li>
-<p>R. Kashyap, J. Kuttippurath, and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions during the last two decades driven by climate change and anthropogenic intrusions in India,</em> submitted.</p>
+<p>R. Kashyap, J. Kuttippurath, and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions during the last two decades driven by climate change and anthropogenic intrusions in India, </em> Journal of Environmental Management, under review.</p>
 </li>
 
+<li>
+<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Sources, variability, long–term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Science of the Total Environment , under review.</p>
+</li>
+
+<li>
+<p>Rahul Kumar, Jayanarayanan Kuttippurath, <strong> Pankaj Kumar </strong>, and G. S. Gopikrishnan: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> submitted.</p>
+</li>
 
 </ul>
 

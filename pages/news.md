@@ -151,7 +151,7 @@ display: flex;
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="https://www.noticebard.com/wp-content/uploads/2017/05/scroll_logo_square_fb.png" width="310" height="145">
+  <img class="card-img-top" src="https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16547-1592_import.png" width="310" height="145">
     <div class="card-body">
     <h3 class="card-title" align="left">Scroll.in</h3>
       <p class="card-text" align='justify'>The world’s wettest place in North East India is witnessing a decline in rainfall</p>
