@@ -40,10 +40,6 @@
 <li>
 <p><strong>P. Kumar </strong> et al.: <em>Mining trajectories using deep representational learning,</em> in preparation.</p>
 </li>
-
-<li>
-<p>R. Roy, <strong>P. Kumar</strong>, J. Kuttippurath, and F. Lefèvre: <em>The chemical ozone loss in the Antarctic winters 2013–2020,</em> in preparation.</p>
-</li>
 </ul>
 
  </p> 
@@ -64,15 +60,11 @@
 <ul>
 
 <li>
-<p>R. Kashyap, J. Kuttippurath, and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions during the last two decades driven by climate change and anthropogenic intrusions in India, </em> Journal of Environmental Management, under review.</p>
+<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Sources, variability, long–term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Science of the Total Environment, under review.</p>
 </li>
 
 <li>
-<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Sources, variability, long–term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Science of the Total Environment , under review.</p>
-</li>
-
-<li>
-<p>Rahul Kumar, Jayanarayanan Kuttippurath, <strong> Pankaj Kumar </strong>, and G. S. Gopikrishnan: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> submitted.</p>
+<p>Rahul Kumar, Jayanarayanan Kuttippurath, <strong> Pankaj Kumar</strong>, and G. S. Gopikrishnan: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> submitted.</p>
 </li>
 
 </ul>
@@ -93,6 +85,10 @@
       <p class="card-text" align='left'>
 
 <ul>
+
+<li>
+<p>R. Kashyap, J. Kuttippurath, and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions of India during the past two decades is driven by climate change and anthropogenic intrusions, </em> Journal of Environmental Management, accepted.</p>
+</li>
 
 
 <li>
@@ -139,6 +135,28 @@
 
 </li>
 
+<li>
+<p>S. Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, Journal of Water and Climate Change, 2022 <a href="https://doi.org/10.2166/wcc.2022.424">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.2166/wcc.2022.424' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div class="__dimensions_badge_embed__" data-doi="10.2166/wcc.2022.424" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+</li>
+
+
 
 <li>
 
@@ -161,6 +179,31 @@
 
 <BR> <BR>
 
+
+</li>
+
+<li>
+<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acs.est.0c08491' data-badge-popover="right"></div>
+<p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+
+ <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
+
+</div>
+
+</div>
+</div>
+
+<BR> <BR>
 
 </li>
 
@@ -188,31 +231,6 @@
 
 </li>
 
-
-<li>
-<p><strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, Peter von der Gathen, Irina Petropavlovskikh, Bryan Johnson, Audra McClure-Begley, Paolo Cristofanelli, Paolo Bonasoni, Maria Elena Barlasina, and Ricardo Sánchez: <em>The increasing surface and tropospheric ozone in Antarctica and their possible drivers,</em> Environmental Science &amp; Technology, 2021 <a href="https://doi.org/10.1021/acs.est.0c08491">[link]</a>.</p>
-
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-<div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1021/acs.est.0c08491' data-badge-popover="right"></div>
-<p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-
- <div class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.0c08491" data-legend="hover-right"></div>
-
-</div>
-
-</div>
-</div>
-
-<BR> <BR>
-
-</li>
 
 <li><p>J. Kuttippurath, F. Lefèvre, S. Raj, <strong>P. Kumar</strong>, and K. Abbhishek: <em>The ozone hole measurements at the Indian station Maitri in Antarctica</em>, Polar Science, 2021 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1873965221000785?via%3Dihub">[link]</a>.</p>
 
@@ -257,28 +275,6 @@
 <BR> <BR>
 
 </li>
-
-<li>
-<p>S. Murasingh, J. Kuttippurath, S. Sandeep Dash, R. Ramesan, S. Raj, Madan K. Jha, and <strong>P. Kumar</strong>: <em>Long-term trends and projections of hydrological fluxes under RCP climate change scenarios for a mountainous river basin of Northeast India</em>, Journal of Water and Climate Change, 2022 <a href="https://doi.org/10.2166/wcc.2022.424">[link]</a>.</p>
-
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.2166/wcc.2022.424' data-badge-popover="right"></div>
-  <p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div class="__dimensions_badge_embed__" data-doi="10.2166/wcc.2022.424" data-legend="hover-right"></div>
-</div>
-</div>
-</div>
-
-<BR> <BR>
-</li>
-
 
 <li>
 <p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair,  and P. C. Pandey: <em>Emergence of ozone recovery evidenced by reduction in the occurrence of Antarctic ozone loss saturation</em>, npj Climate and Atmospheric Science, 2018 <a href="https://www.nature.com/articles/s41612-018-0052-6">[link]</a>.</p>
