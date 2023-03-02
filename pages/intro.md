@@ -53,7 +53,7 @@ display: flex;
 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
   <div class="card">
     <div class="card-body ">
-    <img src="/images/me.jpg" class="rounded-circle card-img-left" width="360" style="float: right; padding: 5px 15px 15px 25px;">
+    <img src="/images/me2.jpg" class="rounded-circle card-img-left" width="360" style="float: right; padding: 5px 15px 15px 25px;">
     <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a post-doctoral researcher at <a href='https://www.imk-tro.kit.edu/english/3487.php' style="text-decoration: underline">Karlsruhe Institute of Technology (KIT) Germany</a>, where I am advised by <a href='https://www.imk-tro.kit.edu/english/3521_7223.php' style="text-decoration: underline">Dr. Gholamali Hoshyaripour</a>. I am a passionate atmospheric scientist and a machine learning enthusiast. My research interests include Machine Learning, Causal Discovery and Atmospheric Modeling. I develop open source tools for atmospheric modeling and analysis.</p>
     
     
