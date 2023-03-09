@@ -213,25 +213,26 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
 <ul>
 
 <li>
-<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, 2022 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
+<p>R. Kashyap, J. Kuttippurath and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions of India during the past two decades is driven by climate change and anthropogenic intrusions, </em> Journal of Environmental Management, 2023 [<a href="https://doi.org/10.1016/j.jenvman.2023.117655">link</a>].</p>
 
-
+<!--
 <div class="container">
 <div class="row">
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1007/s00704-022-04031-6' data-badge-popover="right"></div>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1016/j.jenvman.2023.117655' data-badge-popover="right"></div>
   <p></p>
 </div>
 
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-<div class="__dimensions_badge_embed__" data-doi="10.1007/s00704-022-04031-6" data-legend="hover-right"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1016/j.jenvman.2023.117655" data-legend="hover-right"></div>
 </div>
 </div>
 </div>
 
 <BR> <BR>
+-->
 
 </li>
 
@@ -255,6 +256,29 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
 
 <BR> <BR>
 
+
+</li>
+
+<li>
+<p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, 2022 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
+
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1007/s00704-022-04031-6' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1007/s00704-022-04031-6" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
 
 </li>
 
@@ -372,25 +396,6 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
 </div>
 
 <BR> <BR>
-
-</li>
-<li>
-<p>J. Kuttippurath, <strong>P. Kumar</strong>, P. J. Nair, and A. Chakraborty: <em>Accuracy of satellite total column ozone measurements in polar vortex conditions: Comparison with ground-based observations in 1979–2013</em>, Remote Sensing of Environment, 2018 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425718300671">[link]</a>. </p>
-
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1016/j.rse.2018.02.054' data-badge-popover="right"></div>
-  <p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2018.02.054" data-legend="hover-right"></div>
-</div>
-</div>
-</div>
 
 </li>
 </ul>

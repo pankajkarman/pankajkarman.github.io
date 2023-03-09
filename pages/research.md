@@ -31,6 +31,34 @@
 <!--For Dimensions badges-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+<h1 style="background-color: #ADD8E6; color:#A52A2A">Online calculation of aerosol optics in atmospheric models with ML</h1>
+
+<div class="card-deck">
+  <div class="card">
+  <img class="card-img-top" src="/images/mie.png">
+    <div class="card-body">
+      <p class="card-text" align='justify'>
+      
+      Aerosols affect weather and climate by absorbing and scattering radiation. Such effects strongly depend on the optical properties of aerosols that are mainly controlled by their other characteristics like size distribution, morphology and chemical composition. Chemistry and aerosol microphysics constantly modify these characteristics causing a large spatial and temporal variability. Most atmospheric models cannot account for this variability as they rely on look-up table to treat aerosol optics. This simplification can lead to large errors in weather and climate models when it comes to aerosol radiative impacts. 
+
+</p> 
+
+<p align='justify'>
+I am devising a novel and computationally inexpensive machine learning approach for online representation of the aerosol optical properties. These properties are fully coupled with the chemical and microphysical variability of particles. I am implementing this approach in <a href="https://www.imk-tro.kit.edu/english/5925.php" style="text-decoration: underline">ICON-ART model</a>.
+</p>
+
+<span>
+<a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-13559.html" class="btn btn-primary">EGU2023 Abstract</a>
+</span>
+
+</div>
+</div>
+</div>
+
+</div>
+
+<BR>
+
 <h1 style="background-color: #ADD8E6; color:#A52A2A">Investigation of stratospheric ozone loss in polar regions</h1>
 
 <p align='justify'>
@@ -124,13 +152,23 @@ biological irritant but also an atmospheric cleansing agent which rids the atmos
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A">Trajectory Analysis and Receptor Modeling</h1>
 
-<p align='justify'>
-<a href="https://linkinghub.elsevier.com/retrieve/pii/S0169809511002948">Movement of airmass, both on the planetary and local scale, can have huge impact on the chemical composition of the atmosphere</a>. While the problem of fluid movement is generally viewed from the Eulerian perspective, <a href="https://www.atmos-chem-phys.net/15/7877/2015/">Lagrangian approach is generally more useful when analysing the air-parcel movement from one region to another</a>; in my case for the analysis of source regions. I am particularly interested in the analysis of sources of ozone in Antarctic region. Trajectory analysis has proved useful in a number of problems ranging from <a href="https://arc.aiaa.org/doi/abs/10.2514/1.G000537?journalCode=jgcd">aircraft path analysis</a> to <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JD006577">identification of the sources of pollution</a>. I am working on the <a href="https://www.mdpi.com/2220-9964/6/7/210">trajectories data mining using machine learning</a> and <a href="https://enveurope.springeropen.com/articles/10.1186/s12302-019-0233-x">receptor models</a> like Potential Source Contribution Function (PSCF), Concentration Weighted Trajectories (CWT), Residence Time Weighted Concentration (RTWC) etc.
+<div class="card-deck">
+  <div class="card">
+  <img class="card-img-top" src="/images/est.png">
+    <div class="card-body">
+      <p class="card-text" align='justify'>
+      <a href="https://linkinghub.elsevier.com/retrieve/pii/S0169809511002948">Movement of airmass, both on the planetary and local scale, can have huge impact on the chemical composition of the atmosphere</a>. While the problem of fluid movement is generally viewed from the Eulerian perspective, <a href="https://www.atmos-chem-phys.net/15/7877/2015/">Lagrangian approach is generally more useful when analysing the air-parcel movement from one region to another</a>; in my case for the analysis of source regions. I am particularly interested in the analysis of sources of ozone in Antarctic region. Trajectory analysis has proved useful in a number of problems ranging from <a href="https://arc.aiaa.org/doi/abs/10.2514/1.G000537?journalCode=jgcd">aircraft path analysis</a> to <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005JD006577">identification of the sources of pollution</a>. I am working on the <a href="https://www.mdpi.com/2220-9964/6/7/210">trajectories data mining using machine learning</a> and <a href="https://enveurope.springeropen.com/articles/10.1186/s12302-019-0233-x">receptor models</a> like Potential Source Contribution Function (PSCF), Concentration Weighted Trajectories (CWT), Residence Time Weighted Concentration (RTWC) etc.
 </p>
 
-<center>
-![Representational learning of Trajectories using seq2seq Autoencoder.](/images/est.png){width=70%} 
-</center>
+<span>
+<a href="https://github.com/pankajkarman/hytraj" class="btn btn-primary">GitHub</a>  
+<a href="https://pubs.acs.org/doi/10.1021/acs.est.0c08491" class="btn btn-primary">ES&T Paper</a> 
+<a href="https://pubs.rsc.org/en/content/articlelanding/2022/EM/D1EM00383F" class="btn btn-primary">ESPI Paper</a> 
+</span>
 
-<p></p>
+</div>
+</div>
+</div>
+
+</div>
 
