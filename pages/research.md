@@ -31,7 +31,7 @@
 <!--For Dimensions badges-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A">Online calculation of aerosol optics in atmospheric models with ML</h1>
+<h1 style="background-color: #ADD8E6; color:#A52A2A">Acceleration of weather/climate forecasting models using Machine Learning</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -44,7 +44,7 @@
 </p> 
 
 <p align='justify'>
-I am devising a novel and computationally inexpensive machine learning approach for online representation of the aerosol optical properties. These properties are fully coupled with the chemical and microphysical variability of particles. I am implementing this approach in <a href="https://www.imk-tro.kit.edu/english/5925.php" style="text-decoration: underline">ICON-ART model</a>.
+I am developing a novel and computationally inexpensive machine learning approach for online representation of the aerosol optical properties. These properties are fully coupled with the chemical and microphysical variability of particles. I am implementing this approach in <a href="https://www.imk-tro.kit.edu/english/5925.php" style="text-decoration: underline">ICON-ART model</a>.
 </p>
 
 <span>

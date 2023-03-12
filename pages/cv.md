@@ -78,7 +78,7 @@
     
     <li>Trajectory Modeling and Analysis</li>
     
-    <li>Causal Network Analysis</li>
+    <li>Causal Machine Learning</li>
     
     <li>Natural Language Processing</li>
 </ul>
@@ -154,7 +154,7 @@
 <p> 
 <ul>
     <li><strong>Trajectory Modeling</strong>: HySPLIT</li>
-    <li><strong>Atmospheric modeling</strong>: WRF, GEOS-Chem, climlab</li>
+    <li><strong>Atmospheric modeling</strong>: WRF, GEOS-Chem, ICON-ART</li>
     <li><strong>Radiative Transfer Modeling</strong>: RRTMG</li>
     
 </ul>

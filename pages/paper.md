@@ -89,7 +89,6 @@
 <li>
 <p>R. Kashyap, J. Kuttippurath and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions of India during the past two decades is driven by climate change and anthropogenic intrusions, </em> Journal of Environmental Management, 2023 [<a href="https://doi.org/10.1016/j.jenvman.2023.117655">link</a>].</p>
 
-<!--
 <div class="container">
 <div class="row">
 
@@ -106,7 +105,6 @@
 </div>
 
 <BR> <BR>
--->
 
 </li>
 
