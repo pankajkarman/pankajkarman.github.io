@@ -31,7 +31,7 @@
 <!--For Dimensions badges-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A">Investigation of Geophysical phenomena using XAI and Causal Machine Learning</h1>
+<h1 style="background-color: #ADD8E6; color:#A52A2A">Study of Geophysical phenomena using XAI and Causal Machine Learning</h1>
 
 <div class="card-deck">
   <div class="card">
