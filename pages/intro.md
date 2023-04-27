@@ -55,10 +55,8 @@ display: flex;
     <div class="card-body ">
     <img src="/images/me2.jpg" class="rounded-circle card-img-left" width="360" style="float: right; padding: 5px 15px 15px 25px;">
     <p class="card-text"style='font-size: large' align='left'> Hi, My name is Pankaj. I am a post-doctoral researcher at <a href='https://www.imk-tro.kit.edu/english/3487.php' style="text-decoration: underline">Karlsruhe Institute of Technology (KIT) Germany</a> and being advised by <a href='https://www.imk-tro.kit.edu/english/3521_7223.php' style="text-decoration: underline">Dr. Gholamali Hoshyaripour</a>. I am a passionate atmospheric scientist and a machine learning enthusiast. I am currently working on the acceleration of weather and climate forecasting simulations using Machine Learning. My research interests include <a href='https://www.imk-tro.kit.edu/english/5925.php' style="text-decoration: underline">Atmospheric Modeling</a> and <a href='https://utorontomist.medium.com/introduction-to-causal-inference-in-machine-learning-41045700611c' style="text-decoration: underline">Causal Machine Learning (broadly Explainable AI)</a>. I develop <a href='https://github.com/pankajkarman' style="text-decoration: underline">open source tools for modeling and analysis in python</a>.</p>
-    
-    
-   <p class="card-text"style='font-size: large' align='left'>
-   
+     
+   <p class="card-text"style='font-size: large' align='left'>   
     During my PhD, I studied the interactions between chemistry and weather/climate using Chemistry Transport Models (CTMs) and Explainable Artificial Intelligence (XAI) as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="https://www.atmoslabiitkgp.com/spr" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. </p>
 
 <p class="card-text"style='font-size: large' align='left'>
@@ -69,7 +67,6 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
 </div>
 </div>
 </div>
-
 <br/>
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>News Highlights</h1>
