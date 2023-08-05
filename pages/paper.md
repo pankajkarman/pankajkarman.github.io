@@ -72,7 +72,11 @@
 </li>
 
 <li>
-<p>Rahul Kumar, Jayanarayanan Kuttippurath, <strong> Pankaj Kumar</strong>, and G. S. Gopikrishnan: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> submitted.</p>
+<p>Rahul Kumar, Jayanarayanan Kuttippurath, <strong> Pankaj Kumar</strong>, and G. S. Gopikrishnan: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> npj Climate and Atmospheric Science, under review.</p>
+</li>
+
+<li>
+<p><a href="https://agdhruv.github.io/">Dhruv Aggrawal</a>, <a href="https://www.microsoft.com/en-us/research/people/sriyengar/">Srinivasan Iyengar</a> and <strong>Pankaj Kumar</strong>: <em>PollutionMapper: Identifying Global Air Pollution Sources, </em> ACM Journal on Computing and Sustainable Societies, accepted.</p>
 </li>
 
 </ul>
