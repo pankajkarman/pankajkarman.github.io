@@ -23,6 +23,7 @@
 <!--For Dimensions badges-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+<!--
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>In Preparation / to be submitted</h1>
 
@@ -48,7 +49,7 @@
 </div>
 
 <br/>
-
+-->
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Under Review</h1>
 
@@ -71,14 +72,6 @@
 <p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Sources, variability, long–term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Journal of Environmental Management, submitted.</p>
 </li>
 
-<li>
-<p>Rahul Kumar, Jayanarayanan Kuttippurath, <strong> Pankaj Kumar</strong>, and G. S. Gopikrishnan: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> npj Climate and Atmospheric Science, under review.</p>
-</li>
-
-<li>
-<p><a href="https://agdhruv.github.io/">Dhruv Aggrawal</a>, <a href="https://www.microsoft.com/en-us/research/people/sriyengar/">Srinivasan Iyengar</a> and <strong>Pankaj Kumar</strong>: <em>PollutionMapper: Identifying Global Air Pollution Sources, </em> ACM Journal on Computing and Sustainable Societies, accepted.</p>
-</li>
-
 </ul>
 
        </p>
@@ -97,6 +90,29 @@
       <p class="card-text" align='left'>
 
 <ul>
+
+<li>    
+<p>Rahul Kumar, Jayanarayanan Kuttippurath, G. S. Gopikrishnan, <strong> Pankaj Kumar</strong> & Hamza Varikoden: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> npj Climate and Atmospheric Science, 2023 [<a href="https://doi.org/10.1038/s41612-023-00494-0">link</a>].</p>
+
+<!--
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1038/s41612-023-00494-0' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41612-023-00494-0" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+-->
+</li>
 
 <li>
 <p>R. Kashyap, J. Kuttippurath and <strong>P. Kumar</strong>: <em>Browning of vegetation in efficient carbon sink regions of India during the past two decades is driven by climate change and anthropogenic intrusions, </em> Journal of Environmental Management, 2023 [<a href="https://doi.org/10.1016/j.jenvman.2023.117655">link</a>].</p>
@@ -117,9 +133,14 @@
 </div>
 
 <BR> <BR>
-
 </li>
 
+
+<!--
+<li>
+<p><a href="https://agdhruv.github.io/">Dhruv Aggrawal</a>, <a href="https://www.microsoft.com/en-us/research/people/sriyengar/">Srinivasan Iyengar</a> and <strong>Pankaj Kumar</strong>: <em>PollutionMapper: Identifying Global Air Pollution Sources, </em> ACM Journal on Computing and Sustainable Societies, 2023.</p>
+</li>
+-->
 
 <li>
 <p>R. Roy, J. Kuttippurath, F. Lefèvre, S. Raj, and <strong>P. Kumar</strong>: <em>The Sudden Stratospheric Warming and Chemical ozone loss in the Antarctic winter 2019: Comparison with the winters of 1988 and 2002</em>, Theoretical and Applied Climatology, 2022 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
