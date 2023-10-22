@@ -94,7 +94,6 @@
 <li>    
 <p>Rahul Kumar, Jayanarayanan Kuttippurath, G. S. Gopikrishnan, <strong> Pankaj Kumar</strong> & Hamza Varikoden: <em>Enhanced surface temperature over India in 1980-2020: Casual links of the drivers, trends and future projections, </em> npj Climate and Atmospheric Science, 2023 [<a href="https://doi.org/10.1038/s41612-023-00494-0">link</a>].</p>
 
-<!--
 <div class="container">
 <div class="row">
 
@@ -105,13 +104,14 @@
 
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<!--
 <div class="__dimensions_badge_embed__" data-doi="10.1038/s41612-023-00494-0" data-legend="hover-right"></div>
+-->
 </div>
 </div>
 </div>
 
 <BR> <BR>
--->
 </li>
 
 <li>
