@@ -104,9 +104,7 @@
 
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-<!--
 <div class="__dimensions_badge_embed__" data-doi="10.1038/s41612-023-00494-0" data-legend="hover-right"></div>
--->
 </div>
 </div>
 </div>
