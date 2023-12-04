@@ -51,7 +51,7 @@
 <br/>
 -->
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Under Review</h1>
+<h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Forthcoming</h1>
 
 <div class="card-deck">
   <div class="card">
@@ -59,6 +59,10 @@
       <p class="card-text" align='left'>
 
 <ul>
+
+<li>
+<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, submitted. </p>
+</li>
 
 <li>
 <p>Raina Roy, <strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Franck Lefevre: <em>Chemical ozone loss and chlorine activation in the Antarctic winters 2013–2020, </em> Atmospheric Chemistry and Physics, in revision [<a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1189/">link</a>].</p>
@@ -88,7 +92,28 @@
 <ul>
 
 <li>
-<p>J. Kuttippurath, V. K. Patel, R. Roy, and <strong>P. Kumar</strong>: <em>Sources, variability, long-term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Environmental Science and Pollution Research, accepted.</p>
+<p>Jayanarayanan Kuttippurath, Vikas Kumar Patel, Raina Roy, and <strong>Pankaj Kumar</strong>: <em>Sources, variability, long-term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Environmental Science and Pollution Research, 2023 [<a href="https://doi.org/10.1007/s11356-023-31245-6">link</a>].</p>
+
+<!--
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1007/s11356-023-31245-6' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1007/s11356-023-31245-6" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+-->
+
+<BR> <BR>
+
 </li>
 
 <li>    
