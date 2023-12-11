@@ -61,7 +61,7 @@
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, submitted. </p>
+<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, under review. </p>
 </li>
 
 <li>
