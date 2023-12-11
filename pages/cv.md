@@ -192,9 +192,30 @@
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
+    <center> <img src="/images/aop.png" width="100%">  </center>
+    <br/>
+      <h3 class="card-title" align="left">Research Associate, Aerosol and Reactive Tracer Modelling, KIT Germany, 2022 - Present</h3>
+      <p class="card-text" align='justify'>
+<ul>
+
+<li> Developed <strong>MieAI</strong>, a neural network for emulating the calculation of optical properteis of mixed mode aerosols.</li><BR/>
+<li>  Working on <strong>acceleration of ICON-ART simulations</strong> using <strong>Machine Learning.</strong></li><BR/>
+<li> Developed <strong>mineral dust pre-processor</strong> for ICON modeling system.</li><BR/>
+<li> Authoring user-friendly <strong>post-processing library for ICON-ART</strong> in python.</li><BR/>
+</ul>
+</p>
+    </div>
+  </div>
+</div>
+
+<BR/>
+
+<div class="card-deck">
+  <div class="card">
+    <div class="card-body">
     <center> <img src="/images/acp.png" width="70%">  </center>
     <br/>
-      <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - Present</h3>
+      <h3 class="card-title" align="left">Research Scholar, ATMOS Lab, IIT Kharagpur, 2017 - 2022</h3>
       <p class="card-text" align='justify'>
 <ul>
 <li>  Merged and <strong>bias-corrected</strong> long term data record of vertical profiles
