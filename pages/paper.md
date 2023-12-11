@@ -94,7 +94,6 @@
 <li>
 <p>Jayanarayanan Kuttippurath, Vikas Kumar Patel, Raina Roy, and <strong>Pankaj Kumar</strong>: <em>Sources, variability, long-term trends and radiative forcing of the aerosols in the Arctic: Implications for Arctic amplification, </em> Environmental Science and Pollution Research, 2023 [<a href="https://doi.org/10.1007/s11356-023-31245-6">link</a>].</p>
 
-<!--
 <div class="container">
 <div class="row">
 
@@ -109,8 +108,6 @@
 </div>
 </div>
 </div>
-
--->
 
 <BR> <BR>
 
