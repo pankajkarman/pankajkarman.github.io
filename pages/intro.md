@@ -243,7 +243,7 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, under review. </p>
+<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, under review [<a href="https://arxiv.org/abs/2312.06497">link</a>]. </p>
 </li>
 
 <li>    
