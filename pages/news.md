@@ -75,7 +75,7 @@ display: flex;
 
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="http://www.kurzweilai.net/images/logo_phys_org.png" width="210" height="220">
+  <img class="card-img-top" src="https://s3.amazonaws.com/media.muckrack.com/groups/icons/phys.png" width="210" height="220">
     <div class="card-body">
     <h3 class="card-title" align="left">Phys.org</h3>
       <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>

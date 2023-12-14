@@ -75,6 +75,7 @@ I am developing a novel and computationally inexpensive machine learning approac
 
 <span>
 <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-13559.html" class="btn btn-primary">EGU2023 Abstract</a>
+<a href="https://arxiv.org/abs/2312.06497" class="btn btn-primary">Arxiv paper 2023</a>
 </span>
 
 </div>

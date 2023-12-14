@@ -112,7 +112,7 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="http://www.kurzweilai.net/images/logo_phys_org.png" width="400" height="245">
+  <img class="card-img-top" src="https://s3.amazonaws.com/media.muckrack.com/groups/icons/phys.png" width="400" height="245">
     <div class="card-body">
     <h3 class="card-title" align="left">Phys.org</h3>
       <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
@@ -149,7 +149,23 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
 
 <h1 style="background-color: #ADD8E6; color:#A52A2A" align='center'>Open Source Projects</h1>
 
-<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+<div class="col mb-4 row-eq-height">  
+  <div class="card">
+    
+    <div class="card-body">
+      <h3 class="card-title">MieAI</h3>
+      <p class="card-text" align='left'>A neural network based emulation of Mie scattering theory for calculating optical properties of internally mixed aerosols in atmospheric models.</p>
+    
+    <span>
+    <a href="https://github.com/pankajkarman/MieAI" class="btn btn-primary">Go to Project</a>
+    <a href="https://arxiv.org/abs/2312.06497" class="btn btn-primary">Arxiv Paper</a>
+    </span> 
+    </div> 
+  </div>
+</div>
+
+
 <div class="col mb-4 row-eq-height">  
   <div class="card">
     
@@ -187,6 +203,8 @@ I received my Master of Technology (MTech) degree in Earth System Science and Te
     <div class="card-body">
       <h3 class="card-title">pyvortex</h3>
       <p class="card-text" align='left'>A python package for polar vortex analysis.  It includes functions to calculate equivalent latitude and edge of polar vortex using Nash criteria (important for polar ozone hole studies).</p>
+      
+      <BR>
       
     <span>
     <a href="https://github.com/pankajkarman/pyvortex" class="btn btn-primary">Go to Project</a>
