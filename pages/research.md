@@ -61,7 +61,7 @@ The discovery of causal structures behind a phenomenon under investigation has b
 
 <div class="card-deck">
   <div class="card">
-  <img class="card-img-top" src="/images/mie.png">
+  <img class="card-img-top" src="/images/aop.png">
     <div class="card-body">
       <p class="card-text" align='justify'>
       
