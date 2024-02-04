@@ -31,6 +31,64 @@
 <!--For Dimensions badges-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+<h1 style="background-color: #ADD8E6; color:#A52A2A">Development of ICON-SmART Earth System Model </h1>
+
+<div class="card-deck">
+  <div class="card">
+  <img class="card-img-top" src="/images/smart.jpg">
+    <div class="card-body">
+      <p class="card-text" align='justify'>
+  
+<p align='justify'>  
+
+ICON includes component models for the atmosphere (ICON-A), the ocean together with sea-ice (ICON-O), the land (ICON-L) and chemistry (ICON-ART), which can be used as separate models, or coupled together as a earth-system model with the option to include the full carbon cycle, bio-geochemical processes in the ocean and complex treatment of land processes. ICON-Seamless-ART (ICON-SmART) addresses the role of aerosols and atmospheric chemistry for the simulation of seasonal to decadal climate variability and change. This Earth system model will enhance the capabilities of the coupled composition, weather and climate modelling system ICON-ART (ICON, icosahedral nonhydrostatic model – developed by DWD, MPI-M and DKRZ with the atmospheric composition module ART, aerosols and reactive trace gases – developed by KIT) for seasonal to decadal predictions and climate projections in seamless global to regional model configurations. This will provide scientists, forecasters and policy-makers with a tool to investigate atmospheric composition in a changing climate and allows us to answer questions that have been previously out of reach.
+
+</p> 
+
+
+<span>
+<a href="https://www.icon-model.org/" class="btn btn-primary">ICON</a>
+<a href="https://www.icon-art.kit.edu/userguide/index.php?title=Main_Page" class="btn btn-primary">ICON-ART</a>
+<a href="https://www.hans-ertel-zentrum.de/Projekte/ICON-SmART.html" class="btn btn-primary">ICON-SmART</a>
+</span>
+
+</div>
+</div>
+</div>
+
+</div>
+
+<BR>
+
+<h1 style="background-color: #ADD8E6; color:#A52A2A">Acceleration of weather/climate forecasting models using Machine Learning</h1>
+
+<div class="card-deck">
+  <div class="card">
+  <img class="card-img-top" src="/images/aop.png">
+    <div class="card-body">
+      <p class="card-text" align='justify'>
+      
+      Aerosols affect weather and climate by absorbing and scattering radiation. Such effects strongly depend on the optical properties of aerosols that are mainly controlled by their other characteristics like size distribution, morphology and chemical composition. Chemistry and aerosol microphysics constantly modify these characteristics causing a large spatial and temporal variability. Most atmospheric models cannot account for this variability as they rely on look-up table to treat aerosol optics. This simplification can lead to large errors in weather and climate models when it comes to aerosol radiative impacts. 
+
+</p> 
+
+<p align='justify'>
+I am developing a novel and computationally inexpensive machine learning approach for online representation of the aerosol optical properties. These properties are fully coupled with the chemical and microphysical variability of particles. I am implementing this approach in <a href="https://www.icon-art.kit.edu/" style="text-decoration: underline">ICON-ART model</a>.
+</p>
+
+<span>
+<a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-13559.html" class="btn btn-primary">EGU2023 Abstract</a>
+<a href="https://arxiv.org/abs/2312.06497" class="btn btn-primary">Arxiv paper 2023</a>
+</span>
+
+</div>
+</div>
+</div>
+
+</div>
+
+<BR>
+
 <h1 style="background-color: #ADD8E6; color:#A52A2A">Study of Geophysical phenomena using XAI and Causal Machine Learning</h1>
 
 <div class="card-deck">
@@ -46,36 +104,6 @@ The discovery of causal structures behind a phenomenon under investigation has b
 <a href="https://doi.org/10.1038/s41612-023-00494-0" class="btn btn-primary">NPJ2023 Paper</a>
 <a href="https://doi.org/10.1016/j.jenvman.2023.117655" class="btn btn-primary">JEM2023 Paper</a>
 <a href="https://doi.org/10.1039/D1EM00383F" class="btn btn-primary">RSC2022 Paper</a>
-</span>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<BR>
-
-
-<h1 style="background-color: #ADD8E6; color:#A52A2A">Acceleration of weather/climate forecasting models using Machine Learning</h1>
-
-<div class="card-deck">
-  <div class="card">
-  <img class="card-img-top" src="/images/aop.png">
-    <div class="card-body">
-      <p class="card-text" align='justify'>
-      
-      Aerosols affect weather and climate by absorbing and scattering radiation. Such effects strongly depend on the optical properties of aerosols that are mainly controlled by their other characteristics like size distribution, morphology and chemical composition. Chemistry and aerosol microphysics constantly modify these characteristics causing a large spatial and temporal variability. Most atmospheric models cannot account for this variability as they rely on look-up table to treat aerosol optics. This simplification can lead to large errors in weather and climate models when it comes to aerosol radiative impacts. 
-
-</p> 
-
-<p align='justify'>
-I am developing a novel and computationally inexpensive machine learning approach for online representation of the aerosol optical properties. These properties are fully coupled with the chemical and microphysical variability of particles. I am implementing this approach in <a href="https://www.imk-tro.kit.edu/english/5925.php" style="text-decoration: underline">ICON-ART model</a>.
-</p>
-
-<span>
-<a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-13559.html" class="btn btn-primary">EGU2023 Abstract</a>
-<a href="https://arxiv.org/abs/2312.06497" class="btn btn-primary">Arxiv paper 2023</a>
 </span>
 
 </div>
