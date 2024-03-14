@@ -106,19 +106,19 @@
 <ul>
 
 <li>
-<p>Raina Roy, <strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Franck Lefevre: <em>Chemical ozone loss and chlorine activation in the Antarctic winters 2013–2020, </em> Atmospheric Chemistry and Physics, 2024 [<a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1189/">link</a>].</p>
+<p>Raina Roy, <strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Franck Lefevre: <em>Chemical ozone loss and chlorine activation in the Antarctic winters 2013–2020, </em> Atmospheric Chemistry and Physics, 2024 [<a href="https://doi.org/10.5194/acp-24-2377-2024">link</a>].</p>
 
 <div class="container">
 <div class="row">
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.5194/egusphere-2023-1189' data-badge-popover="right"></div>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.5194/acp-24-2377-2024' data-badge-popover="right"></div>
   <p></p>
 </div>
 
 
 <div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-<div class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2023-1189" data-legend="hover-right"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.5194/acp-24-2377-2024" data-legend="hover-right"></div>
 </div>
 </div>
 </div>
