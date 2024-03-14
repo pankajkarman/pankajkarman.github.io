@@ -183,127 +183,110 @@ navbar-dark bg-dark
 		    transition: .8s ease-in-out;
 		}
     </style>
-<script src="../js/three.min.js"></script><script src="../js/orbit_controls.js"></script><script>
-        var mapUrl = "/images/earth/earth_texture.jpg";
-        const fov = 37;
-	const width = window.innerWidth;
-	const height = window.innerHeight;
-	const nfield = 0.1;
-	const ffield = 1000;
-	const mrad = 25;
-	var r = 6.0 * height / width;
-	//var r = Math.min(width, height);
-	
-	var r1 = r * 1.01;
-	
-	var z = r * 1.5 / Math.tan(Math.PI* fov/ 360) ;
-	
-        if (width < height) {
-            z *= 0.8 * height / width ;
-         }        
+<script src="../js/three.min.js"></script>
+<script src="../js/orbit_controls.js"></script>
+<script>
+    var mapUrl = "/images/earth/earth_texture.jpg";
+    const fov = 37;
+    var width = window.innerWidth;
+    var height = window.innerHeight;
+    const nfield = 0.1;
+    const ffield = 1000;
+    const mrad = 25;
+    var r = 6.0 * height / width;
+    var r1 = r * 1.01;
+    var z = r * 1.5 / Math.tan(Math.PI * fov / 360);
 
-	const loader = new THREE.TextureLoader();
-	var scene = new THREE.Scene();
-	var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
+    const loader = new THREE.TextureLoader();
+    var scene = new THREE.Scene();
+    var camera = new THREE.PerspectiveCamera(fov, width / height, nfield, ffield);
 
-        var light = new THREE.AmbientLight( 0x888888 )
-        scene.add( light )
+    var light = new THREE.AmbientLight(0x888888)
+    scene.add(light)
 
-        var light = new THREE.DirectionalLight( 0xfdfcf0, 1 )
-        light.position.set(10,10,10)
-        scene.add( light )
+    var light = new THREE.DirectionalLight(0xfdfcf0, 1)
+    light.position.set(10, 10, 10)
+    scene.add(light)
 
-        var geometry = new THREE.SphereGeometry(r, 50, 50);  
-        var material = new THREE.MeshBasicMaterial({
-            map: new loader.load(mapUrl),
-            bumpMap : new loader.load("/images/earthbump1k.jpg"),
-            bumpScale : 0.75,
-            color: 0xaaaaaa, 
-            specular: 0x333333,
-            shininess: 25
-            });
+    var geometry = new THREE.SphereGeometry(r, 50, 50);
+    var material = new THREE.MeshBasicMaterial({
+        map: new loader.load(mapUrl),
+        bumpMap: new loader.load("/images/earthbump1k.jpg"),
+        bumpScale: 0.75,
+        color: 0xaaaaaa,
+        specular: 0x333333,
+        shininess: 25
+    });
 
-        var earth = new THREE.Mesh(geometry, material);
-        scene.add(earth);
+    var earth = new THREE.Mesh(geometry, material);
+    scene.add(earth);
 
-        //Clouds
-        var cloudGeometry = new THREE.SphereGeometry(r1,  50, 50);
-        var cloudMaterial = new THREE.MeshBasicMaterial({
-          map: new loader.load("/images/earth/clouds.jpg"),
-          transparent: true,
-          opacity: 0.1
-        });
-        var clouds = new THREE.Mesh(cloudGeometry, cloudMaterial);
-        scene.add(clouds);
+    var cloudGeometry = new THREE.SphereGeometry(r1, 50, 50);
+    var cloudMaterial = new THREE.MeshBasicMaterial({
+        map: new loader.load("/images/earth/clouds.jpg"),
+        transparent: true,
+        opacity: 0.1
+    });
+    var clouds = new THREE.Mesh(cloudGeometry, cloudMaterial);
+    scene.add(clouds);
 
-        //Starfield
-        var starGeometry = new THREE.SphereGeometry(100, 50, 50);
-        var starMaterial = new THREE.MeshPhongMaterial({
-          map: new loader.load("/images/earth/galaxy_starfield.png"),
-          side: THREE.DoubleSide,
-          shininess: 0
-        });
-        var starField = new THREE.Mesh(starGeometry, starMaterial);
-        //scene.add(starField);
+    var starGeometry = new THREE.SphereGeometry(100, 50, 50);
+    var starMaterial = new THREE.MeshPhongMaterial({
+        map: new loader.load("/images/earth/galaxy_starfield.png"),
+        side: THREE.DoubleSide,
+        shininess: 0
+    });
+    var starField = new THREE.Mesh(starGeometry, starMaterial);
 
-        //Moon 
-        var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
-        var moonMaterial = new THREE.MeshPhongMaterial({
-          map: new loader.load("/images/earth/moon_texture.jpg"),
-          color: 0xaaaaaa, 
-        });
-        var moon = new THREE.Mesh(moonGeometry, moonMaterial);
-        moon.position.set(mrad,0,0);
-        //scene.add(moon);
+    var moonGeometry = new THREE.SphereGeometry(2.5, 50, 50);
+    var moonMaterial = new THREE.MeshPhongMaterial({
+        map: new loader.load("/images/earth/moon_texture.jpg"),
+        color: 0xaaaaaa,
+    });
+    var moon = new THREE.Mesh(moonGeometry, moonMaterial);
+    moon.position.set(mrad, 0, 0);
+
+    camera.position.z = z;
+    earth.rotation.x = 0.4;
+
+    var renderer = new THREE.WebGLRenderer({
+        antialias: true
+    });
+    renderer.setSize(width, height, false);
+    document.body.appendChild(renderer.domElement);
+    var orbit = new THREE.OrbitControls(camera, renderer.domElement)
+
+    var earthVec = new THREE.Vector3(0, 0, 0);
+
+    function render() {
+        requestAnimationFrame(render);
+
+        earth.rotation.y += 0.005;
+        clouds.rotation.y += .0055;
 
         camera.position.z = z;
-        earth.rotation.x = 0.4;
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
 
-        var renderer = new THREE.WebGLRenderer({ antialias: true });        
-        renderer.setSize(width, height, false);
-        document.body.appendChild(renderer.domElement);
-        var orbit = new THREE.OrbitControls( camera, renderer.domElement )
+        camera.lookAt(earthVec);
 
-        var r = mrad;
-        var theta = 0;
-        var dTheta = 2 * Math.PI / 1000;
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.render(scene, camera);
+    };
 
-            //Set position increments
-        var dx = .01;
-        var dy = -.01;
-        var dz = -.05;
-
-
-        var earthVec = new THREE.Vector3(0,0,0);
-
-        function render() {
-            requestAnimationFrame( render );
-
-            //earth.rotation.x += 0.1;
-            earth.rotation.y += 0.005;
-            clouds.rotation.y += .0055;
-
-            theta += dTheta;
-            //moon.position.x = r * Math.cos(theta);
-            //moon.position.z = r * Math.sin(theta);
-
-            //Update the camera position
-            //camera.position.x += dx;
-            //camera.position.y += dy;
-            //camera.position.z += dz;
-
-            //Flyby reset
-            //if (camera.position.z < 0) {
-            //      camera.position.set(45,mrad,70);
-            //}
-
-            camera.lookAt(earthVec);
-
-            renderer.render( scene, camera );
-        };   
-
+    window.addEventListener('resize', function () {
+        width = window.innerWidth;
+        height = window.innerHeight;
+        z = r * 1.5 / Math.tan(Math.PI * fov / 360);
+        renderer.setSize(width, height);
+        camera.aspect = width / height;
+        camera.updateProjectionMatrix();
         render();
-    </script>
+    });
+
+    render();
+</script>
+
     
     <div class="home page show">
 		<div class="titles">
