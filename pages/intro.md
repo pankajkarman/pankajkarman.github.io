@@ -179,11 +179,12 @@ display: flex;
   
   <div class="col mb-4 row-eq-height">
   <div class="card">
-  <img class="card-img-top" src="https://s3.amazonaws.com/media.muckrack.com/groups/icons/phys.png" width="400" height="245">
+  <img class="card-img-top" src="https://www.thailandmedical.news/uploads/logo_manage/5bb4b92c421c0_2000px-United_Press_International_(UPI)_logo.png" width="400" height="205">
     <div class="card-body">
-    <h3 class="card-title" align="left">Phys.org</h3>
-      <p class="card-text" align='justify'>Ozone pollution has increased in Antarctica</p>
-    <a href="https://phys.org/news/2021-06-ozone-pollution-antarctica.html" class="btn btn-primary">Read Full Story</a>
+    <p></p>
+    <h3 class="card-title" align="left">UPI</h3>
+      <p class="card-text" align='justify'>Ozone pollution in Antarctica has risen steadily over last 25 years</p>
+    <a href="https://www.upi.com/Science_News/2021/06/16/india-antarctica-ozone-pollution-climate-change/5331623869203/" class="btn btn-primary">Read Full Story</a>
     </div>
   </div>
 </div>
