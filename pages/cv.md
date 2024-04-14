@@ -199,7 +199,7 @@
 <ul>
 
 <li> Developed <strong>MieAI</strong>, a neural network for emulating the calculation of optical properteis of mixed mode aerosols.</li><BR/>
-<li>  Working on <strong>acceleration of ICON-ART simulations</strong> using <strong>Machine Learning.</strong></li><BR/>
+<li> Coupled ICON-ART modeling system with <strong> Machine Learning model</strong> for faster and better parameterization of aerosol optics.</li><BR/>
 <li> Developed <strong>mineral dust pre-processor</strong> for ICON modeling system.</li><BR/>
 <li> Authoring user-friendly <strong>post-processing library for ICON-ART</strong> in python.</li><BR/>
 </ul>

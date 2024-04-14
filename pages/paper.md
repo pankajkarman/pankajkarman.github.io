@@ -61,28 +61,6 @@
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, in revision [<a href="https://arxiv.org/abs/2312.06497">link</a>]. </p>
-<!--
-<div class="container">
-<div class="row">
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.48550/arXiv:2312.06497v1 ' data-badge-popover="right"></div>
-  <p></p>
-</div>
-
-
-<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
-<div class="__dimensions_badge_embed__" data-doi="10.48550/arXiv:2312.06497v1 " data-legend="hover-right"></div>
-</div>
-</div>
-</div>
-
-<BR> <BR>
--->
-</li>
-
-<li>
 <p>Rohit Shukla, Leon Boegman, <strong>Pankaj Kumar</strong>, and Mayank Mishra: <em>Identifying climate factors driving harmful algal blooms in a large shallow lake using Causal Machine Learning, </em> Environmental Science and Technology Letters, submitted.</p>
 </li>
 
@@ -104,6 +82,28 @@
       <p class="card-text" align='left'>
 
 <ul>
+
+<li>
+<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Dr Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, accepted [<a href="https://arxiv.org/abs/2312.06497">link</a>]. </p>
+<!--
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.48550/arXiv:2312.06497v1 ' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.48550/arXiv:2312.06497v1 " data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+-->
+</li>
 
 <li>
 <p>Raina Roy, <strong>Pankaj Kumar</strong>, Jayanarayanan Kuttippurath, and Franck Lefevre: <em>Chemical ozone loss and chlorine activation in the Antarctic winters 2013–2020, </em> Atmospheric Chemistry and Physics, 2024 [<a href="https://doi.org/10.5194/acp-24-2377-2024">link</a>].</p>
