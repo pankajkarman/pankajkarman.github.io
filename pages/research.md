@@ -104,6 +104,7 @@ The discovery of causal structures behind a phenomenon under investigation has b
 <a href="https://doi.org/10.1038/s41612-023-00494-0" class="btn btn-primary">NPJ2023 Paper</a>
 <a href="https://doi.org/10.1016/j.jenvman.2023.117655" class="btn btn-primary">JEM2023 Paper</a>
 <a href="https://doi.org/10.1039/D1EM00383F" class="btn btn-primary">RSC2022 Paper</a>
+<a href="https://dx.doi.org/10.2139/ssrn.4821781" class="btn btn-primary">JEM2024 (preprint)</a>
 </span>
 
 </div>
