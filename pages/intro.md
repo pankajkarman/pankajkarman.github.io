@@ -260,7 +260,25 @@ display: flex;
 <ul>
 
 <li>
-<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, accepted [<a href="https://arxiv.org/abs/2312.06497">link</a>]. </p>
+<p><strong>Pankaj Kumar</strong>, Heike Vogel, Julia Bruckert, Lisa Janina Muth, and Gholam Ali Hoshyaripour: <em>MieAI: A neural network for calculating optical properties of internally mixed aerosol in atmospheric models, </em> npj Climate and Atmospheric Science, 2024 [<a href="https://doi.org/10.1038/s41612-024-00652-y">link</a>]. </p>
+
+<div class="container">
+<div class="row">
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+  <div data-badge-type='medium-donut' class='altmetric-embed' data-doi='10.1038/s41612-024-00652-y' data-badge-popover="right"></div>
+  <p></p>
+</div>
+
+
+<div class='col-lg-4 col-md-11.1 col-sm-11.1 col-11.1 ml-auto'>
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41612-024-00652-y" data-legend="hover-right"></div>
+</div>
+</div>
+</div>
+
+<BR> <BR>
+
 </li>
 
 <li>    
