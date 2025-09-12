@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pankaj Kumar (Posts about pandoc)</title><link>https://pankajkarman.github.io/</link><description></description><atom:link href="https://pankajkarman.github.io/categories/pandoc.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:pankaj.kmr1990@gmail.com"&gt;Pankaj Kumar&lt;/a&gt; </copyright><lastBuildDate>Sat, 06 Aug 2022 04:04:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Technical writing using Markdown</title><link>https://pankajkarman.github.io/blog/markdown/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pankaj Kumar (Posts about pandoc)</title><link>https://pankajkarman.github.io/</link><description></description><atom:link href="https://pankajkarman.github.io/categories/pandoc.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2025 &lt;a href="mailto:pankaj.kmr1990@gmail.com"&gt;Pankaj Kumar&lt;/a&gt; </copyright><lastBuildDate>Fri, 12 Sep 2025 08:52:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Technical writing using Markdown</title><link>https://pankajkarman.github.io/blog/markdown/</link><dc:creator>Pankaj Kumar</dc:creator><description>&lt;div&gt;&lt;style&gt;
 p a{
   text-decoration: underline;
 }
@@ -39,22 +39,22 @@ nav a{
 &lt;p&gt;In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by &lt;code&gt;.md&lt;/code&gt; file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Apart from that, the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.&lt;/p&gt;
 &lt;h3&gt;A brief introduction to markdown syntax&lt;/h3&gt;
 &lt;p&gt;Special symbols are used for formatting texts.&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;# A h1 header&lt;/span&gt;
-&lt;span class="err"&gt;## A h2 header&lt;/span&gt;
-&lt;span class="err"&gt;### A h3 header&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="gh"&gt;# A h1 header&lt;/span&gt;
+&lt;span class="gu"&gt;## A h2 header&lt;/span&gt;
+&lt;span class="gu"&gt;### A h3 header&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;Italic&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;bold&lt;/span&gt;&lt;span class="o"&gt;**&lt;/span&gt; &lt;span class="k"&gt;and&lt;/span&gt; &lt;span class="o"&gt;***&lt;/span&gt;&lt;span class="k"&gt;both&lt;/span&gt;&lt;span class="o"&gt;***&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ge"&gt;*Italic*&lt;/span&gt;, &lt;span class="gs"&gt;**bold**&lt;/span&gt; and ***both***
 
-&lt;span class="n"&gt;Paragraphs&lt;/span&gt; &lt;span class="k"&gt;are&lt;/span&gt; &lt;span class="n"&gt;separated&lt;/span&gt; &lt;span class="k"&gt;by&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;blank&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+Paragraphs are separated by a blank line.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Here is an unordered list:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;- apple&lt;/span&gt;
-&lt;span class="err"&gt;    - green apple&lt;/span&gt;
-&lt;span class="err"&gt;    - red apple&lt;/span&gt;
-&lt;span class="err"&gt;- banana&lt;/span&gt;
-&lt;span class="err"&gt;- orange&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;-&lt;/span&gt; apple
+    &lt;span class="k"&gt;-&lt;/span&gt; green apple
+    &lt;span class="k"&gt;-&lt;/span&gt; red apple
+&lt;span class="k"&gt;-&lt;/span&gt; banana
+&lt;span class="k"&gt;-&lt;/span&gt; orange
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;and it would be rendered as&lt;/p&gt;
@@ -70,11 +70,11 @@ nav a{
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Here is a numbered list:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;1. apple&lt;/span&gt;
-&lt;span class="err"&gt;    1. green apple&lt;/span&gt;
-&lt;span class="err"&gt;    1. red apple&lt;/span&gt;
-&lt;span class="err"&gt;2. banana&lt;/span&gt;
-&lt;span class="err"&gt;5. orange&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;1.&lt;/span&gt; apple
+    &lt;span class="k"&gt;1.&lt;/span&gt; green apple
+    &lt;span class="k"&gt;1.&lt;/span&gt; red apple
+&lt;span class="k"&gt;2.&lt;/span&gt; banana
+&lt;span class="k"&gt;5.&lt;/span&gt; orange
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;and it would be rendered as&lt;/p&gt;
@@ -90,23 +90,23 @@ nav a{
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Here is a link to the my website&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;Pankaj&lt;/span&gt; &lt;span class="n"&gt;Kumar&lt;/span&gt;&lt;span class="p"&gt;](&lt;/span&gt;&lt;span class="nl"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="c1"&gt;//pankajkarman.github.io/)&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[&lt;span class="nt"&gt;Pankaj Kumar&lt;/span&gt;](&lt;span class="na"&gt;https://pankajkarman.github.io/&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;and it would be rendered as &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href="https://pankajkarman.github.io/"&gt;Pankaj Kumar&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;~~Strikethrough text~~&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="gd"&gt;~~Strikethrough text~~&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;would be rendered as&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;del&gt;Strikethrough text&lt;/del&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;Some&lt;/span&gt; &lt;span class="nb"&gt;text&lt;/span&gt; &lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="n"&gt;Subscript&lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Some text ~Subscript~
 
-&lt;span class="k"&gt;Some&lt;/span&gt; &lt;span class="nb"&gt;text&lt;/span&gt; &lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="n"&gt;Superscript&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;
+Some text ^Superscript^
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;A list of useful links for further learning about Markdown&lt;/h4&gt;
@@ -130,10 +130,10 @@ nav a{
 &lt;p&gt;Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc, a swiss army knife for document conversion, using examples for typical document elements, such as tables, figures, formulas, code blocks and references. For more detailed discussion, please refer to the &lt;a href="http://pandoc.org/MANUAL.html"&gt;pandoc manual&lt;/a&gt;.&lt;/p&gt;
 &lt;h4&gt;Tables&lt;/h4&gt;
 &lt;p&gt;There are &lt;a href="https://pandoc.org/MANUAL.html#tables"&gt;several options&lt;/a&gt; to write tables in markdown; with pipe tables being the most flexible.  The contents of different cells are separated by pipe symbols. &lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Syntax&lt;/span&gt;      &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Description&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Text&lt;/span&gt;     &lt;span class="p"&gt;|&lt;/span&gt;
-&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="p"&gt;:-&lt;/span&gt;&lt;span class="s s-Atom"&gt;---&lt;/span&gt;        &lt;span class="p"&gt;|&lt;/span&gt;    &lt;span class="p"&gt;:-&lt;/span&gt;&lt;span class="s s-Atom"&gt;---:&lt;/span&gt;   &lt;span class="p"&gt;|&lt;/span&gt;          &lt;span class="s s-Atom"&gt;----:&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt;
-&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Header&lt;/span&gt;      &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Title&lt;/span&gt;       &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Here&lt;/span&gt;&lt;span class="err"&gt;'&lt;/span&gt;&lt;span class="s s-Atom"&gt;s&lt;/span&gt; &lt;span class="s s-Atom"&gt;this&lt;/span&gt;   &lt;span class="p"&gt;|&lt;/span&gt;
-&lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Paragraph&lt;/span&gt;   &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;Text&lt;/span&gt;        &lt;span class="p"&gt;|&lt;/span&gt; &lt;span class="nv"&gt;And&lt;/span&gt; &lt;span class="s s-Atom"&gt;more&lt;/span&gt;      &lt;span class="p"&gt;|&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;| Syntax      | Description | Text     |
+| :----        |    :----:   |          ----: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;would be rendered as &lt;/p&gt;
@@ -170,19 +170,19 @@ nav a{
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;The above python script saves the generated markdown table in a file named &lt;code&gt;table.md&lt;/code&gt; which contains:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;|Stations|Latitude|Longitude|Altitude| Period  |&lt;/span&gt;
-&lt;span class="err"&gt;|--------|-------:|--------:|-------:|---------|&lt;/span&gt;
-&lt;span class="err"&gt;|marb    |  -64.24|   -56.62|     198|2011-2015|&lt;/span&gt;
-&lt;span class="err"&gt;|mcmu    |  -77.82|   166.58|      11|1986-1992|&lt;/span&gt;
-&lt;span class="err"&gt;|arht    |  -77.80|   166.67|     184|1996-2015|&lt;/span&gt;
-&lt;span class="err"&gt;|neum    |  -70.65|    -8.25|      42|1982-2014|&lt;/span&gt;
-&lt;span class="err"&gt;|spol    |  -89.98|   -24.80|    2810|1975-2015|&lt;/span&gt;
-&lt;span class="err"&gt;|syow    |  -69.00|    39.58|      16|1997-2015|&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;|Stations|Latitude|Longitude|Altitude| Period  |
+|--------|-------:|--------:|-------:|---------|
+|marb    |  -64.24|   -56.62|     198|2011-2015|
+|mcmu    |  -77.82|   166.58|      11|1986-1992|
+|arht    |  -77.80|   166.67|     184|1996-2015|
+|neum    |  -70.65|    -8.25|      42|1982-2014|
+|spol    |  -89.98|   -24.80|    2810|1975-2015|
+|syow    |  -69.00|    39.58|      16|1997-2015|
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;Images&lt;/h4&gt;
 &lt;p&gt;An image can be inserted in markdown using:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;!&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="n"&gt;Caption&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;images&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;ex&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;png&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="n"&gt;#figure1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;width&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;55&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;![&lt;span class="nt"&gt;Caption&lt;/span&gt;](&lt;span class="na"&gt;images/ex.png&lt;/span&gt;){#figure1 width=55%}
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Here, figure1 is an identifier for the figure defined with # along with image dimension in braces. &lt;/p&gt;
@@ -190,16 +190,16 @@ nav a{
 &lt;p&gt;&lt;img alt="Caption" id="figure1" src="https://pankajkarman.github.io/images/pk.jpg" width="55%"&gt;&lt;/p&gt;
 &lt;h4&gt;Equations&lt;/h4&gt;
 &lt;p&gt;Equations are written in LaTeX mode using the delimiters $.&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;specify&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;inline&lt;/span&gt; &lt;span class="n"&gt;quation&lt;/span&gt; &lt;span class="k"&gt;like&lt;/span&gt; &lt;span class="n"&gt;LaTeX&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;z&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;You can specify an inline quation like LaTeX $x^2+y^2=z^2$
 
-&lt;span class="k"&gt;Or&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;block&lt;/span&gt; &lt;span class="k"&gt;level&lt;/span&gt; &lt;span class="n"&gt;equation&lt;/span&gt; &lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;dollar&lt;/span&gt; &lt;span class="n"&gt;signs&lt;/span&gt; &lt;span class="k"&gt;on&lt;/span&gt; &lt;span class="k"&gt;both&lt;/span&gt; &lt;span class="n"&gt;sides&lt;/span&gt; &lt;span class="k"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;equation&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
-&lt;span class="err"&gt;$$\&lt;/span&gt;&lt;span class="n"&gt;sum_&lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="err"&gt;}&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="err"&gt;\&lt;/span&gt;&lt;span class="n"&gt;frac&lt;/span&gt;&lt;span class="err"&gt;{&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;^&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="err"&gt;}{&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="err"&gt;}$$&lt;/span&gt;
+Or a block level equation with two dollar signs on both sides of the equation:
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;Code blocks&lt;/h4&gt;
 &lt;p&gt;To write code, you indent it by 4 spaces or a tab. Markdown will guess what language you are writing&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;    def main():&lt;/span&gt;
-&lt;span class="err"&gt;        print "Say Hello!!"&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    def main():
+        print "Say Hello!!"
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;would be rendered as&lt;/p&gt;
@@ -221,7 +221,7 @@ def say_hello():
 &lt;h4&gt;Citations/References&lt;/h4&gt;
 &lt;p&gt;The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter &lt;code&gt;--filter pandoc-citeproc&lt;/code&gt; is used, with variables for the reference database and the bibliography style. A separate &lt;code&gt;.bib&lt;/code&gt; file must contain the database of all references with corresponding keys. The used database can be defined either in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like &lt;a href="https://www.mendeley.com/"&gt;&lt;strong&gt;&lt;em&gt;Mendeley&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; and &lt;a href="https://www.zotero.org/"&gt;&lt;strong&gt;&lt;em&gt;Zotero&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; can help in creating and maintaining reference databases. &lt;/p&gt;
 &lt;p&gt;A citation is inserted by using the citation key given within square brackets preceded by '@' as follows:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;[@Solomon2016; @kuttippurath2018] &lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[@Solomon2016; &lt;span class="ni"&gt;@kuttippurath2018&lt;/span&gt;] 
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;The generated references will be inserted automatically below the header &lt;code&gt;# References&lt;/code&gt; or &lt;code&gt;# Bibliography&lt;/code&gt;.&lt;/p&gt;
@@ -229,11 +229,11 @@ def say_hello():
 &lt;p&gt;The Citation Style Language (CSL) is used for the citations and bibliographies. This file format is supported by all reference management softwares like Mendeley, Zotero etc. CSL files for a number of journals can be found at &lt;a href="https://github.com/citation-style-language/styles"&gt;this link&lt;/a&gt;. The bibliography style that pandoc should use for the target document can be specified in the YAML block of the Markdown document or can be passed in as a command line option. Journal reference styles can be easily changed by just changing CSL file to be used; saving lots of sweat while doing the adjustment as in MS Word.&lt;/p&gt;
 &lt;h4&gt;Meta information&lt;/h4&gt;
 &lt;p&gt;Document information such as title, authors, their affiliation, correspondence details, abstract, keywords etc. can be defined in a metadata block written in YAML syntax. Variables defined in the YAML section are processed by pandoc and integrated into the generated documents. The YAML metadata block is recognized by three hyphens (---) at the beginning, and three hyphens at the end. for example:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;---&lt;/span&gt;
-&lt;span class="c"&gt;title: Climate change causes increased heat waves&lt;/span&gt;
-&lt;span class="c"&gt;subtitle: heat waves&lt;/span&gt;
-&lt;span class="c"&gt;date: 2020-05-22&lt;/span&gt;
-&lt;span class="err"&gt;---&lt;/span&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;---
+title: Climate change causes increased heat waves
+subtitle: heat waves
+&lt;span class="gu"&gt;date: 2020-05-22&lt;/span&gt;
+&lt;span class="gu"&gt;---&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;Pandoc filters&lt;/h4&gt;

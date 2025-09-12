@@ -342,22 +342,22 @@ nav a{
 <p>In this blog, I'll explain how to write manuscripts in plain markdown text files recognised by <code>.md</code> file extension which can be easily converted into common formats, such as PDF, HTML, DOCX or EPUB using Pandoc. Apart from that, the use of templates enable the automated generation of documents according to specific journal styles. The simple syntax of markdown facilitates document editing and collaborative writing. Reducing the work spent on manuscript formatting translates directly to time and cost savings for all stakeholders, such as writers, publishers and readers.</p>
 <h3>A brief introduction to markdown syntax</h3>
 <p>Special symbols are used for formatting texts.</p>
-<pre class="code literal-block"><span></span><code><span class="err"># A h1 header</span>
-<span class="err">## A h2 header</span>
-<span class="err">### A h3 header</span>
+<pre class="code literal-block"><span></span><code><span class="gh"># A h1 header</span>
+<span class="gu">## A h2 header</span>
+<span class="gu">### A h3 header</span>
 </code></pre>
 
-<pre class="code literal-block"><span></span><code><span class="o">*</span><span class="n">Italic</span><span class="o">*</span><span class="p">,</span> <span class="o">**</span><span class="n">bold</span><span class="o">**</span> <span class="k">and</span> <span class="o">***</span><span class="k">both</span><span class="o">***</span>
+<pre class="code literal-block"><span></span><code><span class="ge">*Italic*</span>, <span class="gs">**bold**</span> and ***both***
 
-<span class="n">Paragraphs</span> <span class="k">are</span> <span class="n">separated</span> <span class="k">by</span> <span class="n">a</span> <span class="n">blank</span> <span class="n">line</span><span class="p">.</span>
+Paragraphs are separated by a blank line.
 </code></pre>
 
 <p>Here is an unordered list:</p>
-<pre class="code literal-block"><span></span><code><span class="err">- apple</span>
-<span class="err">    - green apple</span>
-<span class="err">    - red apple</span>
-<span class="err">- banana</span>
-<span class="err">- orange</span>
+<pre class="code literal-block"><span></span><code><span class="k">-</span> apple
+    <span class="k">-</span> green apple
+    <span class="k">-</span> red apple
+<span class="k">-</span> banana
+<span class="k">-</span> orange
 </code></pre>
 
 <p>and it would be rendered as</p>
@@ -373,11 +373,11 @@ nav a{
 </ul>
 </blockquote>
 <p>Here is a numbered list:</p>
-<pre class="code literal-block"><span></span><code><span class="err">1. apple</span>
-<span class="err">    1. green apple</span>
-<span class="err">    1. red apple</span>
-<span class="err">2. banana</span>
-<span class="err">5. orange</span>
+<pre class="code literal-block"><span></span><code><span class="k">1.</span> apple
+    <span class="k">1.</span> green apple
+    <span class="k">1.</span> red apple
+<span class="k">2.</span> banana
+<span class="k">5.</span> orange
 </code></pre>
 
 <p>and it would be rendered as</p>
@@ -393,23 +393,23 @@ nav a{
 </ol>
 </blockquote>
 <p>Here is a link to the my website</p>
-<pre class="code literal-block"><span></span><code><span class="p">[</span><span class="n">Pankaj</span> <span class="n">Kumar</span><span class="p">](</span><span class="nl">https</span><span class="p">:</span><span class="c1">//pankajkarman.github.io/)</span>
+<pre class="code literal-block"><span></span><code>[<span class="nt">Pankaj Kumar</span>](<span class="na">https://pankajkarman.github.io/</span>)
 </code></pre>
 
 <p>and it would be rendered as </p>
 <blockquote>
 <p><a href="https://pankajkarman.github.io/">Pankaj Kumar</a></p>
 </blockquote>
-<pre class="code literal-block"><span></span><code><span class="err">~~Strikethrough text~~</span>
+<pre class="code literal-block"><span></span><code><span class="gd">~~Strikethrough text~~</span>
 </code></pre>
 
 <p>would be rendered as</p>
 <blockquote>
 <p><del>Strikethrough text</del></p>
 </blockquote>
-<pre class="code literal-block"><span></span><code><span class="k">Some</span> <span class="nb">text</span> <span class="o">~</span><span class="n">Subscript</span><span class="o">~</span>
+<pre class="code literal-block"><span></span><code>Some text ~Subscript~
 
-<span class="k">Some</span> <span class="nb">text</span> <span class="o">^</span><span class="n">Superscript</span><span class="o">^</span>
+Some text ^Superscript^
 </code></pre>
 
 <h4>A list of useful links for further learning about Markdown</h4>
@@ -434,10 +434,10 @@ nav a{
 <p>Now, I'll describe the procedure for typesetting scientific manuscripts with Pandoc, a swiss army knife for document conversion, using examples for typical document elements, such as tables, figures, formulas, code blocks and references. For more detailed discussion, please refer to the <a href="http://pandoc.org/MANUAL.html">pandoc manual</a>.</p>
 <h4>Tables</h4>
 <p>There are <a href="https://pandoc.org/MANUAL.html#tables">several options</a> to write tables in markdown; with pipe tables being the most flexible.  The contents of different cells are separated by pipe symbols. </p>
-<pre class="code literal-block"><span></span><code><span class="p">|</span> <span class="nv">Syntax</span>      <span class="p">|</span> <span class="nv">Description</span> <span class="p">|</span> <span class="nv">Text</span>     <span class="p">|</span>
-<span class="p">|</span> <span class="p">:-</span><span class="s s-Atom">---</span>        <span class="p">|</span>    <span class="p">:-</span><span class="s s-Atom">---:</span>   <span class="p">|</span>          <span class="s s-Atom">----:</span> <span class="p">|</span>
-<span class="p">|</span> <span class="nv">Header</span>      <span class="p">|</span> <span class="nv">Title</span>       <span class="p">|</span> <span class="nv">Here</span><span class="err">'</span><span class="s s-Atom">s</span> <span class="s s-Atom">this</span>   <span class="p">|</span>
-<span class="p">|</span> <span class="nv">Paragraph</span>   <span class="p">|</span> <span class="nv">Text</span>        <span class="p">|</span> <span class="nv">And</span> <span class="s s-Atom">more</span>      <span class="p">|</span>
+<pre class="code literal-block"><span></span><code>| Syntax      | Description | Text     |
+| :----        |    :----:   |          ----: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 </code></pre>
 
 <p>would be rendered as </p>
@@ -472,19 +472,19 @@ nav a{
 </code></pre>
 
 <p>The above python script saves the generated markdown table in a file named <code>table.md</code> which contains:</p>
-<pre class="code literal-block"><span></span><code><span class="err">|Stations|Latitude|Longitude|Altitude| Period  |</span>
-<span class="err">|--------|-------:|--------:|-------:|---------|</span>
-<span class="err">|marb    |  -64.24|   -56.62|     198|2011-2015|</span>
-<span class="err">|mcmu    |  -77.82|   166.58|      11|1986-1992|</span>
-<span class="err">|arht    |  -77.80|   166.67|     184|1996-2015|</span>
-<span class="err">|neum    |  -70.65|    -8.25|      42|1982-2014|</span>
-<span class="err">|spol    |  -89.98|   -24.80|    2810|1975-2015|</span>
-<span class="err">|syow    |  -69.00|    39.58|      16|1997-2015|</span>
+<pre class="code literal-block"><span></span><code>|Stations|Latitude|Longitude|Altitude| Period  |
+|--------|-------:|--------:|-------:|---------|
+|marb    |  -64.24|   -56.62|     198|2011-2015|
+|mcmu    |  -77.82|   166.58|      11|1986-1992|
+|arht    |  -77.80|   166.67|     184|1996-2015|
+|neum    |  -70.65|    -8.25|      42|1982-2014|
+|spol    |  -89.98|   -24.80|    2810|1975-2015|
+|syow    |  -69.00|    39.58|      16|1997-2015|
 </code></pre>
 
 <h4>Images</h4>
 <p>An image can be inserted in markdown using:</p>
-<pre class="code literal-block"><span></span><code><span class="err">!</span><span class="o">[</span><span class="n">Caption</span><span class="o">]</span><span class="p">(</span><span class="n">images</span><span class="o">/</span><span class="n">ex</span><span class="p">.</span><span class="n">png</span><span class="p">)</span><span class="err">{</span><span class="n">#figure1</span><span class="w"> </span><span class="n">width</span><span class="o">=</span><span class="mi">55</span><span class="o">%</span><span class="err">}</span><span class="w"></span>
+<pre class="code literal-block"><span></span><code>![<span class="nt">Caption</span>](<span class="na">images/ex.png</span>){#figure1 width=55%}
 </code></pre>
 
 <p>Here, figure1 is an identifier for the figure defined with # along with image dimension in braces. </p>
@@ -492,16 +492,16 @@ nav a{
 <p><img alt="Caption" id="figure1" src="../images/pk.jpg" width="55%"></p>
 <h4>Equations</h4>
 <p>Equations are written in LaTeX mode using the delimiters $.</p>
-<pre class="code literal-block"><span></span><code><span class="n">You</span> <span class="n">can</span> <span class="n">specify</span> <span class="n">an</span> <span class="n">inline</span> <span class="n">quation</span> <span class="k">like</span> <span class="n">LaTeX</span> <span class="err">$</span><span class="n">x</span><span class="o">^</span><span class="mi">2</span><span class="o">+</span><span class="n">y</span><span class="o">^</span><span class="mi">2</span><span class="o">=</span><span class="n">z</span><span class="o">^</span><span class="mi">2</span><span class="err">$</span>
+<pre class="code literal-block"><span></span><code>You can specify an inline quation like LaTeX $x^2+y^2=z^2$
 
-<span class="k">Or</span> <span class="n">a</span> <span class="n">block</span> <span class="k">level</span> <span class="n">equation</span> <span class="k">with</span> <span class="n">two</span> <span class="n">dollar</span> <span class="n">signs</span> <span class="k">on</span> <span class="k">both</span> <span class="n">sides</span> <span class="k">of</span> <span class="n">the</span> <span class="n">equation</span><span class="p">:</span>
-<span class="err">$$\</span><span class="n">sum_</span><span class="err">{</span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="err">}</span><span class="o">^</span><span class="n">n</span> <span class="n">i</span><span class="o">^</span><span class="mi">2</span> <span class="o">=</span> <span class="err">\</span><span class="n">frac</span><span class="err">{</span><span class="p">(</span><span class="n">n</span><span class="o">^</span><span class="mi">2</span><span class="o">+</span><span class="n">n</span><span class="p">)(</span><span class="mi">2</span><span class="n">n</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span><span class="err">}{</span><span class="mi">6</span><span class="err">}$$</span>
+Or a block level equation with two dollar signs on both sides of the equation:
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 </code></pre>
 
 <h4>Code blocks</h4>
 <p>To write code, you indent it by 4 spaces or a tab. Markdown will guess what language you are writing</p>
-<pre class="code literal-block"><span></span><code><span class="err">    def main():</span>
-<span class="err">        print "Say Hello!!"</span>
+<pre class="code literal-block"><span></span><code>    def main():
+        print "Say Hello!!"
 </code></pre>
 
 <p>would be rendered as</p>
@@ -523,7 +523,7 @@ def say_hello():
 <h4>Citations/References</h4>
 <p>The efficient organization and typesetting of citations and bibliographies is crucial for academic writing. Pandoc supports various strategies for managing references. For processing the citations and the creation of the bibliography, the command line parameter <code>--filter pandoc-citeproc</code> is used, with variables for the reference database and the bibliography style. A separate <code>.bib</code> file must contain the database of all references with corresponding keys. The used database can be defined either in the YAML metablock of the markdown file or it can be passed as parameter when calling pandoc. Softwares like <a href="https://www.mendeley.com/"><strong><em>Mendeley</em></strong></a> and <a href="https://www.zotero.org/"><strong><em>Zotero</em></strong></a> can help in creating and maintaining reference databases. </p>
 <p>A citation is inserted by using the citation key given within square brackets preceded by '@' as follows:</p>
-<pre class="code literal-block"><span></span><code><span class="err">[@Solomon2016; @kuttippurath2018] </span>
+<pre class="code literal-block"><span></span><code>[@Solomon2016; <span class="ni">@kuttippurath2018</span>] 
 </code></pre>
 
 <p>The generated references will be inserted automatically below the header <code># References</code> or <code># Bibliography</code>.</p>
@@ -531,11 +531,11 @@ def say_hello():
 <p>The Citation Style Language (CSL) is used for the citations and bibliographies. This file format is supported by all reference management softwares like Mendeley, Zotero etc. CSL files for a number of journals can be found at <a href="https://github.com/citation-style-language/styles">this link</a>. The bibliography style that pandoc should use for the target document can be specified in the YAML block of the Markdown document or can be passed in as a command line option. Journal reference styles can be easily changed by just changing CSL file to be used; saving lots of sweat while doing the adjustment as in MS Word.</p>
 <h4>Meta information</h4>
 <p>Document information such as title, authors, their affiliation, correspondence details, abstract, keywords etc. can be defined in a metadata block written in YAML syntax. Variables defined in the YAML section are processed by pandoc and integrated into the generated documents. The YAML metadata block is recognized by three hyphens (---) at the beginning, and three hyphens at the end. for example:</p>
-<pre class="code literal-block"><span></span><code><span class="err">---</span>
-<span class="c">title: Climate change causes increased heat waves</span>
-<span class="c">subtitle: heat waves</span>
-<span class="c">date: 2020-05-22</span>
-<span class="err">---</span>
+<pre class="code literal-block"><span></span><code>---
+title: Climate change causes increased heat waves
+subtitle: heat waves
+<span class="gu">date: 2020-05-22</span>
+<span class="gu">---</span>
 </code></pre>
 
 <h4>Pandoc filters</h4>
@@ -656,7 +656,7 @@ def say_hello():
 </span>
 </p>
 <p>
-  Contents © 2024  Pankaj Kumar
+  Contents © 2025  Pankaj Kumar
 </p>
 </div>
 
@@ -673,17 +673,7 @@ def say_hello():
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script><!-- Start of StatCounter Code --><div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div>
-<script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&amp;FCS_type=999999&amp;down=async" async>
-</script><noscript>
-<a href="https://www.freecounterstat.com" title="web page hit counter">
-<img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&amp;FCS_type=999999" border="0" title="web page hit counter" alt="web page hit counter"></a>
-</noscript>
-<!-- End of StatCounter Code -->
-
-<!-- Start of Google Analytics -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174100738-1"></script><script>
+    </script><!-- End of StatCounter Code --><!-- Start of Google Analytics --><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-174100738-1"></script><script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
