@@ -61,16 +61,11 @@
 <ul>
 
 <li>
-<p>Rohit Shukla, Leon Boegman, <strong>Pankaj Kumar</strong>, and Mayank Mishra: <em>Identifying climate factors driving harmful algal blooms in a large shallow lake using Causal Machine Learning, </em> Environmental Science and Technology Letters, submitted.</p>
+<p>Maryam Moradpour, <strong>Pankaj Kumar</strong>, and Gholam Ali Hoshyaripour: <em>Convolutional Neural Networks for Wildfire Spread and Intensity Prediction, </em> Journal of Geophysical Research - Machine Learning and Computation, submitted.</p>
 </li>
 
 <li>
-<p>Rohit Shukla, Leon Boegman, and <strong>Pankaj Kumar</strong>: <em>Application of Interpretable Machine Learning and Causal Discovery to understand chlorophyll-a variation in a large shallow lake, </em> Journal of Environmental Management, submitted [<a href="https://dx.doi.org/10.2139/ssrn.4821781">preprint</a>].</p>
-</li>
-
-
-<li>
-<p>Rohit Shukla, Leon Boegman, and <strong>Pankaj Kumar</strong>: <em>Causal discovery of hydroclimatic drivers influencing water quality in a large lake, </em> Geophysical Research Letters, submitted.</p>
+<p>Gholam Ali Hoshyaripour, Andreas Baer, Sascha Bierbauer, Dominik Brunner, Jochen Förstner, Arash Hamzehloo, Valentin Hanft, Corina Keller, Martina Klose, <strong>Pankaj Kumar</strong>, Patrick Ludwig, Enrico Metzner, Lisa Muth, Andreas Pauling, Nikolas Porz, Thomas Reddmann, Luca Reißig, Roland Ruhnke, Khompat Satitkovitchai, Axel Seifert, Miriam Sinnhuber, Michael Steiner, Stefan Versick, Heike Vogel, Michael Weimer, Sven Werchner, and Corinna Hoose: <em>The Atmospheric Composition Component of the ICON modeling framework: ICON-ART version 2025.04, </em> Geoscientific Model Development, under review [<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3400/">link</a>].</p>
 </li>
 
 </ul>
@@ -448,6 +443,8 @@
 <p class="card-text">
       
 <ul>
+
+<li><p>Georgios Evangelopoulos, Gholamali Hoshyaripour, Jörg Meyer, <strong>Pankaj Kumar</strong>, Julia Bruckert and Achim Streit: <em>Accelerating Weather Forecasting: A Neural Network-Based Emulation of ISORROPIA</em>, eScience'25 (21st IEEE International eScience Conference), Chicago, USA, September 2025. </p></li>
 
 <li><p><strong>Pankaj Kumar</strong>, Heike Vogel, Roland Wirth, Daniel Krueger, Jochen Forstner, Corinna Hoose and Ali Hoshyaripour: <em>Coupling ICON-Seamless with ART: First results</em>, 14th REKLIM Workshop 2024, Bad Salzschlirf, Germany, March 2024. </p></li>
 
